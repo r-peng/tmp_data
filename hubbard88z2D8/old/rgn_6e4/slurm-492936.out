@@ -1,0 +1,4 @@
+mpirun: Forwarding signal 18 to job
+slurmstepd: error: *** JOB 492936 ON pauling007 CANCELLED AT 2023-05-18T11:06:58 ***
+mpirun: abort is already in progress...hit ctrl-c again to forcibly terminate
+
