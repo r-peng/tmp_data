@@ -1,0 +1,39 @@
+RANK= 0
+SIZE= 280
+Lx,Ly= 16 16
+D= 8
+chi= 8
+rate= 0.1 0.5
+cond= 0.001 0.001
+nparams= 1663488 1662416
+256 128 128
+	burn in time= 416.8199517726898
+	sample time= 6963.7420129776
+	contraction err= 3.43145194484868e-28 9.46059869888944e-24
+
+Mean energy: -1.25783608e+02
+Block size    # of blocks        Mean                Error
+     1           60000       -1.25783608e+02       1.616038e-02
+     2           30000       -1.25783608e+02       1.613453e-02
+     5           12000       -1.25783608e+02       1.608641e-02
+    10           6000       -1.25783608e+02       1.606665e-02
+    20           3000       -1.25783608e+02       1.605477e-02
+    50           1200       -1.25783608e+02       1.595899e-02
+    70            857       -1.25783395e+02       1.600073e-02
+   100            600       -1.25783608e+02       1.587164e-02
+   200            300       -1.25783608e+02       1.605435e-02
+   500            120       -1.25783608e+02       1.654803e-02
+0 0.01616037848916996 0.016548031779702172
+Stocahstic error estimate: 1.616038e-02
+
+--------------------------------------------------------------------------
+ORTE has lost communication with its daemon located on node:
+
+  hostname:  pauling035
+
+This is usually due to either a failure of the TCP network
+connection to the node, or possibly an internal failure of
+the daemon itself. We cannot recover from this failure, and
+therefore will terminate the job.
+
+--------------------------------------------------------------------------
