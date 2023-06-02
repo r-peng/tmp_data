@@ -1,0 +1,9 @@
+RANK= 0
+SIZE= 640
+Lx,Ly= 8 8
+D= 8
+chi= 6
+rate= 0.1 0.5
+cond= 0.001 0.001
+nparams= 524288
+	burn in time= 1209.735167980194
