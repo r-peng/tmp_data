@@ -26,12 +26,12 @@ set_options(deterministic=False,max_bond=chi)
 if step == 0:
     fpeps = load_tn_from_disc(f'../tmpdir/su1')
     #fpeps = load_tn_from_disc(f'../tmpdir/init')
+    scale = 1.1
+    for tid in fpeps.tensor_map:
+        tsr = fpeps.tensor_map[tid]
+        tsr.modify(data = tsr.data * scale)
 else:
     fpeps = load_tn_from_disc(f'psi{step}')
-#scale = 1.
-#for tid in fpeps.tensor_map:
-#    tsr = fpeps.tensor_map[tid]
-#    tsr.modify(data = tsr.data * scale)
 #print(fpeps)
 
 tmpdir = './' 
@@ -40,19 +40,19 @@ ham = J1J2(J1,J2,Lx,Ly,grad_by_ad=False)
 #ham = J1J2(J1,J2,Lx,Ly,grad_by_ad=False,tmpdir=tmpdir)
 
 burn_in = 40
-#burn_in = 0
+#burn_in = 20 
 sampler = ExchangeSampler(Lx,Ly,burn_in=burn_in,thresh=1e-28) 
 #sampler = DenseSampler(Lx,Ly,nspin,exact=True) 
 sampler.amplitude_factory = amp_fac
 
-tnvmc = TNVMC(ham,sampler,normalize=True,optimizer='sr',solve_full=False,solve_dense=True)
+tnvmc = TNVMC(ham,sampler,normalize=True,optimizer='sr',solve_full=True,solve_dense=False)
 #tnvmc.tmpdir = tmpdir 
 start = 0 
 stop = 50 
 tnvmc.rate2 = .1
 tnvmc.cond2 = 1e-1
 tnvmc.rate1 = .1
-tnvmc.cond1 = 1e-1
+tnvmc.cond1 = 1e-3
 tnvmc.check = 'energy'
 
 tnvmc.batchsize = int(6e4 + .1)
