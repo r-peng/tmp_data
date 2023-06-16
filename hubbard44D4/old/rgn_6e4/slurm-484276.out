@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "run.py", line 58, in <module>
+    tnvmc.run(start,stop,tmpdir=tmpdir)
+  File "/home/rppeng/code/quimb-refactor/quimb/tensor/vmc.py", line 164, in run
+    self.transform_gradients()
+  File "/home/rppeng/code/quimb-refactor/quimb/tensor/vmc.py", line 459, in transform_gradients
+    self._transform_gradients_o2()
+  File "/home/rppeng/code/quimb-refactor/quimb/tensor/vmc.py", line 662, in _transform_gradients_o2
+    update_rgn = self._check_by_energy(dEm)
+  File "/home/rppeng/code/quimb-refactor/quimb/tensor/vmc.py", line 844, in _check_by_energy
+    self.sample(samplesize=self.batchsize_small,compute_v=False,compute_Hv=False)
+  File "/home/rppeng/code/quimb-refactor/quimb/tensor/vmc.py", line 193, in sample
+    self._sample_stochastic(compute_v=compute_v,compute_Hv=compute_Hv)
+  File "/home/rppeng/code/quimb-refactor/quimb/tensor/vmc.py", line 241, in _sample_stochastic
+    raise ValueError(f'RANK={RANK},config={config},cx={cx},ex={ex}')
+ValueError: RANK=91,config=(1, 1, 0, 1, 0, 2, 2, 2, 2, 2, 1, 1, 2, 1, 1, 2),cx=-4.4492134735943485e-09,ex=-10.738552408371014
+mpirun: Forwarding signal 18 to job
+slurmstepd: error: *** JOB 484276 ON pauling025 CANCELLED AT 2023-05-04T10:29:10 ***
+mpirun: abort is already in progress...hit ctrl-c again to forcibly terminate
+
