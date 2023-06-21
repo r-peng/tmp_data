@@ -25,31 +25,31 @@ t = 1.
 u = 8.
 D = 4 
 chi = 8
-step = 10
-set_options(symmetry='u1',flat=True,deterministic=True,max_bond=chi)
-fpeps_a = load_ftn_from_disc(f'../sr_6e3/psi{step}_a')
-fpeps_b = load_ftn_from_disc(f'../sr_6e3/psi{step}_b')
-fpeps_j = load_tn_from_disc(f'../sr_6e3/psi{step}_boson')
+step = 0 
+data_map = set_options(symmetry='u1',flat=True,deterministic=False,max_bond=chi)
+fpeps_a = load_ftn_from_disc(f'../tmpdir/su_{Lx},{Ly}_D{D}_a')
+fpeps_b = load_ftn_from_disc(f'../tmpdir/su_{Lx},{Ly}_D{D}_b')
+fpeps_j = load_tn_from_disc(f'../tmpdir/su_{Lx},{Ly}_D{D}_jastrow')
 #fpeps_a = load_ftn_from_disc(f'psi{step}_a')
 #fpeps_b = load_ftn_from_disc(f'psi{step}_b')
 #fpeps_j = load_tn_from_disc(f'psi{step}_boson')
 
-scale = 0.9
-fpeps_a = scale_wfn(fpeps_a,scale)
-fpeps_b = scale_wfn(fpeps_b,scale)
-fpeps_j = scale_wfn(fpeps_j,scale)
+#scale = 0.9
+#fpeps_a = scale_wfn(fpeps_a,scale)
+#fpeps_b = scale_wfn(fpeps_b,scale)
+#fpeps_j = scale_wfn(fpeps_j,scale)
 
 amp_fac = AmplitudeFactory(fpeps_a,fpeps_b,fpeps_j)
 
 ham = Hubbard(t,u,Lx,Ly)
 
-burn_in = 10 
+burn_in = 40 
 sampler = ExchangeSampler(Lx,Ly,nelec,burn_in=burn_in) 
 sampler.amplitude_factory = amp_fac
 
 tmpdir = './' 
 start = step 
-stop = 20
+stop = step + 30
 
 tnvmc = TNVMC(ham,sampler,normalize=True,optimizer='sr',solve_full=True,solve_dense=False)
 if RANK==0:
@@ -64,7 +64,7 @@ config = 2, 0, 1, 2, \
          0, 1, 2, 1, \
          1, 2, 1, 2, \
          2, 1, 2, 1
-tnvmc.batchsize = int(2e4+.1) 
+tnvmc.batchsize = int(6e4+.1) 
 tnvmc.config = config 
 tnvmc.rate1 = .1
 tnvmc.rate2 = .5

@@ -14,8 +14,7 @@ nelec = 7,7
 t = 1.
 u = 0.
 D = 4 
-chi = 8
-subspace = 'b'
+subspace = 'a'
 set_options(symmetry='u1',flat=True)
 ham = Hubbard2D(t,u,Lx,Ly,symmetry='u1',subspace=subspace)
 
@@ -36,10 +35,11 @@ if load_fname is None:
 else:
     fpeps = load_ftn_from_disc(load_fname)
 
-su = SimpleUpdate(fpeps,ham,D=D,compute_energy_final=False)
+#su = SimpleUpdate(fpeps,ham,D=D,compute_energy_final=False)
 #su.print_conv = True
 #su.print_conv = False 
 #su.evolve(steps=50,tau=0.001,progbar=True)
+#fpeps = su.state
 #write_ftn_to_disc(su.state,f'./tmpdir/su_{Lx},{Ly}_D{D}_{subspace}',provided_filename=True)
 #exit()
 
@@ -59,7 +59,8 @@ print('check symmetric=',np.linalg.norm(h1-h1.T))
 w,v = np.linalg.eigh(h1)
 print('eigvals=',w[:nelec[0]],w[nelec[0]:])
 print('diagonalization energy=',sum(w[:nelec[0]]))
+print('per site energy=',sum(w[:nelec[0]])/(Lx*Ly)*2)
 exit()
 
-energy = fpeps.compute_local_expectation(ham.terms,normalized=True,max_bond=16) 
+energy = fpeps.compute_local_expectation(ham.terms,normalized=True,max_bond=8) 
 print('fpeps energy=',energy)
