@@ -1,4 +1,0 @@
-/global/homes/r/rppeng/code/quimb/quimb/tensor/decomp.py:214: UserWarning: TN SVD failed, trying again with alternate driver.
-  warnings.warn("TN SVD failed, trying again with alternate driver.")
-slurmstepd: error: *** STEP 9881696.0 ON nid004365 CANCELLED AT 2023-06-04T04:32:05 ***
-slurmstepd: error: *** JOB 9881696 ON nid004365 CANCELLED AT 2023-06-04T04:32:05 ***
