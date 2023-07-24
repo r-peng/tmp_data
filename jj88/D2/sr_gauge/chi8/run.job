@@ -1,0 +1,10 @@
+#!/bin/bash
+#SBATCH --partition=parallel
+#SBATCH --job-name=sr
+#SBATCH --time=10:00:00
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=0
+#SBATCH --ntasks=201
+#SBATCH --exclude=pauling017
+
+mpirun -n 201 python -u run.py > out.out
