@@ -1,0 +1,334 @@
+block_dict= [(0, 532512)]
+sizes= [532512]
+RANK= 0
+SIZE= 640
+Lx,Ly= 16 16
+D= 6
+chi= 5
+rate= 0.1 0.1
+cond= 0.001 0.001
+nparams= 532512 532325
+256 128 128
+size= 4.062843322753906
+	prob= 284.5361489223106
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+	burn in time= 2634.3382930755615
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+	sample time= 5629.751523733139
+	contraction err= 0.0 0.0
+
+Mean energy: -1.25461830e+02
+Block size    # of blocks        Mean                Error
+     1           5000       -1.25461830e+02       1.078210e-02
+     2           2500       -1.25461830e+02       1.073145e-02
+     5           1000       -1.25461830e+02       1.084618e-02
+    10            500       -1.25461830e+02       1.077270e-02
+    20            250       -1.25461830e+02       1.047827e-02
+    50            100       -1.25461830e+02       1.077013e-02
+    70             71       -1.25462389e+02       1.016155e-02
+   100             50       -1.25461830e+02       1.080496e-02
+   200             25       -1.25461830e+02       1.118473e-02
+   500             10       -1.25461830e+02       1.240978e-02
+0 0.010782097826672653 0.012409783399047958
+Stocahstic error estimate: 1.078210e-02
+
+step=0,E=-0.49008527314257716,dE=-0.49008527314257716,err=4.211756963544005e-05,gmax=0.10335166613243985
+	collect g,Hv time= 72.97314095497131
+	solver time=2.725226402282715,exit status=0
+niter= 31
+	g=0.40640723925908834,del=3.5903487529072375,dot=0.6086889598600739,x=50.843551398855155
+	prob= 279.50256228276913
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+	burn in time= 2603.1077024936676
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+	sample time= 16174.132859230042
+	contraction err= 0.0 0.0
+
+Mean energy: -1.25446254e+02
+Block size    # of blocks        Mean                Error
+     1           5000       -1.25446254e+02       1.030447e-02
+     2           2500       -1.25446254e+02       1.042301e-02
+     5           1000       -1.25446254e+02       1.052293e-02
+    10            500       -1.25446254e+02       1.048837e-02
+    20            250       -1.25446254e+02       1.069004e-02
+    50            100       -1.25446254e+02       9.823406e-03
+    70             71       -1.25445540e+02       1.172006e-02
+   100             50       -1.25446254e+02       1.085574e-02
+   200             25       -1.25446254e+02       1.284991e-02
+   500             10       -1.25446254e+02       1.711985e-02
+0 0.010423009637212776 0.017119848624153812
+Stocahstic error estimate: 1.042301e-02
+
+step=1,E=-0.49002443112052024,dE=6.0842022056917244e-05,err=4.0714881395362406e-05,gmax=0.03355685556193322
+	collect g,Hv time= 193.01906728744507
+	solver time=6.135998964309692,exit status=0
+niter= 30
+	g=0.315882856825309,del=3.80640726027755,dot=0.545143116109561,x=50.843551398855034
+	prob= 284.77172453394365
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+	burn in time= 2632.305208683014
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+	sample time= 16118.369980812073
+	contraction err= 0.0 0.0
+
+Mean energy: -1.25447417e+02
+Block size    # of blocks        Mean                Error
+     1           5000       -1.25447417e+02       1.053127e-02
+     2           2500       -1.25447417e+02       1.071852e-02
+     5           1000       -1.25447417e+02       1.087312e-02
+    10            500       -1.25447417e+02       1.061609e-02
+    20            250       -1.25447417e+02       1.108169e-02
+    50            100       -1.25447417e+02       9.837122e-03
+    70             71       -1.25447573e+02       9.281561e-03
+   100             50       -1.25447417e+02       9.800349e-03
+   200             25       -1.25447417e+02       1.102159e-02
+   500             10       -1.25447417e+02       1.096026e-02
+0 0.010718516312084748 0.010960257075198621
+Stocahstic error estimate: 1.071852e-02
+
+step=2,E=-0.49002897213406504,dE=-4.541013544800965e-06,err=4.1869204344081046e-05,gmax=0.08673609405039784
+	collect g,Hv time= 231.03212451934814
+	solver time=6.3120951652526855,exit status=0
+niter= 31
+	g=0.4077576953071673,del=4.4511248564361034,dot=0.6809799082960171,x=50.8435513988551
+	prob= 309.59031073950956
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+	burn in time= 2582.6961936950684
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+block_dict= [(0, 532512)]
+sizes= [532512]
+RANK= 0
+SIZE= 640
+Lx,Ly= 16 16
+D= 6
+chi= 5
+rate= 0.1 0.1
+cond= 0.001 0.001
+nparams= 532512 532320
+256 128 128
+size= 4.062843322753906
+	prob= 309.5903107395109
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+	burn in time= 5363.068785667419
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+	sample time= 10887.516011238098
+	contraction err= 0.0 0.0
+
+Mean energy: -1.25433130e+02
+Block size    # of blocks        Mean                Error
+     1           10000       -1.25433130e+02       7.784918e-03
+     2           5000       -1.25433130e+02       7.772023e-03
+     5           2000       -1.25433130e+02       7.810306e-03
+    10           1000       -1.25433130e+02       7.604961e-03
+    20            500       -1.25433130e+02       7.557488e-03
+    50            200       -1.25433130e+02       7.755364e-03
+    70            142       -1.25432627e+02       7.495291e-03
+   100            100       -1.25433130e+02       7.706471e-03
+   200             50       -1.25433130e+02       6.888583e-03
+   500             20       -1.25433130e+02       8.264551e-03
+0 0.0077849183528719895 0.008264550583944924
+Stocahstic error estimate: 7.784918e-03
+
+step=3,E=-0.48997316464055923,dE=-0.48997316464055923,err=3.040983731590621e-05,gmax=0.06920951005834297
+	collect g,Hv time= 133.28859996795654
+	solver time=4.670246124267578,exit status=0
+niter= 39
+	g=0.30709069897293395,del=5.063331320912247,dot=0.5582910803839252,x=50.843551398855105
+	prob= 311.12632470778186
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+	burn in time= 5264.025472402573
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd

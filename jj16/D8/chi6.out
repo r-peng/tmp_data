@@ -1,0 +1,97 @@
+block_dict= [(0, 1663488)]
+sizes= [1663488]
+RANK= 0
+SIZE= 640
+Lx,Ly= 16 16
+D= 8
+chi= 6
+rate= 0.1 0.1
+cond= 0.001 0.001
+nparams= 1663488 1662487
+256 128 128
+size= 12.691505432128906
+	prob= 0.0006237346607401611
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+	burn in time= 8728.409897089005
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+	sample time= 18078.489619731903
+	contraction err= 0.0 0.0
+
+Mean energy: -1.25502628e+02
+Block size    # of blocks        Mean                Error
+     1           10000       -1.25502628e+02       5.399771e-03
+     2           5000       -1.25502628e+02       5.356438e-03
+     5           2000       -1.25502628e+02       5.244438e-03
+    10           1000       -1.25502628e+02       5.207088e-03
+    20            500       -1.25502628e+02       5.063941e-03
+    50            200       -1.25502628e+02       5.233986e-03
+    70            142       -1.25502643e+02       5.212901e-03
+   100            100       -1.25502628e+02       5.084030e-03
+   200             50       -1.25502628e+02       4.903889e-03
+   500             20       -1.25502628e+02       4.503397e-03
+0 0.0053997713174597835 0.004503397308486724
+Stocahstic error estimate: 5.399771e-03
+
+step=0,E=-0.49024463983787125,dE=-0.49024463983787125,err=2.109285670882728e-05,gmax=0.01005361974375063
+	collect g,Hv time= 295.60695481300354
+	solver time=16.029484033584595,exit status=0
+niter= 38
+	g=0.13323328866709594,del=4.458699901602224,dot=0.24899381800011514,x=54.38824140641012
+	prob= 0.0005965575469445398
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+	burn in time= 8732.217084169388
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+block_dict= [(0, 1663488)]
+sizes= [1663488]
+RANK= 0
+SIZE= 640
+Lx,Ly= 16 16
+D= 8
+chi= 6
+rate= 0.1 0.1
+cond= 0.001 0.001
+nparams= 1663488 1662446
+256 128 128
+size= 12.691505432128906
+	prob= 0.0005965575469445404
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+	burn in time= 8762.463967561722
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
+	sample time= 17949.041927576065
+	contraction err= 0.0 0.0
+
+Mean energy: -1.25509923e+02
+Block size    # of blocks        Mean                Error
+     1           10000       -1.25509923e+02       5.436354e-03
+     2           5000       -1.25509923e+02       5.416813e-03
+     5           2000       -1.25509923e+02       5.286063e-03
+    10           1000       -1.25509923e+02       5.341417e-03
+    20            500       -1.25509923e+02       5.030645e-03
+    50            200       -1.25509923e+02       4.860569e-03
+    70            142       -1.25510217e+02       5.276376e-03
+   100            100       -1.25509923e+02       4.790530e-03
+   200             50       -1.25509923e+02       4.575867e-03
+   500             20       -1.25509923e+02       4.684255e-03
+0 0.005436353618743743 0.004684254795488432
+Stocahstic error estimate: 5.436354e-03
+
+step=1,E=-0.4902731368061377,dE=-0.4902731368061377,err=2.1235756323217748e-05,gmax=0.012427887214182531
+	collect g,Hv time= 292.31887769699097
+	solver time=15.1784348487854,exit status=0
+niter= 39
+	g=0.13348985532825713,del=4.523483586996596,dot=0.23371911096505263,x=54.38824140641035
+	prob= 0.0005720973674877032
+trouble in torch gesdd routine, falling back to gesvd
+	burn in time= 8905.767385482788
+trouble in torch gesdd routine, falling back to gesvd
+trouble in torch gesdd routine, falling back to gesvd
