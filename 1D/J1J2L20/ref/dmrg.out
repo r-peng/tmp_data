@@ -1,0 +1,34 @@
+(base) python dmrg.py
+block_dict= [(0, 820)]
+sizes= [820]
+norm= 0.5401506406828626
+energy from plq = -5.454453713943856
+energy from mpo = -5.454453713943816 0.5401506406828627
+SWEEP-1, direction=R, max_bond=(5/50), cutoff:1e-08
+100%|##########################################| 19/19 [00:00<00:00, 270.72it/s]
+Energy: -7.499951706327204 ... not converged.
+SWEEP-2, direction=R, max_bond=(10/50), cutoff:1e-08
+100%|##########################################| 19/19 [00:00<00:00, 342.39it/s]
+Energy: -7.4999999944517075 ... converged!
+MatrixProductState([
+    Tensor(shape=(2, 2), inds=('k0', '_0ce792AAAoI'), tags=oset(['I0', 'KET'])),
+    Tensor(shape=(2, 2, 2), inds=('_0ce792AAAoJ', 'k2', '_0ce792AAAnr'), tags=oset(['I2', 'KET'])),
+    Tensor(shape=(2, 2, 3), inds=('_0ce792AAAnr', 'k3', '_0ce792AAAns'), tags=oset(['I3', 'KET'])),
+    Tensor(shape=(3, 2, 3), inds=('_0ce792AAAns', 'k4', '_0ce792AAAnt'), tags=oset(['I4', 'KET'])),
+    Tensor(shape=(3, 2, 4), inds=('_0ce792AAAnt', 'k5', '_0ce792AAAnu'), tags=oset(['I5', 'KET'])),
+    Tensor(shape=(4, 2, 3), inds=('_0ce792AAAnu', 'k6', '_0ce792AAAnv'), tags=oset(['I6', 'KET'])),
+    Tensor(shape=(3, 2, 4), inds=('_0ce792AAAnv', 'k7', '_0ce792AAAnw'), tags=oset(['I7', 'KET'])),
+    Tensor(shape=(4, 2, 3), inds=('_0ce792AAAnw', 'k8', '_0ce792AAAnx'), tags=oset(['I8', 'KET'])),
+    Tensor(shape=(3, 2, 3), inds=('_0ce792AAAnx', 'k9', '_0ce792AAAny'), tags=oset(['I9', 'KET'])),
+    Tensor(shape=(3, 2, 2), inds=('_0ce792AAAny', 'k10', '_0ce792AAAnz'), tags=oset(['I10', 'KET'])),
+    Tensor(shape=(2, 2, 1), inds=('_0ce792AAAnz', 'k11', '_0ce792AAAoA'), tags=oset(['I11', 'KET'])),
+    Tensor(shape=(1, 2, 2), inds=('_0ce792AAAoA', 'k12', '_0ce792AAAoB'), tags=oset(['I12', 'KET'])),
+    Tensor(shape=(2, 2, 1), inds=('_0ce792AAAoB', 'k13', '_0ce792AAAoC'), tags=oset(['I13', 'KET'])),
+    Tensor(shape=(1, 2, 2), inds=('_0ce792AAAoC', 'k14', '_0ce792AAAoD'), tags=oset(['I14', 'KET'])),
+    Tensor(shape=(2, 2, 1), inds=('_0ce792AAAoD', 'k15', '_0ce792AAAoE'), tags=oset(['I15', 'KET'])),
+    Tensor(shape=(1, 2, 2), inds=('_0ce792AAAoE', 'k16', '_0ce792AAAoF'), tags=oset(['I16', 'KET'])),
+    Tensor(shape=(2, 2, 1), inds=('_0ce792AAAoF', 'k17', '_0ce792AAAoG'), tags=oset(['I17', 'KET'])),
+    Tensor(shape=(1, 2, 2), inds=('_0ce792AAAoG', 'k18', '_0ce792AAAoH'), tags=oset(['I18', 'KET'])),
+    Tensor(shape=(2, 2), inds=('_0ce792AAAoH', 'k19'), tags=oset(['I19', 'KET'])),
+    Tensor(shape=(2, 2, 2), inds=('_0ce792AAAoI', 'k1', '_0ce792AAAoJ'), tags=oset(['I1', 'KET'])),
+], L=20, max_bond=4)

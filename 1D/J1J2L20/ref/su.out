@@ -1,0 +1,33 @@
+(base) python su.py
+block_dict= [(0, 920)]
+sizes= [920]
+norm= 0.9999999999999993
+init energy= 0.6515991923138963
+t=10, max-bond=5:  99%|####################################################################################################9 | 99/100 [00:05<00:00, 16.52%/s]
+MatrixProductState([
+    Tensor(shape=(2, 2), inds=('_f851feAAAAA', 'k0'), tags=oset(['I0', 'KET'])),
+    Tensor(shape=(4, 5, 2), inds=('_f851feAAAAB', '_f851feAAAAC', 'k2'), tags=oset(['I2', 'KET'])),
+    Tensor(shape=(5, 5, 2), inds=('_f851feAAAAC', '_f851feAAAAD', 'k3'), tags=oset(['I3', 'KET'])),
+    Tensor(shape=(5, 5, 2), inds=('_f851feAAAAD', '_f851feAAAAE', 'k4'), tags=oset(['I4', 'KET'])),
+    Tensor(shape=(5, 5, 2), inds=('_f851feAAAAE', '_f851feAAAAF', 'k5'), tags=oset(['I5', 'KET'])),
+    Tensor(shape=(5, 5, 2), inds=('_f851feAAAAF', '_f851feAAAAG', 'k6'), tags=oset(['I6', 'KET'])),
+    Tensor(shape=(5, 5, 2), inds=('_f851feAAAAG', '_f851feAAAAH', 'k7'), tags=oset(['I7', 'KET'])),
+    Tensor(shape=(5, 5, 2), inds=('_f851feAAAAH', '_f851feAAAAI', 'k8'), tags=oset(['I8', 'KET'])),
+    Tensor(shape=(5, 5, 2), inds=('_f851feAAAAI', '_f851feAAAAJ', 'k9'), tags=oset(['I9', 'KET'])),
+    Tensor(shape=(5, 5, 2), inds=('_f851feAAAAJ', '_f851feAAAAK', 'k10'), tags=oset(['I10', 'KET'])),
+    Tensor(shape=(5, 5, 2), inds=('_f851feAAAAK', '_f851feAAAAL', 'k11'), tags=oset(['I11', 'KET'])),
+    Tensor(shape=(5, 5, 2), inds=('_f851feAAAAL', '_f851feAAAAM', 'k12'), tags=oset(['I12', 'KET'])),
+    Tensor(shape=(5, 5, 2), inds=('_f851feAAAAM', '_f851feAAAAN', 'k13'), tags=oset(['I13', 'KET'])),
+    Tensor(shape=(5, 5, 2), inds=('_f851feAAAAN', '_f851feAAAAO', 'k14'), tags=oset(['I14', 'KET'])),
+    Tensor(shape=(5, 5, 2), inds=('_f851feAAAAO', '_f851feAAAAP', 'k15'), tags=oset(['I15', 'KET'])),
+    Tensor(shape=(5, 5, 2), inds=('_f851feAAAAP', '_f851feAAAAQ', 'k16'), tags=oset(['I16', 'KET'])),
+    Tensor(shape=(5, 4, 2), inds=('_f851feAAAAQ', '_f851feAAAAR', 'k17'), tags=oset(['I17', 'KET'])),
+    Tensor(shape=(4, 2, 2), inds=('_f851feAAAAR', '_f851feAAAAS', 'k18'), tags=oset(['I18', 'KET'])),
+    Tensor(shape=(2, 2), inds=('_f851feAAAAS', 'k19'), tags=oset(['I19', 'KET'])),
+    Tensor(shape=(2, 4, 2), inds=('_f851feAAAAA', '_f851feAAAAB', 'k1'), tags=oset(['I1', 'KET'])),
+], L=20, max_bond=5)
+block_dict= [(0, 820)]
+sizes= [820]
+norm= 0.5401506406828626
+final energy= -5.454453713943856
+(base) vi dmrg.py
