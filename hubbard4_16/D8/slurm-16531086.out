@@ -1,0 +1,27 @@
+Traceback (most recent call last):
+  File "/pscratch/sd/r/rppeng/hubbard4_16/D8/run.py", line 83, in <module>
+    tnvmc.run(start,stop,tmpdir=tmpdir)
+  File "/global/cfs/projectdirs/m4289/code/quimb/quimb/tensor/tensor_vmc.py", line 208, in run
+    self.sample()
+  File "/global/cfs/projectdirs/m4289/code/quimb/quimb/tensor/tensor_vmc.py", line 216, in sample
+    self.sampler.preprocess()
+  File "/global/cfs/projectdirs/m4289/code/quimb/quimb/tensor/tensor_vmc.py", line 1181, in preprocess
+    self._burn_in()
+  File "/global/cfs/projectdirs/m4289/code/quimb/quimb/tensor/tensor_vmc.py", line 1193, in _burn_in
+    self.config,self.omega = self.sample()
+  File "/global/cfs/projectdirs/m4289/code/quimb/quimb/tensor/tensor_vmc.py", line 1202, in sample
+    self._sample()
+  File "/global/cfs/projectdirs/m4289/code/quimb/quimb/tensor/tensor_2d_vmc.py", line 884, in _sample
+    sweep_fn(x_bsz,y_bsz) 
+  File "/global/cfs/projectdirs/m4289/code/quimb/quimb/tensor/tensor_2d_vmc.py", line 855, in sweep_row_forward
+    sweep_col(i,tn,x_bsz,y_bsz)
+  File "/global/cfs/projectdirs/m4289/code/quimb/quimb/tensor/tensor_2d_vmc.py", line 836, in sweep_col_forward
+    plq = self.af._get_plq_forward(j,y_bsz,cols,renvs)
+  File "/global/cfs/projectdirs/m4289/code/quimb/quimb/tensor/tensor_2d_vmc.py", line 294, in _get_plq_forward
+    plq.add_tensor_network(renvs[j+y_bsz],virtual=False)
+  File "/global/cfs/projectdirs/m4289/code/quimb/quimb/tensor/fermion/fermion_core.py", line 1027, in add_tensor_network
+    if not tn.is_continuous():
+AttributeError: 'NoneType' object has no attribute 'is_continuous'
+slurmstepd: error: *** STEP 16531086.0 ON nid004546 CANCELLED AT 2023-10-02T22:08:27 ***
+slurmstepd: error: *** JOB 16531086 ON nid004546 CANCELLED AT 2023-10-02T22:08:27 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
