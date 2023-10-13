@@ -1,0 +1,6 @@
+#!/bin/bash
+#SBATCH --job-name=16D10
+#SBATCH --time=17:00:00
+#SBATCH --nodes=30
+#SBATCH --ntasks-per-node=10
+srun -n 300 python -u run.py > out.out
