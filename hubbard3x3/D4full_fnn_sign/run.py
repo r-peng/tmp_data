@@ -2,7 +2,7 @@ import numpy as np
 from quimb.tensor.fermion.product_2d_vmc import (
     set_options,
     ProductAmplitudeFactory2D,
-    RBM2D,SIGN2D,
+    FNN2D,SIGN2D,
 )
 from quimb.tensor.fermion.fermion_2d_vmc import (
     Hubbard,
@@ -28,58 +28,57 @@ nelec = (nelec//2,) * 2
 t = 1.
 u = 8.
 D = 4 
-step = 51 
-chi = 16
+step = 20
+chi = 16 
 set_options(symmetry='u1',flat=True,deterministic=False)
 model = Hubbard(t,u,Lx,Ly,sep=True)
 
 if step==0:
-    fpeps = load_ftn_from_disc(f'../D4rbm/psi48_0')
+    fpeps = load_ftn_from_disc(f'../load/{Lx}x{Ly}D{D}_rc')
     if RANK==0:
         print(fpeps)
     for tid,tsr in fpeps.tensor_map.items():
         #print(tid,tsr.phase)
         tsr.phase = {}
-    config = np.load(f'../D4rbm/config47.npy')
+    config = np.load(f'../load/{Lx}x{Ly}_D{D}_config.npy')
 else:
     fpeps = load_ftn_from_disc(f'psi{step}_0')
     config = np.load(f'config{step-1}.npy')
-scale = 1.1
+scale = .9
 fpeps = scale_wfn(fpeps,scale)
 af0 = FermionAmplitudeFactory2D(fpeps,max_bond=chi)
 af0.model = model 
 af0.is_tn = True
 af0.spin = None
 
-nv = af0.nsite * 2
-nh = 1000 
-af1 = RBM2D(Lx,Ly,nv,nh)
-if step==0:
-    #eps = 1e-2
-    #a = (np.random.rand(nv)*2 - 1)*eps
-    #b = (np.random.rand(nh)*2 - 1)*eps
-    #w = (np.random.rand(nv,nh)*2 - 1)*eps
-    #COMM.Bcast(a,root=0)
-    #COMM.Bcast(b,root=0)
-    #COMM.Bcast(w,root=0)
-    #af1.save_to_disc(a,b,w,f'psi{step}_1')
-    a,b,w = af1.load_from_disc(f'../D4rbm/psi48_1.hdf5')
-else:
-    a,b,w = af1.load_from_disc(f'psi{step}_1.hdf5')
-af1.model = model
-
-af2 = SIGN2D(Lx,Ly,afn='cos')
+to_spin = False
+nl = 4 
+nn = (af0.nsite*2,) if to_spin else (af0.nsite,)
+nn = nn + (250,250) + nn 
+af1 = FNN2D(Lx,Ly,nl,to_spin=to_spin)
 if step==0:
     eps = 1e-2
-    w = (np.random.rand(nv) * 2 - 1) * eps
-    COMM.Bcast(w,root=0)
-    af2.save_to_disc(w,f'psi{step}_2')
-    af2.w = w
-else:
-    w = af2.load_from_disc(f'psi{step}_2.npy')
-af2.model = model
+    w = []
+    b = []
+    for i in range(nl-1):
+        wi = (np.random.rand(nn[i],nn[i+1])*2 - 1)*eps
+        COMM.Bcast(wi,root=0)
+        w.append(wi)
 
-af = ProductAmplitudeFactory2D((af0,af1,af2))
+        bi = (np.random.rand(nn[i+1])*2 - 1)*eps
+        COMM.Bcast(bi,root=0)
+        b.append(bi)
+    wi = np.ones(nn[nl-1])
+    w.append(wi)
+    af1.save_to_disc(w,b,f'psi{step}_1')
+else:
+    w,b = af1.load_from_disc(f'psi{step}_1.hdf5')
+af1.get_block_dict(w,b)
+af1.model = model
+#print(af1.to_spin)
+#exit()
+
+af = ProductAmplitudeFactory2D((af0,af1))
 sampler = FermionExchangeSampler2D(Lx,Ly,burn_in=40)
 sampler.af = af
 sampler.config = tuple(config[RANK%config.shape[0],:])
@@ -87,7 +86,7 @@ sampler.config = tuple(config[RANK%config.shape[0],:])
 start = step 
 stop = step + 100 
 
-tnvmc = TNVMC(sampler,normalize=True,optimizer='sr',pure_newton=False,solve_full=True,solve_dense=False)
+tnvmc = TNVMC(sampler,normalize=True,optimizer='sr',pure_newton=True,solve_full=True,solve_dense=False)
 if RANK==0:
     print('SIZE=',SIZE)
     print('Lx,Ly=',Lx,Ly)
@@ -96,6 +95,7 @@ if RANK==0:
     print('D=',D)
     print('chi=',chi)
 tnvmc.tmpdir = './' 
+#tmpdir = None
 tnvmc.rate1 = .1
 tnvmc.rate2 = .5
 tnvmc.cond1 = 1e-3
