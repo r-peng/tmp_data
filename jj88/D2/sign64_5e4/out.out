@@ -1,0 +1,3677 @@
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-23
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-23
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-23
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-23
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-23
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-23
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-23
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-23
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-23
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-23
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-20-22
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-20-22
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-20-22
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-20-22
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-20-22
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-20-22
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-20-22
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-20-22
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-20-22
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-20-22
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-30
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-30
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-30
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-30
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-30
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-30
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-30
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-30
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-30
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-30
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-20-21
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-20-21
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-20-21
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-14
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-14
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-14
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-14
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-14
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-14
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-14
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-14
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-14
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-14
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-27
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-27
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-27
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-27
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-27
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-27
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-27
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-27
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-27
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-27
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-20-21
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-20-21
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-20-21
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-20-21
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-20-21
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-20-21
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-20-21
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+nbatch= 1
+block_dict= [(0, 1568)]
+sizes= [1568]
+SIZE= 100
+nparam= [1568 4224 4224]
+	log prob= -3.851510239275567e+00
+	burn in time= 21.679261684417725
+	sample time= 450.02480006217957
+	contraction err= 3.735944130201324e-10 4.895762859017923e-07
+
+Mean energy: -2.98689104e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -2.98689104e+01       7.691690e-03
+     2           25000       -2.98689104e+01       7.706805e-03
+     5           10000       -2.98689104e+01       7.749742e-03
+    10           5000       -2.98689104e+01       7.797908e-03
+    20           2500       -2.98689104e+01       7.895230e-03
+    50           1000       -2.98689104e+01       8.018807e-03
+    70            714       -2.98690475e+01       8.243106e-03
+   100            500       -2.98689104e+01       8.732315e-03
+   200            250       -2.98689104e+01       1.034698e-02
+   500            100       -2.98689104e+01       1.369009e-02
+0 0.0077068053680667365 0.013690085865395378
+Stocahstic error estimate: 7.706805e-03
+
+step=0,E=-0.4667017253174161,dE=-0.4667017253174161,err=0.00012041883387604276,gmax=0.047721788606709836
+	collect g,Hv time= 0.42362189292907715
+niter= 48
+	solver time=39.618130683898926,exit status=0
+	g=0.25880263834216005,del=7.918307025704704,dot=0.7395964063458315,x=39.79226323927548
+	log prob= -3.7729705866067462e+00
+	burn in time= 20.40391445159912
+	sample time= 442.8816065788269
+	contraction err= 4.297982691382995e-10 1.1296039186260696e-06
+
+Mean energy: -2.99374592e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -2.99374592e+01       7.295803e-03
+     2           25000       -2.99374592e+01       7.314212e-03
+     5           10000       -2.99374592e+01       7.332632e-03
+    10           5000       -2.99374592e+01       7.424833e-03
+    20           2500       -2.99374592e+01       7.441572e-03
+    50           1000       -2.99374592e+01       7.723055e-03
+    70            714       -2.99377836e+01       7.638952e-03
+   100            500       -2.99374592e+01       8.138864e-03
+   200            250       -2.99374592e+01       9.070974e-03
+   500            100       -2.99374592e+01       1.170051e-02
+0 0.007314211614609651 0.011700506558358194
+Stocahstic error estimate: 7.314212e-03
+
+step=1,E=-0.4677728001610004,dE=-0.0010710748435843187,err=0.00011428455647827579,gmax=0.06233723398937263
+	collect g,Hv time= 0.41973376274108887
+niter= 46
+	solver time=37.251126289367676,exit status=0
+	g=0.242781679841564,del=8.270154794199408,dot=0.6425884007625304,x=39.79226323927548
+	log prob= -3.6158453025288426e+00
+	burn in time= 20.246503829956055
+	sample time= 436.33486437797546
+	contraction err= 3.621848711578681e-10 7.413270610181646e-07
+
+Mean energy: -2.99245868e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -2.99245868e+01       7.492239e-03
+     2           25000       -2.99245868e+01       7.476243e-03
+     5           10000       -2.99245868e+01       7.384521e-03
+    10           5000       -2.99245868e+01       7.458291e-03
+    20           2500       -2.99245868e+01       7.458399e-03
+    50           1000       -2.99245868e+01       7.544567e-03
+    70            714       -2.99244596e+01       7.462574e-03
+   100            500       -2.99245868e+01       7.833146e-03
+   200            250       -2.99245868e+01       8.604092e-03
+   500            100       -2.99245868e+01       1.052255e-02
+0 0.007492239428654668 0.01052254727966052
+Stocahstic error estimate: 7.492239e-03
+
+step=2,E=-0.46757166908343517,dE=0.00020113107756525306,err=0.00011706624107272918,gmax=0.05161597168326715
+	collect g,Hv time= 0.41596126556396484
+niter= 46
+	solver time=35.89591193199158,exit status=0
+	g=0.2852056571885598,del=9.199069824294323,dot=0.8654973523488773,x=39.79226323927548
+	log prob= -3.8303346304729673e+00
+	burn in time= 20.55260944366455
+	sample time= 442.48421907424927
+	contraction err= 3.568204366142222e-10 5.608576762402369e-07
+
+Mean energy: -2.99547099e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -2.99547099e+01       7.435011e-03
+     2           25000       -2.99547099e+01       7.410427e-03
+     5           10000       -2.99547099e+01       7.414754e-03
+    10           5000       -2.99547099e+01       7.458493e-03
+    20           2500       -2.99547099e+01       7.471000e-03
+    50           1000       -2.99547099e+01       7.516674e-03
+    70            714       -2.99546776e+01       7.741343e-03
+   100            500       -2.99547099e+01       8.263639e-03
+   200            250       -2.99547099e+01       9.809012e-03
+   500            100       -2.99547099e+01       1.273219e-02
+0 0.007435011270891678 0.012732194199521693
+Stocahstic error estimate: 7.435011e-03
+
+step=3,E=-0.4680423425286794,dE=-0.0004706734452442074,err=0.00011617205110768247,gmax=0.07583262150618619
+	collect g,Hv time= 0.4301481246948242
+niter= 47
+	solver time=37.195414781570435,exit status=0
+	g=0.26567316405881175,del=9.117233713313443,dot=0.832165183211662,x=39.79226323927548
+	log prob= -3.9590383794466057e+00
+	burn in time= 20.36003303527832
+	sample time= 443.0837826728821
+	contraction err= 3.70647312151138e-10 9.050037381627463e-07
+
+Mean energy: -3.00119411e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.00119411e+01       7.031812e-03
+     2           25000       -3.00119411e+01       7.036801e-03
+     5           10000       -3.00119411e+01       6.986967e-03
+    10           5000       -3.00119411e+01       6.968524e-03
+    20           2500       -3.00119411e+01       6.893225e-03
+    50           1000       -3.00119411e+01       7.142167e-03
+    70            714       -3.00119882e+01       7.051599e-03
+   100            500       -3.00119411e+01       7.524236e-03
+   200            250       -3.00119411e+01       8.490595e-03
+   500            100       -3.00119411e+01       1.020488e-02
+0 0.007036801015195102 0.010204876524281366
+Stocahstic error estimate: 7.036801e-03
+
+step=4,E=-0.46893657952081075,dE=-0.0008942369921313698,err=0.00010995001586242347,gmax=0.04941358466532986
+	collect g,Hv time= 0.4233434200286865
+niter= 48
+	solver time=38.62465858459473,exit status=0
+	g=0.25405311557752186,del=8.780000738283539,dot=0.727703266890783,x=39.79226323927548
+	log prob= -3.77094435582201e+00
+	burn in time= 20.575939655303955
+	sample time= 442.5863211154938
+	contraction err= 4.16257230844359e-10 3.1370476039735307e-06
+
+Mean energy: -3.00618128e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.00618128e+01       6.655609e-03
+     2           25000       -3.00618128e+01       6.648875e-03
+     5           10000       -3.00618128e+01       6.650531e-03
+    10           5000       -3.00618128e+01       6.622279e-03
+    20           2500       -3.00618128e+01       6.647012e-03
+    50           1000       -3.00618128e+01       6.792213e-03
+    70            714       -3.00618398e+01       6.836251e-03
+   100            500       -3.00618128e+01       7.045752e-03
+   200            250       -3.00618128e+01       7.981104e-03
+   500            100       -3.00618128e+01       9.670274e-03
+0 0.006655609294452654 0.00967027446103651
+Stocahstic error estimate: 6.655609e-03
+
+step=5,E=-0.4697158254913971,dE=-0.000779245970586373,err=0.00010399389522582272,gmax=0.1432696523693031
+	collect g,Hv time= 0.4173307418823242
+niter= 49
+	solver time=38.38917016983032,exit status=0
+	g=0.43325039167746265,del=7.943146800368604,dot=0.7352198186779662,x=39.79226323927548
+	log prob= -3.8243163461712366e+00
+	burn in time= 20.88944935798645
+	sample time= 439.0630352497101
+	contraction err= 5.347409966450671e-10 1.2237215937182006e-06
+
+Mean energy: -3.00749977e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.00749977e+01       6.706713e-03
+     2           25000       -3.00749977e+01       6.678950e-03
+     5           10000       -3.00749977e+01       6.712911e-03
+    10           5000       -3.00749977e+01       6.772496e-03
+    20           2500       -3.00749977e+01       6.867329e-03
+    50           1000       -3.00749977e+01       6.958847e-03
+    70            714       -3.00751331e+01       6.969796e-03
+   100            500       -3.00749977e+01       7.376130e-03
+   200            250       -3.00749977e+01       8.543944e-03
+   500            100       -3.00749977e+01       1.012270e-02
+0 0.006706713407444351 0.010122700322556511
+Stocahstic error estimate: 6.706713e-03
+
+step=6,E=-0.46992183828393924,dE=-0.00020601279254212068,err=0.00010479239699131799,gmax=0.07261832344682606
+	collect g,Hv time= 0.4460899829864502
+niter= 49
+	solver time=38.40772843360901,exit status=0
+	g=0.32956402537066815,del=7.722919530543457,dot=0.7835353217433039,x=39.79226323927548
+	log prob= -3.804152593758657e+00
+	burn in time= 20.511019945144653
+	sample time= 431.6569585800171
+	contraction err= 5.770944325171124e-10 1.3567574573844499e-06
+
+Mean energy: -3.01269076e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.01269076e+01       6.321598e-03
+     2           25000       -3.01269076e+01       6.343650e-03
+     5           10000       -3.01269076e+01       6.308673e-03
+    10           5000       -3.01269076e+01       6.427240e-03
+    20           2500       -3.01269076e+01       6.375690e-03
+    50           1000       -3.01269076e+01       6.485711e-03
+    70            714       -3.01266347e+01       6.318432e-03
+   100            500       -3.01269076e+01       6.869881e-03
+   200            250       -3.01269076e+01       7.795045e-03
+   500            100       -3.01269076e+01       1.022109e-02
+0 0.006343649699178163 0.010221085002493191
+Stocahstic error estimate: 6.343650e-03
+
+step=7,E=-0.47073293070611444,dE=-0.000811092422175197,err=9.91195265496588e-05,gmax=0.03053994751398026
+	collect g,Hv time= 0.5232651233673096
+niter= 48
+	solver time=37.5560302734375,exit status=0
+	g=0.31485684664829794,del=6.970949059636652,dot=0.7005977820551778,x=39.79226323927548
+	log prob= -3.997004123594249e+00
+	burn in time= 20.312277793884277
+	sample time= 436.14810848236084
+	contraction err= 5.403523596913249e-10 1.6495893307029102e-06
+
+Mean energy: -3.01552006e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.01552006e+01       6.353081e-03
+     2           25000       -3.01552006e+01       6.367712e-03
+     5           10000       -3.01552006e+01       6.348613e-03
+    10           5000       -3.01552006e+01       6.304837e-03
+    20           2500       -3.01552006e+01       6.337538e-03
+    50           1000       -3.01552006e+01       6.383956e-03
+    70            714       -3.01553662e+01       6.223557e-03
+   100            500       -3.01552006e+01       6.679704e-03
+   200            250       -3.01552006e+01       7.407059e-03
+   500            100       -3.01552006e+01       8.972041e-03
+0 0.006367711686752189 0.008972041111248741
+Stocahstic error estimate: 6.367712e-03
+
+step=8,E=-0.4711750092312317,dE=-0.0004420785251172399,err=9.949549510550295e-05,gmax=0.07572427035529206
+	collect g,Hv time= 0.4317893981933594
+niter= 47
+	solver time=36.78691387176514,exit status=0
+	g=0.3478455075901261,del=6.633130371702324,dot=0.7149210111073613,x=39.79226323927547
+	log prob= -4.182171395698675e+00
+	burn in time= 20.516424655914307
+	sample time= 436.1237983703613
+	contraction err= 5.994032305702922e-10 1.130488213316495e-06
+
+Mean energy: -3.01912972e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.01912972e+01       5.813689e-03
+     2           25000       -3.01912972e+01       5.796202e-03
+     5           10000       -3.01912972e+01       5.810042e-03
+    10           5000       -3.01912972e+01       5.855024e-03
+    20           2500       -3.01912972e+01       5.875064e-03
+    50           1000       -3.01912972e+01       5.899013e-03
+    70            714       -3.01912521e+01       5.859878e-03
+   100            500       -3.01912972e+01       6.022224e-03
+   200            250       -3.01912972e+01       6.714291e-03
+   500            100       -3.01912972e+01       8.114734e-03
+0 0.005813688795045945 0.00811473383091254
+Stocahstic error estimate: 5.813689e-03
+
+step=9,E=-0.4717390182017399,dE=-0.0005640089705082341,err=9.083888742259289e-05,gmax=0.03216551797745115
+	collect g,Hv time= 0.4612009525299072
+niter= 47
+	solver time=37.314586877822876,exit status=0
+	g=0.29671954345916524,del=6.02461166747678,dot=0.5402083351604071,x=39.79226323927547
+	log prob= -4.247378161306299e+00
+	burn in time= 20.6333110332489
+	sample time= 436.78976130485535
+	contraction err= 7.161079728104823e-10 1.1505802960146337e-06
+
+Mean energy: -3.02020679e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.02020679e+01       5.922499e-03
+     2           25000       -3.02020679e+01       5.946485e-03
+     5           10000       -3.02020679e+01       5.901109e-03
+    10           5000       -3.02020679e+01       5.949101e-03
+    20           2500       -3.02020679e+01       6.079197e-03
+    50           1000       -3.02020679e+01       6.010713e-03
+    70            714       -3.02022345e+01       5.864385e-03
+   100            500       -3.02020679e+01       6.297524e-03
+   200            250       -3.02020679e+01       7.251568e-03
+   500            100       -3.02020679e+01       8.814446e-03
+0 0.00594648510944584 0.008814445684533505
+Stocahstic error estimate: 5.946485e-03
+
+step=10,E=-0.47190731122503804,dE=-0.00016829302329812723,err=9.291382983509125e-05,gmax=0.034085418321368965
+	collect g,Hv time= 0.4266183376312256
+niter= 47
+	solver time=37.38874936103821,exit status=0
+	g=0.3183180291195642,del=5.541828004996789,dot=0.56912289293894,x=39.79226323927548
+	log prob= -4.410503700755137e+00
+	burn in time= 20.84267544746399
+	sample time= 439.36013865470886
+	contraction err= 1.0328224344313906e-09 4.760732956892528e-06
+
+Mean energy: -3.02343923e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.02343923e+01       5.886097e-03
+     2           25000       -3.02343923e+01       5.887441e-03
+     5           10000       -3.02343923e+01       5.880809e-03
+    10           5000       -3.02343923e+01       5.837159e-03
+    20           2500       -3.02343923e+01       5.858225e-03
+    50           1000       -3.02343923e+01       5.855867e-03
+    70            714       -3.02344491e+01       5.856148e-03
+   100            500       -3.02343923e+01       5.874778e-03
+   200            250       -3.02343923e+01       6.251951e-03
+   500            100       -3.02343923e+01       7.315765e-03
+0 0.005887441229809565 0.007315764525905453
+Stocahstic error estimate: 5.887441e-03
+
+step=11,E=-0.47241237908298905,dE=-0.0005050678579510137,err=9.199126921577445e-05,gmax=0.09839429115307308
+	collect g,Hv time= 0.44754528999328613
+niter= 48
+	solver time=38.18970537185669,exit status=0
+	g=0.3620186187256649,del=5.4142057398176195,dot=0.6083481610384721,x=39.79226323927548
+	log prob= -4.519099080783199e+00
+	burn in time= 21.587387084960938
+	sample time= 441.12908959388733
+	contraction err= 1.235481679746449e-09 2.46089612548052e-06
+
+Mean energy: -3.02242237e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.02242237e+01       6.098966e-03
+     2           25000       -3.02242237e+01       6.128806e-03
+     5           10000       -3.02242237e+01       6.130520e-03
+    10           5000       -3.02242237e+01       6.135420e-03
+    20           2500       -3.02242237e+01       6.110493e-03
+    50           1000       -3.02242237e+01       6.249018e-03
+    70            714       -3.02243243e+01       6.237717e-03
+   100            500       -3.02242237e+01       6.407309e-03
+   200            250       -3.02242237e+01       7.277322e-03
+   500            100       -3.02242237e+01       9.012752e-03
+0 0.006128805500718222 0.009012751989721474
+Stocahstic error estimate: 6.128806e-03
+
+step=12,E=-0.47225349550847356,dE=0.0001588835745154893,err=9.576258594872222e-05,gmax=0.061194246269836494
+	collect g,Hv time= 0.4241609573364258
+niter= 47
+	solver time=37.67901539802551,exit status=0
+	g=0.3490184357830768,del=5.460371683977776,dot=0.7144781662998134,x=39.79226323927548
+	log prob= -4.451525981431666e+00
+	burn in time= 21.40584897994995
+	sample time= 437.7426743507385
+	contraction err= 9.232336321204673e-10 1.5039759269261853e-06
+
+Mean energy: -3.02659013e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.02659013e+01       5.563388e-03
+     2           25000       -3.02659013e+01       5.583864e-03
+     5           10000       -3.02659013e+01       5.580204e-03
+    10           5000       -3.02659013e+01       5.527341e-03
+    20           2500       -3.02659013e+01       5.529056e-03
+    50           1000       -3.02659013e+01       5.445643e-03
+    70            714       -3.02658257e+01       5.365300e-03
+   100            500       -3.02659013e+01       5.531127e-03
+   200            250       -3.02659013e+01       6.206800e-03
+   500            100       -3.02659013e+01       6.749839e-03
+0 0.00558386426033264 0.006749839364398977
+Stocahstic error estimate: 5.583864e-03
+
+step=13,E=-0.4729047073670944,dE=-0.000651211858620826,err=8.72478790676975e-05,gmax=0.03700182269122232
+	collect g,Hv time= 0.4250059127807617
+	solver time=38.15353965759277,exit status=0
+niter= 46
+	g=0.2991226880307199,del=5.054746444446678,dot=0.47922090285782687,x=39.79226323927548
+	log prob= -4.883760142200253e+00
+	burn in time= 22.07214617729187
+	sample time= 435.4783878326416
+	contraction err= 1.3786924784345104e-09 4.682642188394411e-06
+
+Mean energy: -3.02434915e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.02434915e+01       5.805453e-03
+     2           25000       -3.02434915e+01       5.815146e-03
+     5           10000       -3.02434915e+01       5.796672e-03
+    10           5000       -3.02434915e+01       5.816531e-03
+    20           2500       -3.02434915e+01       5.841705e-03
+    50           1000       -3.02434915e+01       5.975670e-03
+    70            714       -3.02435585e+01       5.842252e-03
+   100            500       -3.02434915e+01       6.334492e-03
+   200            250       -3.02434915e+01       7.264044e-03
+   500            100       -3.02434915e+01       9.051755e-03
+0 0.005815146227948972 0.009051755149116932
+Stocahstic error estimate: 5.815146e-03
+
+step=14,E=-0.47255455444502725,dE=0.00035015292206713733,err=9.08616598117027e-05,gmax=0.028642257841331453
+	collect g,Hv time= 0.4287700653076172
+niter= 46
+	solver time=38.72477650642395,exit status=0
+	g=0.2557802932410365,del=5.155129061578531,dot=0.5631240548081338,x=39.79226323927548
+	log prob= -4.797152113202819e+00
+	burn in time= 21.729496955871582
+	sample time= 431.87697529792786
+	contraction err= 1.7777925982357624e-09 1.2925163481411406e-05
+
+Mean energy: -3.02915162e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.02915162e+01       5.399228e-03
+     2           25000       -3.02915162e+01       5.365259e-03
+     5           10000       -3.02915162e+01       5.363459e-03
+    10           5000       -3.02915162e+01       5.325037e-03
+    20           2500       -3.02915162e+01       5.306019e-03
+    50           1000       -3.02915162e+01       5.297533e-03
+    70            714       -3.02914579e+01       5.260104e-03
+   100            500       -3.02915162e+01       5.536233e-03
+   200            250       -3.02915162e+01       5.980605e-03
+   500            100       -3.02915162e+01       6.515177e-03
+0 0.005399228018043502 0.006515176500601938
+Stocahstic error estimate: 5.399228e-03
+
+step=15,E=-0.4733049401916339,dE=-0.0007503857466066299,err=8.436293778192972e-05,gmax=0.09765032913039295
+	collect g,Hv time= 0.4257645606994629
+niter= 47
+	solver time=36.865647077560425,exit status=0
+	g=0.3178640682588561,del=4.687886845213684,dot=0.5179342522068483,x=39.79226323927548
+	log prob= -4.957377144237783e+00
+	burn in time= 21.655908584594727
+	sample time= 429.7618136405945
+	contraction err= 2.085678040087048e-09 1.0166436934542205e-05
+
+Mean energy: -3.03158238e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03158238e+01       5.361245e-03
+     2           25000       -3.03158238e+01       5.370685e-03
+     5           10000       -3.03158238e+01       5.330653e-03
+    10           5000       -3.03158238e+01       5.285160e-03
+    20           2500       -3.03158238e+01       5.374360e-03
+    50           1000       -3.03158238e+01       5.295276e-03
+    70            714       -3.03158359e+01       5.315774e-03
+   100            500       -3.03158238e+01       5.471488e-03
+   200            250       -3.03158238e+01       6.158401e-03
+   500            100       -3.03158238e+01       7.326800e-03
+0 0.005370685202140545 0.007326800213856514
+Stocahstic error estimate: 5.370685e-03
+
+step=16,E=-0.47368474712973513,dE=-0.0003798069381012459,err=8.391695628344601e-05,gmax=0.07121568651088372
+	collect g,Hv time= 0.46119189262390137
+niter= 47
+	solver time=36.698954820632935,exit status=0
+	g=0.3017485199097693,del=4.553703163285364,dot=0.5159795920193072,x=39.79226323927548
+	log prob= -5.1464703321853325e+00
+	burn in time= 21.477229833602905
+	sample time= 428.9461793899536
+	contraction err= 1.994606612020874e-09 9.333935692988945e-06
+
+Mean energy: -3.03100052e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03100052e+01       5.267380e-03
+     2           25000       -3.03100052e+01       5.268536e-03
+     5           10000       -3.03100052e+01       5.311850e-03
+    10           5000       -3.03100052e+01       5.330822e-03
+    20           2500       -3.03100052e+01       5.345810e-03
+    50           1000       -3.03100052e+01       5.363678e-03
+    70            714       -3.03101708e+01       5.248961e-03
+   100            500       -3.03100052e+01       5.613044e-03
+   200            250       -3.03100052e+01       6.425613e-03
+   500            100       -3.03100052e+01       7.493395e-03
+0 0.0052685363502540826 0.007493395350443791
+Stocahstic error estimate: 5.268536e-03
+
+step=17,E=-0.47359383161720686,dE=9.09155125282668e-05,err=8.232088047272004e-05,gmax=0.03839878054346313
+	collect g,Hv time= 0.42945146560668945
+niter= 47
+	solver time=37.314682483673096,exit status=0
+	g=0.29111530572734673,del=4.400545488665395,dot=0.42582252688850836,x=39.79226323927548
+	log prob= -5.007846987264722e+00
+	burn in time= 21.8178288936615
+	sample time= 438.77739357948303
+	contraction err= 2.7040763999361207e-09 3.360289884436904e-05
+
+Mean energy: -3.03047190e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03047190e+01       5.527601e-03
+     2           25000       -3.03047190e+01       5.551813e-03
+     5           10000       -3.03047190e+01       5.530208e-03
+    10           5000       -3.03047190e+01       5.512877e-03
+    20           2500       -3.03047190e+01       5.559238e-03
+    50           1000       -3.03047190e+01       5.508760e-03
+    70            714       -3.03047847e+01       5.393003e-03
+   100            500       -3.03047190e+01       5.661204e-03
+   200            250       -3.03047190e+01       6.374375e-03
+   500            100       -3.03047190e+01       8.074250e-03
+0 0.005551813083885653 0.008074249700266796
+Stocahstic error estimate: 5.551813e-03
+
+step=18,E=-0.4735112345200216,dE=8.259709718527741e-05,err=8.674707943571333e-05,gmax=0.2292066622014084
+	collect g,Hv time= 0.4255030155181885
+niter= 47
+	solver time=36.783456325531006,exit status=0
+	g=0.51138174151954,del=4.204432948411952,dot=0.5399035807034547,x=39.79226323927548
+	log prob= -5.397386536038278e+00
+	burn in time= 20.285572052001953
+	sample time= 436.76028513908386
+	contraction err= 2.4550502783670108e-09 1.2696583707685141e-05
+
+Mean energy: -3.03300882e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03300882e+01       5.320606e-03
+     2           25000       -3.03300882e+01       5.319580e-03
+     5           10000       -3.03300882e+01       5.340501e-03
+    10           5000       -3.03300882e+01       5.275767e-03
+    20           2500       -3.03300882e+01       5.310054e-03
+    50           1000       -3.03300882e+01       5.534281e-03
+    70            714       -3.03300184e+01       5.397673e-03
+   100            500       -3.03300882e+01       5.699475e-03
+   200            250       -3.03300882e+01       6.309642e-03
+   500            100       -3.03300882e+01       7.189332e-03
+0 0.005320605796226029 0.007189331843945748
+Stocahstic error estimate: 5.320606e-03
+
+step=19,E=-0.4739076275992786,dE=-0.00039639307925704026,err=8.31344655660317e-05,gmax=0.3706326153275064
+	collect g,Hv time= 0.42974066734313965
+niter= 47
+	solver time=36.894232749938965,exit status=0
+	g=1.091277805912968,del=3.94634529923529,dot=0.4415179654461601,x=39.79226323927548
+	log prob= -5.59085833709033e+00
+	burn in time= 20.12958025932312
+	sample time= 432.8875434398651
+	contraction err= 2.2185842398243357e-09 1.2457444799222488e-05
+
+Mean energy: -3.03383925e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03383925e+01       5.092767e-03
+     2           25000       -3.03383925e+01       5.095521e-03
+     5           10000       -3.03383925e+01       5.114294e-03
+    10           5000       -3.03383925e+01       5.146575e-03
+    20           2500       -3.03383925e+01       5.043528e-03
+    50           1000       -3.03383925e+01       5.102923e-03
+    70            714       -3.03384205e+01       5.152785e-03
+   100            500       -3.03383925e+01       5.491129e-03
+   200            250       -3.03383925e+01       5.812733e-03
+   500            100       -3.03383925e+01       6.966286e-03
+0 0.005095521259270614 0.006966285735686916
+Stocahstic error estimate: 5.095521e-03
+
+step=20,E=-0.47403738248216426,dE=-0.00012975488288563541,err=7.961751967610335e-05,gmax=0.1314606980694022
+	collect g,Hv time= 0.4214799404144287
+niter= 48
+	solver time=37.63297414779663,exit status=0
+	g=0.3660953930450812,del=3.654786838776308,dot=0.38599815633928336,x=39.79226323927548
+	log prob= -5.364615204151856e+00
+	burn in time= 19.61505937576294
+	sample time= 434.3971838951111
+	contraction err= 2.685306091818833e-09 7.67965386306747e-06
+
+Mean energy: -3.03326378e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03326378e+01       5.253662e-03
+     2           25000       -3.03326378e+01       5.235527e-03
+     5           10000       -3.03326378e+01       5.218132e-03
+    10           5000       -3.03326378e+01       5.253252e-03
+    20           2500       -3.03326378e+01       5.218101e-03
+    50           1000       -3.03326378e+01       5.117006e-03
+    70            714       -3.03326421e+01       5.226595e-03
+   100            500       -3.03326378e+01       5.332631e-03
+   200            250       -3.03326378e+01       5.544054e-03
+   500            100       -3.03326378e+01       6.201571e-03
+0 0.005253662319915947 0.006201571362680858
+Stocahstic error estimate: 5.253662e-03
+
+step=21,E=-0.47394746625517287,dE=8.991622699139334e-05,err=8.208847374868667e-05,gmax=0.038657896562928507
+	collect g,Hv time= 0.42360448837280273
+niter= 47
+	solver time=36.87111449241638,exit status=0
+	g=0.251381715019035,del=4.188334767100461,dot=0.43501469945098936,x=39.79226323927548
+	log prob= -5.452144108471606e+00
+	burn in time= 20.07195520401001
+	sample time= 436.1421756744385
+	contraction err= 2.8230875589817414e-09 7.217348240166834e-06
+
+Mean energy: -3.03444174e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03444174e+01       5.240431e-03
+     2           25000       -3.03444174e+01       5.256682e-03
+     5           10000       -3.03444174e+01       5.310826e-03
+    10           5000       -3.03444174e+01       5.326731e-03
+    20           2500       -3.03444174e+01       5.307878e-03
+    50           1000       -3.03444174e+01       5.437386e-03
+    70            714       -3.03442888e+01       5.198485e-03
+   100            500       -3.03444174e+01       5.543576e-03
+   200            250       -3.03444174e+01       5.963483e-03
+   500            100       -3.03444174e+01       6.863298e-03
+0 0.005256682297791934 0.0068632975267764774
+Stocahstic error estimate: 5.256682e-03
+
+step=22,E=-0.4741315225105873,dE=-0.00018405625541445536,err=8.213566090299897e-05,gmax=0.02919346722435203
+	collect g,Hv time= 0.42978930473327637
+niter= 46
+	solver time=36.04328751564026,exit status=0
+	g=0.2547211287663482,del=4.044153747350211,dot=0.43541102106388246,x=39.79226323927548
+	log prob= -5.554059606028e+00
+	burn in time= 21.569002628326416
+	sample time= 435.1278564929962
+	contraction err= 3.4209121431272208e-09 1.5778674853534773e-05
+
+Mean energy: -3.03654889e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03654889e+01       5.010512e-03
+     2           25000       -3.03654889e+01       5.004766e-03
+     5           10000       -3.03654889e+01       5.015294e-03
+    10           5000       -3.03654889e+01       5.013727e-03
+    20           2500       -3.03654889e+01       4.982402e-03
+    50           1000       -3.03654889e+01       5.065747e-03
+    70            714       -3.03655010e+01       5.116117e-03
+   100            500       -3.03654889e+01       5.347694e-03
+   200            250       -3.03654889e+01       5.863262e-03
+   500            100       -3.03654889e+01       6.968284e-03
+0 0.005010511782506541 0.006968284343713803
+Stocahstic error estimate: 5.010512e-03
+
+step=23,E=-0.4744607636070981,dE=-0.0003292410965107795,err=7.82892466016647e-05,gmax=0.09680508192065163
+	collect g,Hv time= 0.4494359493255615
+niter= 46
+	solver time=36.18350648880005,exit status=0
+	g=0.33229238237409925,del=3.9307199484869653,dot=0.39643582981814685,x=39.79226323927548
+	log prob= -5.340799967997818e+00
+	burn in time= 21.595489978790283
+	sample time= 434.6896333694458
+	contraction err= 3.26166568619861e-09 1.1800682412358423e-05
+
+Mean energy: -3.03770378e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03770378e+01       5.055119e-03
+     2           25000       -3.03770378e+01       5.056643e-03
+     5           10000       -3.03770378e+01       5.051335e-03
+    10           5000       -3.03770378e+01       5.045237e-03
+    20           2500       -3.03770378e+01       5.147477e-03
+    50           1000       -3.03770378e+01       5.343171e-03
+    70            714       -3.03770497e+01       5.263895e-03
+   100            500       -3.03770378e+01       5.483685e-03
+   200            250       -3.03770378e+01       6.103007e-03
+   500            100       -3.03770378e+01       6.605876e-03
+0 0.005056642851745689 0.0066058756530920845
+Stocahstic error estimate: 5.056643e-03
+
+step=24,E=-0.4746412157877559,dE=-0.00018045218065781965,err=7.901004455852639e-05,gmax=0.06028870074382753
+	collect g,Hv time= 0.42271971702575684
+niter= 48
+	solver time=37.84579563140869,exit status=0
+	g=0.2939280391667738,del=3.6622735911818256,dot=0.3797019537033986,x=39.79226323927548
+	log prob= -5.779759141281083e+00
+	burn in time= 21.338481903076172
+	sample time= 433.76136660575867
+	contraction err= 3.3428115896081677e-09 8.603627319373875e-06
+
+Mean energy: -3.03511102e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03511102e+01       5.379559e-03
+     2           25000       -3.03511102e+01       5.387792e-03
+     5           10000       -3.03511102e+01       5.370569e-03
+    10           5000       -3.03511102e+01       5.399678e-03
+    20           2500       -3.03511102e+01       5.532011e-03
+    50           1000       -3.03511102e+01       5.485467e-03
+    70            714       -3.03511593e+01       5.371093e-03
+   100            500       -3.03511102e+01       5.478028e-03
+   200            250       -3.03511102e+01       6.161297e-03
+   500            100       -3.03511102e+01       7.566609e-03
+0 0.005387792039341471 0.00756660910842067
+Stocahstic error estimate: 5.387792e-03
+
+step=25,E=-0.4742360964863751,dE=0.00040511930138081853,err=8.418425061471048e-05,gmax=0.2604195923848769
+	collect g,Hv time= 0.4205358028411865
+niter= 48
+	solver time=40.70574975013733,exit status=0
+	g=0.506060128688381,del=4.002640323257033,dot=0.5213893549362594,x=39.79226323927548
+	log prob= -5.651512503702378e+00
+	burn in time= 21.711126565933228
+	sample time= 432.8402895927429
+	contraction err= 3.499282195702422e-09 9.752286185909107e-06
+
+Mean energy: -3.03522276e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03522276e+01       5.325286e-03
+     2           25000       -3.03522276e+01       5.327287e-03
+     5           10000       -3.03522276e+01       5.386637e-03
+    10           5000       -3.03522276e+01       5.354558e-03
+    20           2500       -3.03522276e+01       5.360678e-03
+    50           1000       -3.03522276e+01       5.507811e-03
+    70            714       -3.03523418e+01       5.353544e-03
+   100            500       -3.03522276e+01       5.753730e-03
+   200            250       -3.03522276e+01       6.574155e-03
+   500            100       -3.03522276e+01       7.900204e-03
+0 0.005327287205264279 0.007900204104242048
+Stocahstic error estimate: 5.327287e-03
+
+step=26,E=-0.4742535554865727,dE=-1.7459000197617147e-05,err=8.323886258225435e-05,gmax=0.059012890191719736
+	collect g,Hv time= 0.42920565605163574
+niter= 46
+	solver time=37.04608917236328,exit status=0
+	g=0.25590756170011736,del=4.246918994686102,dot=0.4857497590133859,x=39.792263239275485
+	log prob= -5.644104106257591e+00
+	burn in time= 21.58393955230713
+	sample time= 432.85872411727905
+	contraction err= 4.5248333474738944e-09 2.358707764192737e-05
+
+Mean energy: -3.03565485e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03565485e+01       5.255002e-03
+     2           25000       -3.03565485e+01       5.284371e-03
+     5           10000       -3.03565485e+01       5.274075e-03
+    10           5000       -3.03565485e+01       5.205560e-03
+    20           2500       -3.03565485e+01       5.290745e-03
+    50           1000       -3.03565485e+01       5.374334e-03
+    70            714       -3.03565092e+01       5.226054e-03
+   100            500       -3.03565485e+01       5.484088e-03
+   200            250       -3.03565485e+01       5.722658e-03
+   500            100       -3.03565485e+01       6.331290e-03
+0 0.005284370718572436 0.006331290110211888
+Stocahstic error estimate: 5.284371e-03
+
+step=27,E=-0.4743210706041815,dE=-6.751511760877404e-05,err=8.256829247769431e-05,gmax=0.05921167075624889
+	collect g,Hv time= 0.4299123287200928
+niter= 47
+	solver time=37.96546459197998,exit status=0
+	g=0.24153378093094777,del=3.800116012567254,dot=0.4282344701176998,x=39.792263239275485
+	log prob= -5.454573144786867e+00
+	burn in time= 21.235283136367798
+	sample time= 431.51835083961487
+	contraction err= 4.2802467738478795e-09 1.2929647494101385e-05
+
+Mean energy: -3.03671062e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03671062e+01       5.098879e-03
+     2           25000       -3.03671062e+01       5.096812e-03
+     5           10000       -3.03671062e+01       5.068529e-03
+    10           5000       -3.03671062e+01       5.067447e-03
+    20           2500       -3.03671062e+01       5.119091e-03
+    50           1000       -3.03671062e+01       5.090292e-03
+    70            714       -3.03671765e+01       4.916540e-03
+   100            500       -3.03671062e+01       5.060540e-03
+   200            250       -3.03671062e+01       5.257205e-03
+   500            100       -3.03671062e+01       5.447015e-03
+0 0.005098879495008947 0.005447014638478953
+Stocahstic error estimate: 5.098879e-03
+
+step=28,E=-0.47448603361502073,dE=-0.00016496301083923637,err=7.966999210951479e-05,gmax=0.03350531547422286
+	collect g,Hv time= 0.42957448959350586
+niter= 47
+	solver time=37.77645182609558,exit status=0
+	g=0.21235348395606474,del=4.023114448906954,dot=0.37823667045930903,x=39.79226323927548
+	log prob= -5.507889424579863e+00
+	burn in time= 21.797975778579712
+	sample time= 427.5511050224304
+	contraction err= 5.735324841256576e-09 5.143022537703311e-05
+
+Mean energy: -3.03620939e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03620939e+01       5.077134e-03
+     2           25000       -3.03620939e+01       5.075813e-03
+     5           10000       -3.03620939e+01       5.065381e-03
+    10           5000       -3.03620939e+01       5.059045e-03
+    20           2500       -3.03620939e+01       5.106668e-03
+    50           1000       -3.03620939e+01       5.121675e-03
+    70            714       -3.03619574e+01       5.094703e-03
+   100            500       -3.03620939e+01       5.141926e-03
+   200            250       -3.03620939e+01       5.831227e-03
+   500            100       -3.03620939e+01       6.750101e-03
+0 0.005077133551774437 0.006750101262203826
+Stocahstic error estimate: 5.077134e-03
+
+step=29,E=-0.4744077169861828,dE=7.831662883794888e-05,err=7.933021174647558e-05,gmax=0.04336524465448299
+	collect g,Hv time= 0.4308774471282959
+niter= 47
+	solver time=36.85397744178772,exit status=0
+	g=0.22520889775968853,del=3.833256108792078,dot=0.4091390500676644,x=39.792263239275485
+	log prob= -5.491852626040975e+00
+	burn in time= 19.91142177581787
+	sample time= 426.3901617527008
+	contraction err= 3.404044355120722e-09 9.170080673126694e-06
+
+Mean energy: -3.03982132e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03982132e+01       4.820705e-03
+     2           25000       -3.03982132e+01       4.838442e-03
+     5           10000       -3.03982132e+01       4.833277e-03
+    10           5000       -3.03982132e+01       4.792257e-03
+    20           2500       -3.03982132e+01       4.786798e-03
+    50           1000       -3.03982132e+01       4.800906e-03
+    70            714       -3.03982845e+01       4.907720e-03
+   100            500       -3.03982132e+01       5.032257e-03
+   200            250       -3.03982132e+01       5.433646e-03
+   500            100       -3.03982132e+01       6.013959e-03
+0 0.00483844196102416 0.006013959071855768
+Stocahstic error estimate: 4.838442e-03
+
+step=30,E=-0.4749720809880982,dE=-0.0005643640019153962,err=7.56006556410025e-05,gmax=0.02055525456802265
+	collect g,Hv time= 0.45229053497314453
+niter= 48
+	solver time=37.64258790016174,exit status=0
+	g=0.21842764570043485,del=3.703325012811339,dot=0.3064197308811583,x=39.79226323927548
+	log prob= -5.757750253751564e+00
+	burn in time= 19.650418519973755
+	sample time= 424.4688730239868
+	contraction err= 5.171650565333175e-09 1.5815815957493646e-05
+
+Mean energy: -3.03796464e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03796464e+01       4.912704e-03
+     2           25000       -3.03796464e+01       4.897414e-03
+     5           10000       -3.03796464e+01       4.902194e-03
+    10           5000       -3.03796464e+01       4.867312e-03
+    20           2500       -3.03796464e+01       4.908845e-03
+    50           1000       -3.03796464e+01       4.835542e-03
+    70            714       -3.03796350e+01       4.711512e-03
+   100            500       -3.03796464e+01       4.773552e-03
+   200            250       -3.03796464e+01       5.130270e-03
+   500            100       -3.03796464e+01       5.996356e-03
+0 0.004912704211735539 0.005996355843134952
+Stocahstic error estimate: 4.912704e-03
+
+step=31,E=-0.47468197432258946,dE=0.0002901066655087159,err=7.67610033083678e-05,gmax=0.0355069491853815
+	collect g,Hv time= 0.42444777488708496
+niter= 48
+	solver time=37.70563817024231,exit status=0
+	g=0.21842396268944306,del=3.7353169105407873,dot=0.35237893037929696,x=39.79226323927548
+	log prob= -5.8604057921699e+00
+	burn in time= 19.770955324172974
+	sample time= 428.44701528549194
+	contraction err= 4.36047883122561e-09 1.111913005339093e-05
+
+Mean energy: -3.03911165e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03911165e+01       5.061891e-03
+     2           25000       -3.03911165e+01       5.064342e-03
+     5           10000       -3.03911165e+01       5.056831e-03
+    10           5000       -3.03911165e+01       5.091637e-03
+    20           2500       -3.03911165e+01       5.097194e-03
+    50           1000       -3.03911165e+01       5.216890e-03
+    70            714       -3.03912463e+01       5.311197e-03
+   100            500       -3.03911165e+01       5.426593e-03
+   200            250       -3.03911165e+01       6.072194e-03
+   500            100       -3.03911165e+01       7.608127e-03
+0 0.005064341941185542 0.0076081272581168926
+Stocahstic error estimate: 5.064342e-03
+
+step=32,E=-0.47486119569142327,dE=-0.00017922136883380402,err=7.913034283102409e-05,gmax=0.032237858802251385
+	collect g,Hv time= 0.42511653900146484
+niter= 46
+	solver time=36.87665891647339,exit status=0
+	g=0.22311068147938648,del=3.8462473338969048,dot=0.38546619759813117,x=39.79226323927548
+	log prob= -5.584483121018994e+00
+	burn in time= 20.17382049560547
+	sample time= 429.43265080451965
+	contraction err= 4.736358428604387e-09 8.124212111447608e-06
+
+Mean energy: -3.03747525e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03747525e+01       5.507618e-03
+     2           25000       -3.03747525e+01       5.483499e-03
+     5           10000       -3.03747525e+01       5.504893e-03
+    10           5000       -3.03747525e+01       5.487399e-03
+    20           2500       -3.03747525e+01       5.567318e-03
+    50           1000       -3.03747525e+01       5.647443e-03
+    70            714       -3.03750415e+01       5.649811e-03
+   100            500       -3.03747525e+01       5.640701e-03
+   200            250       -3.03747525e+01       6.225524e-03
+   500            100       -3.03747525e+01       6.899761e-03
+0 0.005507617596732536 0.006899761032685901
+Stocahstic error estimate: 5.507618e-03
+
+step=33,E=-0.47460550743989877,dE=0.0002556882515244996,err=8.605652494894588e-05,gmax=0.14783150756392915
+	collect g,Hv time= 0.4646296501159668
+niter= 47
+	solver time=36.71652293205261,exit status=0
+	g=0.3397259221045806,del=4.109841638525048,dot=0.5602774108323856,x=39.79226323927548
+	log prob= -5.767587234573474e+00
+	burn in time= 20.736919403076172
+	sample time= 427.49565172195435
+	contraction err= 6.403712658159617e-09 2.5711119756920118e-05
+
+Mean energy: -3.03673538e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03673538e+01       5.258261e-03
+     2           25000       -3.03673538e+01       5.273869e-03
+     5           10000       -3.03673538e+01       5.279559e-03
+    10           5000       -3.03673538e+01       5.297188e-03
+    20           2500       -3.03673538e+01       5.281984e-03
+    50           1000       -3.03673538e+01       5.319493e-03
+    70            714       -3.03672575e+01       5.151263e-03
+   100            500       -3.03673538e+01       5.306082e-03
+   200            250       -3.03673538e+01       5.963429e-03
+   500            100       -3.03673538e+01       7.459396e-03
+0 0.005273868949849251 0.0074593956650411
+Stocahstic error estimate: 5.273869e-03
+
+step=34,E=-0.47448990247997325,dE=0.00011560495992551933,err=8.240420234139454e-05,gmax=0.043992811122174125
+	collect g,Hv time= 0.4278233051300049
+niter= 47
+	solver time=36.817068338394165,exit status=0
+	g=0.25287357392468235,del=3.916436838002924,dot=0.4925090822434779,x=39.79226323927547
+	log prob= -5.745849878044882e+00
+	burn in time= 21.004574060440063
+	sample time= 429.7294113636017
+	contraction err= 7.964804517570843e-09 8.443277839545472e-05
+
+Mean energy: -3.03882171e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03882171e+01       4.945618e-03
+     2           25000       -3.03882171e+01       4.970723e-03
+     5           10000       -3.03882171e+01       4.951208e-03
+    10           5000       -3.03882171e+01       4.971376e-03
+    20           2500       -3.03882171e+01       4.883998e-03
+    50           1000       -3.03882171e+01       5.030529e-03
+    70            714       -3.03882261e+01       5.049063e-03
+   100            500       -3.03882171e+01       5.084181e-03
+   200            250       -3.03882171e+01       5.318384e-03
+   500            100       -3.03882171e+01       6.472890e-03
+0 0.004970723466458828 0.0064728902888523555
+Stocahstic error estimate: 4.970723e-03
+
+step=35,E=-0.47481589149128317,dE=-0.00032598901130992397,err=7.766755416341919e-05,gmax=0.0989082761334259
+	collect g,Hv time= 0.42327141761779785
+niter= 47
+	solver time=36.839656591415405,exit status=0
+	g=0.3192868966912035,del=3.57851133104347,dot=0.35591508521807236,x=39.79226323927548
+	log prob= -5.952407847958416e+00
+	burn in time= 19.68808364868164
+	sample time= 429.83965587615967
+	contraction err= 6.320641743707648e-09 2.3044404409760052e-05
+
+Mean energy: -3.04005291e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04005291e+01       4.878609e-03
+     2           25000       -3.04005291e+01       4.853113e-03
+     5           10000       -3.04005291e+01       4.871703e-03
+    10           5000       -3.04005291e+01       4.929401e-03
+    20           2500       -3.04005291e+01       4.938415e-03
+    50           1000       -3.04005291e+01       4.836827e-03
+    70            714       -3.04005807e+01       4.880793e-03
+   100            500       -3.04005291e+01       5.009230e-03
+   200            250       -3.04005291e+01       5.586958e-03
+   500            100       -3.04005291e+01       6.305902e-03
+0 0.004878608562588157 0.006305902059104733
+Stocahstic error estimate: 4.878609e-03
+
+step=36,E=-0.47500826653311684,dE=-0.00019237504183367005,err=7.622825879043995e-05,gmax=0.023363044865094995
+	collect g,Hv time= 0.4266486167907715
+niter= 48
+	solver time=38.743404388427734,exit status=0
+	g=0.22534918746114752,del=3.7033518286808267,dot=0.3240175890851856,x=39.79226323927548
+	log prob= -5.681295145142371e+00
+	burn in time= 19.456173419952393
+	sample time= 428.22785997390747
+	contraction err= 5.769844481075324e-09 3.5676838700428296e-05
+
+Mean energy: -3.03831926e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03831926e+01       5.031472e-03
+     2           25000       -3.03831926e+01       5.042524e-03
+     5           10000       -3.03831926e+01       5.056953e-03
+    10           5000       -3.03831926e+01       5.033807e-03
+    20           2500       -3.03831926e+01       4.995559e-03
+    50           1000       -3.03831926e+01       5.152286e-03
+    70            714       -3.03830941e+01       5.169796e-03
+   100            500       -3.03831926e+01       5.160903e-03
+   200            250       -3.03831926e+01       5.689224e-03
+   500            100       -3.03831926e+01       6.414989e-03
+0 0.005042524166574422 0.006414989070652484
+Stocahstic error estimate: 5.042524e-03
+
+step=37,E=-0.4747373836780442,dE=0.00027088285507265164,err=7.878944010272535e-05,gmax=0.06924029434113863
+	collect g,Hv time= 0.4247853755950928
+niter= 46
+	solver time=37.95520329475403,exit status=0
+	g=0.19263265156867215,del=3.5766287377796107,dot=0.34184406737686124,x=39.79226323927548
+	log prob= -5.828073288904675e+00
+	burn in time= 19.26264500617981
+	sample time= 428.0667293071747
+	contraction err= 6.3129051501844195e-09 1.8081681800013106e-05
+
+Mean energy: -3.03779404e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03779404e+01       5.610642e-03
+     2           25000       -3.03779404e+01       5.597932e-03
+     5           10000       -3.03779404e+01       5.633660e-03
+    10           5000       -3.03779404e+01       5.631825e-03
+    20           2500       -3.03779404e+01       5.605439e-03
+    50           1000       -3.03779404e+01       5.719430e-03
+    70            714       -3.03777942e+01       5.739192e-03
+   100            500       -3.03779404e+01       5.993290e-03
+   200            250       -3.03779404e+01       6.579926e-03
+   500            100       -3.03779404e+01       8.332925e-03
+0 0.0056106420083244886 0.008332924836864396
+Stocahstic error estimate: 5.610642e-03
+
+step=38,E=-0.4746553186157901,dE=8.206506225411081e-05,err=8.766628138007013e-05,gmax=0.06318160647058045
+	collect g,Hv time= 0.45058679580688477
+niter= 46
+	solver time=36.426140546798706,exit status=0
+	g=0.32733321624585093,del=3.937929929059819,dot=0.6214958505956863,x=39.792263239275485
+	log prob= -5.85423974263707e+00
+	burn in time= 19.3474440574646
+	sample time= 427.96346783638
+	contraction err= 6.475568491824684e-09 4.944678928022373e-05
+
+Mean energy: -3.03881174e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03881174e+01       4.900526e-03
+     2           25000       -3.03881174e+01       4.920451e-03
+     5           10000       -3.03881174e+01       4.941606e-03
+    10           5000       -3.03881174e+01       4.926559e-03
+    20           2500       -3.03881174e+01       4.941369e-03
+    50           1000       -3.03881174e+01       4.991175e-03
+    70            714       -3.03881195e+01       5.029041e-03
+   100            500       -3.03881174e+01       5.211867e-03
+   200            250       -3.03881174e+01       5.661548e-03
+   500            100       -3.03881174e+01       6.387780e-03
+0 0.004920450949498247 0.006387780006927478
+Stocahstic error estimate: 4.920451e-03
+
+step=39,E=-0.47481433383544397,dE=-0.00015901521965389076,err=7.688204608591011e-05,gmax=0.03164784569597483
+	collect g,Hv time= 0.44421863555908203
+niter= 47
+	solver time=36.694053411483765,exit status=0
+	g=0.18778722039950277,del=3.549851614298461,dot=0.31092499665746565,x=39.79226323927548
+	log prob= -6.484740689857124e+00
+	burn in time= 19.53590965270996
+	sample time= 426.73217606544495
+	contraction err= 5.378129771621182e-09 1.668947896043855e-05
+
+Mean energy: -3.04110071e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04110071e+01       4.885355e-03
+     2           25000       -3.04110071e+01       4.902862e-03
+     5           10000       -3.04110071e+01       4.919924e-03
+    10           5000       -3.04110071e+01       4.861975e-03
+    20           2500       -3.04110071e+01       4.868031e-03
+    50           1000       -3.04110071e+01       4.879763e-03
+    70            714       -3.04110696e+01       4.992977e-03
+   100            500       -3.04110071e+01       5.084671e-03
+   200            250       -3.04110071e+01       5.449001e-03
+   500            100       -3.04110071e+01       5.600947e-03
+0 0.0049028617091513285 0.00560094658368597
+Stocahstic error estimate: 4.902862e-03
+
+step=40,E=-0.47517198646663483,dE=-0.00035765263119086343,err=7.660721420548951e-05,gmax=0.021390740053452983
+	collect g,Hv time= 0.42315196990966797
+niter= 47
+	solver time=38.96303033828735,exit status=0
+	g=0.19413910214836022,del=3.524935678398654,dot=0.30688122481122554,x=39.79226323927548
+	log prob= -6.112846950871373e+00
+	burn in time= 19.476189851760864
+	sample time= 423.75294256210327
+	contraction err= 6.403497485109111e-09 1.2688283956674024e-05
+
+Mean energy: -3.03946352e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03946352e+01       5.360721e-03
+     2           25000       -3.03946352e+01       5.339950e-03
+     5           10000       -3.03946352e+01       5.383919e-03
+    10           5000       -3.03946352e+01       5.385958e-03
+    20           2500       -3.03946352e+01       5.454256e-03
+    50           1000       -3.03946352e+01       5.393632e-03
+    70            714       -3.03945163e+01       5.328783e-03
+   100            500       -3.03946352e+01       5.446447e-03
+   200            250       -3.03946352e+01       5.654693e-03
+   500            100       -3.03946352e+01       6.088269e-03
+0 0.005360720533603039 0.006088269066475708
+Stocahstic error estimate: 5.360721e-03
+
+step=41,E=-0.4749161744880978,dE=0.00025581197853702387,err=8.376125833754748e-05,gmax=0.11088503697812335
+	collect g,Hv time= 0.4241209030151367
+niter= 49
+	solver time=38.49570941925049,exit status=0
+	g=0.39308547830162943,del=3.7592425307935398,dot=0.4711774990068031,x=39.79226323927548
+	log prob= -6.491211978185071e+00
+	burn in time= 19.752511262893677
+	sample time= 425.11723923683167
+	contraction err= 7.19383225574447e-09 3.306533784308894e-05
+
+Mean energy: -3.03782009e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03782009e+01       5.159206e-03
+     2           25000       -3.03782009e+01       5.150346e-03
+     5           10000       -3.03782009e+01       5.178752e-03
+    10           5000       -3.03782009e+01       5.190707e-03
+    20           2500       -3.03782009e+01       5.183624e-03
+    50           1000       -3.03782009e+01       5.208995e-03
+    70            714       -3.03782200e+01       5.120618e-03
+   100            500       -3.03782009e+01       5.244552e-03
+   200            250       -3.03782009e+01       5.752322e-03
+   500            100       -3.03782009e+01       6.808664e-03
+0 0.005159206478456652 0.006808664141607033
+Stocahstic error estimate: 5.159206e-03
+
+step=42,E=-0.4746593891550531,dE=0.00025678533304468454,err=8.061260122588519e-05,gmax=0.027681453774289974
+	collect g,Hv time= 0.44393277168273926
+niter= 48
+	solver time=37.720948457717896,exit status=0
+	g=0.19642919325751554,del=3.712588159379839,dot=0.3839322305035796,x=39.79226323927548
+	log prob= -6.310639802135936e+00
+	burn in time= 20.956271409988403
+	sample time= 429.57589769363403
+	contraction err= 8.196370623864702e-09 3.2746657071080144e-05
+
+Mean energy: -3.03813533e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03813533e+01       5.276934e-03
+     2           25000       -3.03813533e+01       5.268784e-03
+     5           10000       -3.03813533e+01       5.268734e-03
+    10           5000       -3.03813533e+01       5.324557e-03
+    20           2500       -3.03813533e+01       5.259386e-03
+    50           1000       -3.03813533e+01       5.263416e-03
+    70            714       -3.03811941e+01       5.410183e-03
+   100            500       -3.03813533e+01       5.409074e-03
+   200            250       -3.03813533e+01       5.989294e-03
+   500            100       -3.03813533e+01       7.360945e-03
+0 0.005276934360974166 0.007360945083880426
+Stocahstic error estimate: 5.276934e-03
+
+step=43,E=-0.4747086448382859,dE=-4.925568323277396e-05,err=8.245209939022134e-05,gmax=0.045518075594411345
+	collect g,Hv time= 0.42073559761047363
+niter= 46
+	solver time=36.2029333114624,exit status=0
+	g=0.2053765777473186,del=3.9257252172386647,dot=0.45856261257907327,x=39.79226323927548
+	log prob= -6.4317424748372485e+00
+	burn in time= 21.089457035064697
+	sample time= 429.45323300361633
+	contraction err= 6.289819039050081e-09 2.800128831800145e-05
+
+Mean energy: -3.04063613e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04063613e+01       4.990139e-03
+     2           25000       -3.04063613e+01       5.018582e-03
+     5           10000       -3.04063613e+01       5.027417e-03
+    10           5000       -3.04063613e+01       5.075168e-03
+    20           2500       -3.04063613e+01       5.041427e-03
+    50           1000       -3.04063613e+01       4.964114e-03
+    70            714       -3.04063324e+01       4.622049e-03
+   100            500       -3.04063613e+01       5.055370e-03
+   200            250       -3.04063613e+01       5.164933e-03
+   500            100       -3.04063613e+01       5.770783e-03
+0 0.00501858248943526 0.00577078277495263
+Stocahstic error estimate: 5.018582e-03
+
+step=44,E=-0.47509939476277396,dE=-0.0003907499244880652,err=7.841535139742594e-05,gmax=0.02439474887140669
+	collect g,Hv time= 0.42452526092529297
+niter= 46
+	solver time=38.57858061790466,exit status=0
+	g=0.2022409811225744,del=3.5345996072111556,dot=0.3434027363160191,x=39.79226323927548
+	log prob= -6.116915389291963e+00
+	burn in time= 19.273125410079956
+	sample time= 431.3590807914734
+	contraction err= 8.062967345882844e-09 6.678914365859056e-05
+
+Mean energy: -3.03988948e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03988948e+01       5.293369e-03
+     2           25000       -3.03988948e+01       5.302882e-03
+     5           10000       -3.03988948e+01       5.336302e-03
+    10           5000       -3.03988948e+01       5.321130e-03
+    20           2500       -3.03988948e+01       5.370583e-03
+    50           1000       -3.03988948e+01       5.269553e-03
+    70            714       -3.03987741e+01       5.355469e-03
+   100            500       -3.03988948e+01       5.321265e-03
+   200            250       -3.03988948e+01       5.823126e-03
+   500            100       -3.03988948e+01       6.774460e-03
+0 0.005302881884787101 0.006774459774642698
+Stocahstic error estimate: 5.302882e-03
+
+step=45,E=-0.47498273168501254,dE=0.00011666307776142526,err=8.285752944979845e-05,gmax=0.21050407840889163
+	collect g,Hv time= 0.42899084091186523
+niter= 47
+	solver time=39.28147745132446,exit status=0
+	g=0.43110562758873616,del=3.604456716496026,dot=0.49105715160609104,x=39.79226323927547
+	log prob= -5.785436554209647e+00
+	burn in time= 20.93924856185913
+	sample time= 429.7034955024719
+	contraction err= 7.599286561451288e-09 1.807012814297676e-05
+
+Mean energy: -3.03951695e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03951695e+01       5.183976e-03
+     2           25000       -3.03951695e+01       5.176844e-03
+     5           10000       -3.03951695e+01       5.160984e-03
+    10           5000       -3.03951695e+01       5.142327e-03
+    20           2500       -3.03951695e+01       5.096837e-03
+    50           1000       -3.03951695e+01       5.004397e-03
+    70            714       -3.03954855e+01       4.924907e-03
+   100            500       -3.03951695e+01       5.018717e-03
+   200            250       -3.03951695e+01       5.464706e-03
+   500            100       -3.03951695e+01       5.555130e-03
+0 0.0051839763608924035 0.0055551295182438495
+Stocahstic error estimate: 5.183976e-03
+
+step=46,E=-0.4749245242058955,dE=5.820747911705615e-05,err=8.09996306389438e-05,gmax=0.1323176123046494
+	collect g,Hv time= 0.4342210292816162
+niter= 47
+	solver time=38.75941562652588,exit status=0
+	g=0.3190896706608076,del=3.4918743184462073,dot=0.4024575675703532,x=39.792263239275485
+	log prob= -6.354045095304093e+00
+	burn in time= 21.008679389953613
+	sample time= 427.9111256599426
+	contraction err= 5.364681312018281e-09 8.79551206719258e-06
+
+Mean energy: -3.03983929e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03983929e+01       5.027196e-03
+     2           25000       -3.03983929e+01       5.035655e-03
+     5           10000       -3.03983929e+01       5.016327e-03
+    10           5000       -3.03983929e+01       5.030731e-03
+    20           2500       -3.03983929e+01       4.906316e-03
+    50           1000       -3.03983929e+01       5.137844e-03
+    70            714       -3.03984455e+01       4.968854e-03
+   100            500       -3.03983929e+01       5.276938e-03
+   200            250       -3.03983929e+01       5.870402e-03
+   500            100       -3.03983929e+01       7.318025e-03
+0 0.005035655190885496 0.007318024871315188
+Stocahstic error estimate: 5.035655e-03
+
+step=47,E=-0.47497488903712504,dE=-5.0364831229554596e-05,err=7.868211235758587e-05,gmax=0.03339104706509044
+	collect g,Hv time= 0.4210524559020996
+niter= 46
+	solver time=36.04656720161438,exit status=0
+	g=0.21007190314495106,del=3.67127281744182,dot=0.38717970661774204,x=39.79226323927548
+	log prob= -6.631524118183999e+00
+	burn in time= 19.613972425460815
+	sample time= 428.61894822120667
+	contraction err= 1.0295690257563417e-08 0.000211960718644831
+
+Mean energy: -3.04093177e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04093177e+01       5.248311e-03
+     2           25000       -3.04093177e+01       5.272930e-03
+     5           10000       -3.04093177e+01       5.283324e-03
+    10           5000       -3.04093177e+01       5.260952e-03
+    20           2500       -3.04093177e+01       5.238768e-03
+    50           1000       -3.04093177e+01       5.141324e-03
+    70            714       -3.04092668e+01       5.299484e-03
+   100            500       -3.04093177e+01       5.161110e-03
+   200            250       -3.04093177e+01       5.359369e-03
+   500            100       -3.04093177e+01       5.500732e-03
+0 0.0052729304570437235 0.00550073185603992
+Stocahstic error estimate: 5.272930e-03
+
+step=48,E=-0.4751455885655594,dE=-0.0001706995284343482,err=8.238953839130818e-05,gmax=0.0746644311998017
+	collect g,Hv time= 0.4337184429168701
+niter= 47
+	solver time=36.92027306556702,exit status=0
+	g=0.25069624389340567,del=3.554310155070076,dot=0.4091726596950223,x=39.792263239275485
+	log prob= -6.520234279596685e+00
+	burn in time= 20.954766750335693
+	sample time= 430.9767520427704
+	contraction err= 9.82790363828156e-09 0.00010929833335374127
+
+Mean energy: -3.03998611e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03998611e+01       5.033959e-03
+     2           25000       -3.03998611e+01       5.048535e-03
+     5           10000       -3.03998611e+01       4.965891e-03
+    10           5000       -3.03998611e+01       4.979294e-03
+    20           2500       -3.03998611e+01       4.991642e-03
+    50           1000       -3.03998611e+01       5.044686e-03
+    70            714       -3.03999844e+01       4.858073e-03
+   100            500       -3.03998611e+01       5.044426e-03
+   200            250       -3.03998611e+01       5.394619e-03
+   500            100       -3.03998611e+01       6.274889e-03
+0 0.005048535207022556 0.006274889270915398
+Stocahstic error estimate: 5.048535e-03
+
+step=49,E=-0.47499782944464364,dE=0.00014775912091574694,err=7.888336260972744e-05,gmax=0.04611991768255008
+	collect g,Hv time= 0.45466160774230957
+niter= 47
+	solver time=37.01004505157471,exit status=0
+	g=0.2274631623752212,del=3.5841221747252523,dot=0.37653452231714263,x=39.79226323927547
+	log prob= -6.174706460263341e+00
+	burn in time= 21.124258756637573
+	sample time= 425.00817346572876
+	contraction err= 8.444225628676526e-09 8.761305503036896e-05
+
+Mean energy: -3.04021026e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04021026e+01       5.090818e-03
+     2           25000       -3.04021026e+01       5.089089e-03
+     5           10000       -3.04021026e+01       5.113097e-03
+    10           5000       -3.04021026e+01       5.049493e-03
+    20           2500       -3.04021026e+01       4.951759e-03
+    50           1000       -3.04021026e+01       5.008978e-03
+    70            714       -3.04020787e+01       5.055461e-03
+   100            500       -3.04021026e+01       5.084013e-03
+   200            250       -3.04021026e+01       5.356638e-03
+   500            100       -3.04021026e+01       5.987564e-03
+0 0.00509081758997153 0.005987563875006517
+Stocahstic error estimate: 5.090818e-03
+
+step=50,E=-0.47503285374355675,dE=-3.5024298913111096e-05,err=7.954402484330516e-05,gmax=0.03284178453496567
+	collect g,Hv time= 0.4248180389404297
+niter= 48
+	solver time=40.618305921554565,exit status=0
+	g=0.18951986851531077,del=3.606112607892244,dot=0.359766625601294,x=39.79226323927548
+	log prob= -6.358863535656978e+00
+	burn in time= 20.612637758255005
+	sample time= 424.3257887363434
+	contraction err= 8.559574652332923e-09 3.707824172959426e-05
+
+Mean energy: -3.04105590e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04105590e+01       4.952775e-03
+     2           25000       -3.04105590e+01       4.931679e-03
+     5           10000       -3.04105590e+01       4.926120e-03
+    10           5000       -3.04105590e+01       4.900580e-03
+    20           2500       -3.04105590e+01       4.902243e-03
+    50           1000       -3.04105590e+01       4.856747e-03
+    70            714       -3.04106814e+01       4.801552e-03
+   100            500       -3.04105590e+01       5.053563e-03
+   200            250       -3.04105590e+01       5.537659e-03
+   500            100       -3.04105590e+01       6.557956e-03
+0 0.004952774626497602 0.006557955726127144
+Stocahstic error estimate: 4.952775e-03
+
+step=51,E=-0.47516498495397563,dE=-0.00013213121041888432,err=7.738710353902503e-05,gmax=0.06230187719429445
+	collect g,Hv time= 0.42790842056274414
+niter= 47
+	solver time=38.91089987754822,exit status=0
+	g=0.21824195798831775,del=3.284175584481479,dot=0.3446428615116232,x=39.792263239275485
+	log prob= -6.805029175224975e+00
+	burn in time= 19.098876953125
+	sample time= 426.23166847229004
+	contraction err= 9.939493488422106e-09 4.270460291567701e-05
+
+Mean energy: -3.04284594e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04284594e+01       4.963614e-03
+     2           25000       -3.04284594e+01       4.936718e-03
+     5           10000       -3.04284594e+01       4.886078e-03
+    10           5000       -3.04284594e+01       4.849728e-03
+    20           2500       -3.04284594e+01       4.786892e-03
+    50           1000       -3.04284594e+01       4.793132e-03
+    70            714       -3.04285474e+01       4.954241e-03
+   100            500       -3.04284594e+01       4.940981e-03
+   200            250       -3.04284594e+01       5.349098e-03
+   500            100       -3.04284594e+01       5.830954e-03
+0 0.00496361381725361 0.005830954016503455
+Stocahstic error estimate: 4.963614e-03
+
+step=52,E=-0.4754446774580379,dE=-0.00027969250406228996,err=7.755646589458765e-05,gmax=0.04529270271404906
+	collect g,Hv time= 0.4315319061279297
+niter= 48
+	solver time=38.719048738479614,exit status=0
+	g=0.21982559028135798,del=3.41923431051053,dot=0.3805155218938653,x=39.79226323927548
+	log prob= -6.62012835205423e+00
+	burn in time= 19.437408685684204
+	sample time= 429.50220489501953
+	contraction err= 9.961112610145369e-09 4.084793086124628e-05
+
+Mean energy: -3.04043621e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04043621e+01       5.349230e-03
+     2           25000       -3.04043621e+01       5.338382e-03
+     5           10000       -3.04043621e+01       5.348477e-03
+    10           5000       -3.04043621e+01       5.371766e-03
+    20           2500       -3.04043621e+01       5.361281e-03
+    50           1000       -3.04043621e+01       5.354102e-03
+    70            714       -3.04043442e+01       5.384615e-03
+   100            500       -3.04043621e+01       5.595617e-03
+   200            250       -3.04043621e+01       6.062780e-03
+   500            100       -3.04043621e+01       7.110006e-03
+0 0.005349229815684108 0.007110006275015616
+Stocahstic error estimate: 5.349230e-03
+
+step=53,E=-0.47506815791873924,dE=0.00037651953929868087,err=8.35817158700642e-05,gmax=0.06004557960687995
+	collect g,Hv time= 0.43016934394836426
+niter= 48
+	solver time=37.62222218513489,exit status=0
+	g=0.2476699981581012,del=3.804304795301233,dot=0.49945884660430834,x=39.79226323927548
+	log prob= -6.9703045043753145e+00
+	burn in time= 19.587701320648193
+	sample time= 427.70929193496704
+	contraction err= 9.194697125806214e-09 4.265607087010563e-05
+
+Mean energy: -3.04080587e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04080587e+01       5.259648e-03
+     2           25000       -3.04080587e+01       5.263356e-03
+     5           10000       -3.04080587e+01       5.262979e-03
+    10           5000       -3.04080587e+01       5.277145e-03
+    20           2500       -3.04080587e+01       5.410180e-03
+    50           1000       -3.04080587e+01       5.419912e-03
+    70            714       -3.04079324e+01       5.291542e-03
+   100            500       -3.04080587e+01       5.460014e-03
+   200            250       -3.04080587e+01       6.095483e-03
+   500            100       -3.04080587e+01       6.893601e-03
+0 0.005263355536469149 0.0068936005599770376
+Stocahstic error estimate: 5.263356e-03
+
+step=54,E=-0.47512591757812306,dE=-5.775965938381589e-05,err=8.223993025733046e-05,gmax=0.05418618837648459
+	collect g,Hv time= 0.4457988739013672
+niter= 46
+	solver time=36.00754904747009,exit status=0
+	g=0.22578490755676597,del=3.569565362830991,dot=0.4429778444540703,x=39.79226323927548
+	log prob= -6.701819315978997e+00
+	burn in time= 19.516677856445312
+	sample time= 432.82615184783936
+	contraction err= 9.404777121229186e-09 4.9182717754286315e-05
+
+Mean energy: -3.03927313e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.03927313e+01       5.198792e-03
+     2           25000       -3.03927313e+01       5.202129e-03
+     5           10000       -3.03927313e+01       5.233658e-03
+    10           5000       -3.03927313e+01       5.242121e-03
+    20           2500       -3.03927313e+01       5.250102e-03
+    50           1000       -3.03927313e+01       5.157515e-03
+    70            714       -3.03925221e+01       4.974941e-03
+   100            500       -3.03927313e+01       5.137521e-03
+   200            250       -3.03927313e+01       5.764536e-03
+   500            100       -3.03927313e+01       6.981759e-03
+0 0.005202129356307633 0.0069817594360371835
+Stocahstic error estimate: 5.202129e-03
+
+step=55,E=-0.4748864258152084,dE=0.00023949176291465646,err=8.128327119230677e-05,gmax=0.03733077734495216
+	collect g,Hv time= 0.4217522144317627
+niter= 47
+	solver time=36.881391763687134,exit status=0
+	g=0.1920261474610905,del=3.7885864406595973,dot=0.4084066919281647,x=39.79226323927547
+	log prob= -6.43593850507734e+00
+	burn in time= 21.027342796325684
+	sample time= 430.02114057540894
+	contraction err= 8.192668280029315e-09 2.173507236505698e-05
+
+Mean energy: -3.04179251e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04179251e+01       4.808613e-03
+     2           25000       -3.04179251e+01       4.807058e-03
+     5           10000       -3.04179251e+01       4.807595e-03
+    10           5000       -3.04179251e+01       4.800969e-03
+    20           2500       -3.04179251e+01       4.871952e-03
+    50           1000       -3.04179251e+01       4.695560e-03
+    70            714       -3.04179069e+01       4.714923e-03
+   100            500       -3.04179251e+01       4.785176e-03
+   200            250       -3.04179251e+01       4.817664e-03
+   500            100       -3.04179251e+01       5.351018e-03
+0 0.004808613256215977 0.005351017999774969
+Stocahstic error estimate: 4.808613e-03
+
+step=56,E=-0.4752800790983711,dE=-0.0003936532831627093,err=7.513458212837464e-05,gmax=0.035113114060711714
+	collect g,Hv time= 0.42821598052978516
+niter= 48
+	solver time=40.366830587387085,exit status=0
+	g=0.20650126897085086,del=3.461019007635432,dot=0.30687614454615614,x=39.79226323927548
+	log prob= -5.764354498210342e+00
+	burn in time= 20.768856525421143
+	sample time= 430.24370670318604
+	contraction err= 8.889893082884193e-09 2.0603477492560908e-05
+
+Mean energy: -3.04113701e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04113701e+01       4.872600e-03
+     2           25000       -3.04113701e+01       4.875192e-03
+     5           10000       -3.04113701e+01       4.867020e-03
+    10           5000       -3.04113701e+01       4.905400e-03
+    20           2500       -3.04113701e+01       4.804349e-03
+    50           1000       -3.04113701e+01       4.943845e-03
+    70            714       -3.04114808e+01       4.945297e-03
+   100            500       -3.04113701e+01       5.013937e-03
+   200            250       -3.04113701e+01       5.542279e-03
+   500            100       -3.04113701e+01       6.517675e-03
+0 0.004875192228944855 0.006517675003130133
+Stocahstic error estimate: 4.875192e-03
+
+step=57,E=-0.4751776571734285,dE=0.00010242192494258617,err=7.617487857726336e-05,gmax=0.04084285850189129
+	collect g,Hv time= 0.48657798767089844
+niter= 47
+	solver time=36.815065145492554,exit status=0
+	g=0.19968946309242422,del=3.4382860119311562,dot=0.2554942153243453,x=39.792263239275485
+	log prob= -6.742471757944228e+00
+	burn in time= 19.922593355178833
+	sample time= 425.76281785964966
+	contraction err= 8.324985382293807e-09 3.349303971041375e-05
+
+Mean energy: -3.04225188e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04225188e+01       4.894637e-03
+     2           25000       -3.04225188e+01       4.903319e-03
+     5           10000       -3.04225188e+01       4.898760e-03
+    10           5000       -3.04225188e+01       4.892873e-03
+    20           2500       -3.04225188e+01       4.928951e-03
+    50           1000       -3.04225188e+01       4.956314e-03
+    70            714       -3.04226285e+01       5.024089e-03
+   100            500       -3.04225188e+01       5.245669e-03
+   200            250       -3.04225188e+01       5.693779e-03
+   500            100       -3.04225188e+01       6.435382e-03
+0 0.004903319024188373 0.0064353816642530775
+Stocahstic error estimate: 4.903319e-03
+
+step=58,E=-0.47535185610240166,dE=-0.00017419892897313494,err=7.661435975294333e-05,gmax=0.05934398594086586
+	collect g,Hv time= 0.44721221923828125
+niter= 48
+	solver time=37.786341428756714,exit status=0
+	g=0.2050685324342338,del=3.3708985494802537,dot=0.34782657436115944,x=39.792263239275485
+	log prob= -6.627451001966584e+00
+	burn in time= 21.128965616226196
+	sample time= 427.05493235588074
+	contraction err= 7.556567861114513e-09 1.5026613891230125e-05
+
+Mean energy: -3.04199563e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04199563e+01       4.783649e-03
+     2           25000       -3.04199563e+01       4.788273e-03
+     5           10000       -3.04199563e+01       4.830699e-03
+    10           5000       -3.04199563e+01       4.871412e-03
+    20           2500       -3.04199563e+01       4.995587e-03
+    50           1000       -3.04199563e+01       4.999746e-03
+    70            714       -3.04199341e+01       4.822522e-03
+   100            500       -3.04199563e+01       4.980448e-03
+   200            250       -3.04199563e+01       5.195049e-03
+   500            100       -3.04199563e+01       5.387427e-03
+0 0.004788273478706422 0.005387426561946366
+Stocahstic error estimate: 4.788273e-03
+
+step=59,E=-0.4753118169724453,dE=4.003912995637071e-05,err=7.481677310478784e-05,gmax=0.024181685388298235
+	collect g,Hv time= 0.49166226387023926
+niter= 48
+	solver time=38.39898371696472,exit status=0
+	g=0.16310113823093864,del=3.221253207070881,dot=0.28065476931302863,x=39.79226323927548
+	log prob= -6.375881887209924e+00
+	burn in time= 20.866154432296753
+	sample time= 427.2172882556915
+	contraction err= 8.70654387538067e-09 3.881463222270935e-05
+
+Mean energy: -3.04117111e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04117111e+01       4.895038e-03
+     2           25000       -3.04117111e+01       4.909311e-03
+     5           10000       -3.04117111e+01       4.902201e-03
+    10           5000       -3.04117111e+01       4.905245e-03
+    20           2500       -3.04117111e+01       4.824693e-03
+    50           1000       -3.04117111e+01       4.902741e-03
+    70            714       -3.04116312e+01       4.811930e-03
+   100            500       -3.04117111e+01       5.012412e-03
+   200            250       -3.04117111e+01       5.308130e-03
+   500            100       -3.04117111e+01       6.700329e-03
+0 0.004909310775572017 0.006700328600738478
+Stocahstic error estimate: 4.909311e-03
+
+step=60,E=-0.4751829860297745,dE=0.00012883094267079898,err=7.670798086831277e-05,gmax=0.03611373366553017
+	collect g,Hv time= 0.4240541458129883
+niter= 48
+	solver time=38.44800615310669,exit status=0
+	g=0.19893943168967892,del=3.3304299123525904,dot=0.31852409176803176,x=39.79226323927548
+	log prob= -6.809658406941965e+00
+	burn in time= 20.280944347381592
+	sample time= 423.4439480304718
+	contraction err= 8.375381338259462e-09 3.3179652931256895e-05
+
+Mean energy: -3.04296923e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04296923e+01       5.191014e-03
+     2           25000       -3.04296923e+01       5.204708e-03
+     5           10000       -3.04296923e+01       5.210713e-03
+    10           5000       -3.04296923e+01       5.201377e-03
+    20           2500       -3.04296923e+01       5.135165e-03
+    50           1000       -3.04296923e+01       5.224055e-03
+    70            714       -3.04297155e+01       5.182188e-03
+   100            500       -3.04296923e+01       5.253588e-03
+   200            250       -3.04296923e+01       5.300215e-03
+   500            100       -3.04296923e+01       6.091926e-03
+0 0.005204708309462198 0.006091925817964383
+Stocahstic error estimate: 5.204708e-03
+
+step=61,E=-0.4754639417843309,dE=-0.000280955754556389,err=8.132356733534684e-05,gmax=0.15059543041818557
+	collect g,Hv time= 0.426438570022583
+niter= 48
+	solver time=37.60498356819153,exit status=0
+	g=0.43396283016832354,del=3.3173228918496087,dot=0.4849610192306266,x=39.792263239275485
+	log prob= -6.108883414859293e+00
+	burn in time= 20.56950569152832
+	sample time= 426.3318102359772
+	contraction err= 9.72945887464769e-09 3.4728031144937734e-05
+
+Mean energy: -3.04180440e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04180440e+01       5.237049e-03
+     2           25000       -3.04180440e+01       5.226937e-03
+     5           10000       -3.04180440e+01       5.190490e-03
+    10           5000       -3.04180440e+01       5.195399e-03
+    20           2500       -3.04180440e+01       5.264688e-03
+    50           1000       -3.04180440e+01       5.097198e-03
+    70            714       -3.04180697e+01       5.229797e-03
+   100            500       -3.04180440e+01       4.986507e-03
+   200            250       -3.04180440e+01       5.390256e-03
+   500            100       -3.04180440e+01       6.043788e-03
+0 0.005237048925517695 0.006043787697263448
+Stocahstic error estimate: 5.237049e-03
+
+step=62,E=-0.4752819378445643,dE=0.00018200393976658402,err=8.182888946121398e-05,gmax=0.05599203806059869
+	collect g,Hv time= 0.5500175952911377
+niter= 46
+	solver time=35.994709491729736,exit status=0
+	g=0.24354410826214778,del=3.657121548073997,dot=0.43342500871642264,x=39.79226323927548
+	log prob= -6.654218466153196e+00
+	burn in time= 20.87219214439392
+	sample time= 427.61755442619324
+	contraction err= 7.80322828725448e-09 1.480129212350189e-05
+
+Mean energy: -3.04213602e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04213602e+01       5.042043e-03
+     2           25000       -3.04213602e+01       5.027254e-03
+     5           10000       -3.04213602e+01       5.030321e-03
+    10           5000       -3.04213602e+01       5.042280e-03
+    20           2500       -3.04213602e+01       4.910474e-03
+    50           1000       -3.04213602e+01       4.926160e-03
+    70            714       -3.04212682e+01       4.993990e-03
+   100            500       -3.04213602e+01       5.032630e-03
+   200            250       -3.04213602e+01       5.448270e-03
+   500            100       -3.04213602e+01       6.683429e-03
+0 0.005042042567164837 0.00668342920639161
+Stocahstic error estimate: 5.042043e-03
+
+step=63,E=-0.47533375248923954,dE=-5.1814644675240995e-05,err=7.878191511195058e-05,gmax=0.02614181946436256
+	collect g,Hv time= 0.41942882537841797
+niter= 46
+	solver time=36.10891342163086,exit status=0
+	g=0.1820690119980198,del=3.619811569191238,dot=0.3735692548872388,x=39.79226323927548
+	log prob= -6.325371919607484e+00
+	burn in time= 20.65986728668213
+	sample time= 426.09082221984863
+	contraction err= 8.09653809752812e-09 1.2151927532421622e-05
+
+Mean energy: -3.04132234e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04132234e+01       5.250021e-03
+     2           25000       -3.04132234e+01       5.261289e-03
+     5           10000       -3.04132234e+01       5.260204e-03
+    10           5000       -3.04132234e+01       5.257170e-03
+    20           2500       -3.04132234e+01       5.294651e-03
+    50           1000       -3.04132234e+01       5.141156e-03
+    70            714       -3.04131682e+01       5.184420e-03
+   100            500       -3.04132234e+01       5.214244e-03
+   200            250       -3.04132234e+01       5.708772e-03
+   500            100       -3.04132234e+01       6.324245e-03
+0 0.005261288826272144 0.006324244623663181
+Stocahstic error estimate: 5.261289e-03
+
+step=64,E=-0.4752066148806817,dE=0.00012713760855781464,err=8.220763791050225e-05,gmax=0.06561146229570886
+	collect g,Hv time= 0.42728090286254883
+niter= 47
+	solver time=39.11190748214722,exit status=0
+	g=0.2625278199961321,del=3.5256943815896187,dot=0.40801913078959495,x=39.792263239275485
+	log prob= -6.6864005699271924e+00
+	burn in time= 20.56651520729065
+	sample time= 428.43729400634766
+	contraction err= 8.585184636342873e-09 3.073739324520976e-05
+
+Mean energy: -3.04360324e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04360324e+01       4.845015e-03
+     2           25000       -3.04360324e+01       4.837886e-03
+     5           10000       -3.04360324e+01       4.862994e-03
+    10           5000       -3.04360324e+01       4.873456e-03
+    20           2500       -3.04360324e+01       4.931844e-03
+    50           1000       -3.04360324e+01       4.920040e-03
+    70            714       -3.04359442e+01       4.917222e-03
+   100            500       -3.04360324e+01       4.924679e-03
+   200            250       -3.04360324e+01       5.266845e-03
+   500            100       -3.04360324e+01       5.832865e-03
+0 0.0048450148910942235 0.005832865337306737
+Stocahstic error estimate: 4.845015e-03
+
+step=65,E=-0.4755630059537319,dE=-0.00035639107305018847,err=7.570335767334724e-05,gmax=0.08392231570882158
+	collect g,Hv time= 0.42389798164367676
+niter= 48
+	solver time=37.61247730255127,exit status=0
+	g=0.2797011573413427,del=3.3006956929789535,dot=0.3521754746472594,x=39.79226323927548
+	log prob= -6.0138405161950494e+00
+	burn in time= 21.11552596092224
+	sample time= 428.07781887054443
+	contraction err= 9.971698357163841e-09 4.838964634326061e-05
+
+Mean energy: -3.04229818e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04229818e+01       4.906518e-03
+     2           25000       -3.04229818e+01       4.905556e-03
+     5           10000       -3.04229818e+01       4.863648e-03
+    10           5000       -3.04229818e+01       4.902704e-03
+    20           2500       -3.04229818e+01       4.894310e-03
+    50           1000       -3.04229818e+01       4.979731e-03
+    70            714       -3.04228966e+01       4.964579e-03
+   100            500       -3.04229818e+01       5.104086e-03
+   200            250       -3.04229818e+01       5.326755e-03
+   500            100       -3.04229818e+01       6.251700e-03
+0 0.004906517624953182 0.006251699888095793
+Stocahstic error estimate: 4.906518e-03
+
+step=66,E=-0.47535909121551745,dE=0.00020391473821446127,err=7.666433788989347e-05,gmax=0.06096597812554849
+	collect g,Hv time= 0.44019651412963867
+niter= 47
+	solver time=36.792582511901855,exit status=0
+	g=0.25543096242807073,del=3.21013392400538,dot=0.27596154893393976,x=39.79226323927548
+	log prob= -6.622282863291822e+00
+	burn in time= 19.702154636383057
+	sample time= 421.9264929294586
+	contraction err= 9.41171510192656e-09 2.6034229800271946e-05
+
+Mean energy: -3.04308991e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04308991e+01       4.870398e-03
+     2           25000       -3.04308991e+01       4.885036e-03
+     5           10000       -3.04308991e+01       4.885704e-03
+    10           5000       -3.04308991e+01       4.861775e-03
+    20           2500       -3.04308991e+01       4.864949e-03
+    50           1000       -3.04308991e+01       4.818851e-03
+    70            714       -3.04308551e+01       4.740827e-03
+   100            500       -3.04308991e+01       4.939906e-03
+   200            250       -3.04308991e+01       5.125250e-03
+   500            100       -3.04308991e+01       6.249952e-03
+0 0.0048850357687495235 0.0062499518872438445
+Stocahstic error estimate: 4.885036e-03
+
+step=67,E=-0.47548279850484315,dE=-0.00012370728932570296,err=7.63286838867113e-05,gmax=0.029238342911439563
+	collect g,Hv time= 0.41922664642333984
+niter= 46
+	solver time=36.13241934776306,exit status=0
+	g=0.17201645931917334,del=3.4203790120016553,dot=0.3309075753359016,x=39.79226323927548
+	log prob= -6.692301596897638e+00
+	burn in time= 20.56737208366394
+	sample time= 428.1368021965027
+	contraction err= 1.0261259085699498e-08 8.772245620029898e-05
+
+Mean energy: -3.04321424e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04321424e+01       4.629950e-03
+     2           25000       -3.04321424e+01       4.603118e-03
+     5           10000       -3.04321424e+01       4.606917e-03
+    10           5000       -3.04321424e+01       4.636144e-03
+    20           2500       -3.04321424e+01       4.707295e-03
+    50           1000       -3.04321424e+01       4.627955e-03
+    70            714       -3.04322563e+01       4.642564e-03
+   100            500       -3.04321424e+01       4.726802e-03
+   200            250       -3.04321424e+01       5.054652e-03
+   500            100       -3.04321424e+01       4.809543e-03
+0 0.004629950474136168 0.004809543145566959
+Stocahstic error estimate: 4.629950e-03
+
+step=68,E=-0.4755022242569402,dE=-1.942575209706865e-05,err=7.234297615837762e-05,gmax=0.015902612435390817
+	collect g,Hv time= 0.42373228073120117
+niter= 47
+	solver time=37.6384973526001,exit status=0
+	g=0.16909953323113305,del=3.162238520836957,dot=0.2529517003629651,x=39.79226323927548
+	log prob= -6.486165038318699e+00
+	burn in time= 21.18331217765808
+	sample time= 430.3691596984863
+	contraction err= 9.364094318439833e-09 1.0423437229314103e-05
+
+Mean energy: -3.04229857e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04229857e+01       4.862457e-03
+     2           25000       -3.04229857e+01       4.839924e-03
+     5           10000       -3.04229857e+01       4.834453e-03
+    10           5000       -3.04229857e+01       4.793402e-03
+    20           2500       -3.04229857e+01       4.826888e-03
+    50           1000       -3.04229857e+01       4.848707e-03
+    70            714       -3.04230224e+01       4.828396e-03
+   100            500       -3.04229857e+01       4.966593e-03
+   200            250       -3.04229857e+01       5.342029e-03
+   500            100       -3.04229857e+01       5.717226e-03
+0 0.004862457007563877 0.005717226249888558
+Stocahstic error estimate: 4.862457e-03
+
+step=69,E=-0.4753591522219721,dE=0.00014307203496810583,err=7.597589074318558e-05,gmax=0.04370532609204775
+	collect g,Hv time= 0.44810056686401367
+niter= 46
+	solver time=36.80100107192993,exit status=0
+	g=0.19564617242397095,del=3.325476785059379,dot=0.35254130771466186,x=39.79226323927548
+	log prob= -6.526661665588896e+00
+	burn in time= 20.314299821853638
+	sample time= 428.43668007850647
+	contraction err= 9.195137683800485e-09 1.8406959710811458e-05
+
+Mean energy: -3.04262105e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04262105e+01       5.015065e-03
+     2           25000       -3.04262105e+01       4.999301e-03
+     5           10000       -3.04262105e+01       5.013690e-03
+    10           5000       -3.04262105e+01       4.980735e-03
+    20           2500       -3.04262105e+01       5.052578e-03
+    50           1000       -3.04262105e+01       5.020637e-03
+    70            714       -3.04262244e+01       4.993353e-03
+   100            500       -3.04262105e+01       4.978762e-03
+   200            250       -3.04262105e+01       5.095932e-03
+   500            100       -3.04262105e+01       5.879153e-03
+0 0.005015065196381222 0.005879152609598969
+Stocahstic error estimate: 5.015065e-03
+
+step=70,E=-0.47540953858483687,dE=-5.038636286475162e-05,err=7.83603936934566e-05,gmax=0.024121980345260363
+	collect g,Hv time= 0.46246957778930664
+niter= 48
+	solver time=38.26902532577515,exit status=0
+	g=0.17516764439771457,del=3.498973935680999,dot=0.31911488023107965,x=39.792263239275485
+	log prob= -6.306223576716595e+00
+	burn in time= 20.707523107528687
+	sample time= 428.2442021369934
+	contraction err= 8.779665928620372e-09 4.534537581615072e-05
+
+Mean energy: -3.04234050e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04234050e+01       5.013359e-03
+     2           25000       -3.04234050e+01       5.008027e-03
+     5           10000       -3.04234050e+01       5.013503e-03
+    10           5000       -3.04234050e+01       4.970773e-03
+    20           2500       -3.04234050e+01       5.038053e-03
+    50           1000       -3.04234050e+01       5.063611e-03
+    70            714       -3.04234002e+01       5.000682e-03
+   100            500       -3.04234050e+01       5.140363e-03
+   200            250       -3.04234050e+01       5.705679e-03
+   500            100       -3.04234050e+01       6.665521e-03
+0 0.005013359482607465 0.0066655206385455665
+Stocahstic error estimate: 5.013359e-03
+
+step=71,E=-0.47536570245347476,dE=4.383613136210718e-05,err=7.833374191574163e-05,gmax=0.019004707836598467
+	collect g,Hv time= 0.4225332736968994
+niter= 47
+	solver time=37.6688666343689,exit status=0
+	g=0.174206331135676,del=3.460517508477819,dot=0.3254442416857001,x=39.79226323927548
+	log prob= -6.296625714437204e+00
+	burn in time= 19.06079411506653
+	sample time= 431.3250136375427
+	contraction err= 8.796292181991848e-09 2.3807776255713477e-05
+
+Mean energy: -3.04198322e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04198322e+01       5.002876e-03
+     2           25000       -3.04198322e+01       4.995809e-03
+     5           10000       -3.04198322e+01       4.999801e-03
+    10           5000       -3.04198322e+01       5.022737e-03
+    20           2500       -3.04198322e+01       5.051494e-03
+    50           1000       -3.04198322e+01       4.981907e-03
+    70            714       -3.04199538e+01       4.880747e-03
+   100            500       -3.04198322e+01       4.966089e-03
+   200            250       -3.04198322e+01       5.175431e-03
+   500            100       -3.04198322e+01       6.004306e-03
+0 0.005002876438998458 0.006004305949867484
+Stocahstic error estimate: 5.002876e-03
+
+step=72,E=-0.47530987771037214,dE=5.582474310261709e-05,err=7.816994435935091e-05,gmax=0.07588223008586792
+	collect g,Hv time= 0.4286825656890869
+niter= 47
+	solver time=37.69212293624878,exit status=0
+	g=0.22066863162961137,del=3.554445231139194,dot=0.3809452581135718,x=39.79226323927547
+	log prob= -6.64718425932228e+00
+	burn in time= 19.06560182571411
+	sample time= 424.39722871780396
+	contraction err= 9.654800636975356e-09 2.7704073898098118e-05
+
+Mean energy: -3.04250580e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04250580e+01       4.977529e-03
+     2           25000       -3.04250580e+01       4.967807e-03
+     5           10000       -3.04250580e+01       4.898391e-03
+    10           5000       -3.04250580e+01       4.906458e-03
+    20           2500       -3.04250580e+01       4.891033e-03
+    50           1000       -3.04250580e+01       4.855311e-03
+    70            714       -3.04250770e+01       4.792885e-03
+   100            500       -3.04250580e+01       4.942677e-03
+   200            250       -3.04250580e+01       5.377060e-03
+   500            100       -3.04250580e+01       6.180488e-03
+0 0.004977528584920966 0.006180487990056494
+Stocahstic error estimate: 4.977529e-03
+
+step=73,E=-0.47539153103469783,dE=-8.165332432569228e-05,err=7.77738841393901e-05,gmax=0.038862341879060125
+	collect g,Hv time= 0.4499177932739258
+niter= 47
+	solver time=36.78143334388733,exit status=0
+	g=0.1791206274874345,del=3.293243544539337,dot=0.3229400368252652,x=39.79226323927547
+	log prob= -6.497992843503911e+00
+	burn in time= 20.336078882217407
+	sample time= 432.0436112880707
+	contraction err= 8.724387333705564e-09 2.09619367842575e-05
+
+Mean energy: -3.04427130e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04427130e+01       4.928817e-03
+     2           25000       -3.04427130e+01       4.959893e-03
+     5           10000       -3.04427130e+01       4.968651e-03
+    10           5000       -3.04427130e+01       4.958438e-03
+    20           2500       -3.04427130e+01       4.962769e-03
+    50           1000       -3.04427130e+01       5.004872e-03
+    70            714       -3.04427423e+01       5.013035e-03
+   100            500       -3.04427130e+01       4.915842e-03
+   200            250       -3.04427130e+01       5.450046e-03
+   500            100       -3.04427130e+01       6.016741e-03
+0 0.004959892736626487 0.006016741204296084
+Stocahstic error estimate: 4.959893e-03
+
+step=74,E=-0.4756673903429446,dE=-0.00027585930824675087,err=7.749832400978886e-05,gmax=0.10016114363581075
+	collect g,Hv time= 0.5824267864227295
+niter= 48
+	solver time=37.613306283950806,exit status=0
+	g=0.30601436965455325,del=3.2966933698788274,dot=0.4207386771616638,x=39.792263239275485
+	log prob= -6.535641294981767e+00
+	burn in time= 20.749088287353516
+	sample time= 431.035591840744
+	contraction err= 8.263510440139657e-09 2.8563880748730777e-05
+
+Mean energy: -3.04274948e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04274948e+01       4.845458e-03
+     2           25000       -3.04274948e+01       4.835904e-03
+     5           10000       -3.04274948e+01       4.887547e-03
+    10           5000       -3.04274948e+01       4.891924e-03
+    20           2500       -3.04274948e+01       4.839818e-03
+    50           1000       -3.04274948e+01       4.989724e-03
+    70            714       -3.04275460e+01       4.964889e-03
+   100            500       -3.04274948e+01       5.139062e-03
+   200            250       -3.04274948e+01       5.395701e-03
+   500            100       -3.04274948e+01       5.960522e-03
+0 0.004845458298460911 0.0059605216724503895
+Stocahstic error estimate: 4.845458e-03
+
+step=75,E=-0.47542960567914,dE=0.00023778466380458552,err=7.571028591345173e-05,gmax=0.220450608610956
+	collect g,Hv time= 0.43743419647216797
+niter= 48
+	solver time=37.63464593887329,exit status=0
+	g=0.5001045864539632,del=3.315070409891892,dot=0.6283249541516582,x=39.79226323927547
+	log prob= -6.584074527476357e+00
+	burn in time= 20.970253229141235
+	sample time= 425.92760825157166
+	contraction err= 9.524221325864129e-09 2.3125989946906956e-05
+
+Mean energy: -3.04359810e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04359810e+01       5.464738e-03
+     2           25000       -3.04359810e+01       5.423452e-03
+     5           10000       -3.04359810e+01       5.465380e-03
+    10           5000       -3.04359810e+01       5.428975e-03
+    20           2500       -3.04359810e+01       5.404518e-03
+    50           1000       -3.04359810e+01       5.505438e-03
+    70            714       -3.04359124e+01       5.523928e-03
+   100            500       -3.04359810e+01       5.669089e-03
+   200            250       -3.04359810e+01       5.849897e-03
+   500            100       -3.04359810e+01       6.364182e-03
+0 0.005464738378848615 0.006364181612433496
+Stocahstic error estimate: 5.464738e-03
+
+step=76,E=-0.4755622034954857,dE=-0.00013259781634572532,err=8.538653716950961e-05,gmax=0.04351615080819182
+	collect g,Hv time= 0.42162322998046875
+niter= 46
+	solver time=36.15609264373779,exit status=0
+	g=0.19395923589377942,del=3.324849431065512,dot=0.3417325498431588,x=39.792263239275485
+	log prob= -6.765400686865597e+00
+	burn in time= 19.899734258651733
+	sample time= 430.6380224227905
+	contraction err= 1.0844465177121002e-08 2.5996686362380278e-05
+
+Mean energy: -3.04275941e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04275941e+01       5.081189e-03
+     2           25000       -3.04275941e+01       5.076447e-03
+     5           10000       -3.04275941e+01       5.104993e-03
+    10           5000       -3.04275941e+01       5.085257e-03
+    20           2500       -3.04275941e+01       5.035734e-03
+    50           1000       -3.04275941e+01       5.099185e-03
+    70            714       -3.04275853e+01       4.888811e-03
+   100            500       -3.04275941e+01       5.181717e-03
+   200            250       -3.04275941e+01       5.328791e-03
+   500            100       -3.04275941e+01       6.055362e-03
+0 0.005081188758287546 0.006055362154263272
+Stocahstic error estimate: 5.081189e-03
+
+step=77,E=-0.47543115773298444,dE=0.00013104576250128064,err=7.93935743482429e-05,gmax=0.03071173470204447
+	collect g,Hv time= 0.4182124137878418
+niter= 46
+	solver time=36.107985496520996,exit status=0
+	g=0.19555003896713946,del=3.6710375927502916,dot=0.35727427835331654,x=39.79226323927548
+	log prob= -5.966039664572703e+00
+	burn in time= 20.8795006275177
+	sample time= 431.2782564163208
+	contraction err= 1.1251769014704933e-08 1.851970301720496e-05
+
+Mean energy: -3.04216946e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04216946e+01       4.962733e-03
+     2           25000       -3.04216946e+01       4.967038e-03
+     5           10000       -3.04216946e+01       4.991512e-03
+    10           5000       -3.04216946e+01       5.008597e-03
+    20           2500       -3.04216946e+01       5.041672e-03
+    50           1000       -3.04216946e+01       4.884105e-03
+    70            714       -3.04216463e+01       4.802115e-03
+   100            500       -3.04216946e+01       5.006208e-03
+   200            250       -3.04216946e+01       5.299308e-03
+   500            100       -3.04216946e+01       5.868089e-03
+0 0.004967037873637059 0.005868088541614283
+Stocahstic error estimate: 4.967038e-03
+
+step=78,E=-0.4753389776041101,dE=9.21801288743529e-05,err=7.760996677557905e-05,gmax=0.026696275390851093
+	collect g,Hv time= 0.43187785148620605
+niter= 48
+	solver time=38.32108449935913,exit status=0
+	g=0.18131918276286452,del=3.373090888451528,dot=0.27900176426306983,x=39.79226323927548
+	log prob= -6.5753688059510065e+00
+	burn in time= 21.081169605255127
+	sample time= 426.8097469806671
+	contraction err= 1.2653719218544695e-08 6.213507657178511e-05
+
+Mean energy: -3.04515835e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04515835e+01       4.838673e-03
+     2           25000       -3.04515835e+01       4.817600e-03
+     5           10000       -3.04515835e+01       4.838106e-03
+    10           5000       -3.04515835e+01       4.767448e-03
+    20           2500       -3.04515835e+01       4.899343e-03
+    50           1000       -3.04515835e+01       4.917517e-03
+    70            714       -3.04516531e+01       4.890322e-03
+   100            500       -3.04515835e+01       4.945732e-03
+   200            250       -3.04515835e+01       5.205400e-03
+   500            100       -3.04515835e+01       5.702732e-03
+0 0.004838673490323835 0.005702732262615998
+Stocahstic error estimate: 4.838673e-03
+
+step=79,E=-0.4758059925928544,dE=-0.0004670149887442965,err=7.560427328630993e-05,gmax=0.11455921205141528
+	collect g,Hv time= 0.428987979888916
+niter= 48
+	solver time=38.82558274269104,exit status=0
+	g=0.307824480066419,del=3.2032238400831843,dot=0.3791217183248481,x=39.79226323927548
+	log prob= -6.690163937222612e+00
+	burn in time= 19.650070190429688
+	sample time= 427.069384098053
+	contraction err= 1.2726114137032215e-08 4.5539568035790475e-05
+
+Mean energy: -3.04351426e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04351426e+01       4.952037e-03
+     2           25000       -3.04351426e+01       4.985942e-03
+     5           10000       -3.04351426e+01       4.962411e-03
+    10           5000       -3.04351426e+01       4.966760e-03
+    20           2500       -3.04351426e+01       4.943618e-03
+    50           1000       -3.04351426e+01       4.838911e-03
+    70            714       -3.04351208e+01       4.978947e-03
+   100            500       -3.04351426e+01       5.136133e-03
+   200            250       -3.04351426e+01       5.634214e-03
+   500            100       -3.04351426e+01       6.222764e-03
+0 0.004985941768685183 0.00622276417747456
+Stocahstic error estimate: 4.985942e-03
+
+step=80,E=-0.47554910335137857,dE=0.0002568892414758217,err=7.790534013570598e-05,gmax=0.045656259263159304
+	collect g,Hv time= 0.4176912307739258
+niter= 48
+	solver time=37.6564416885376,exit status=0
+	g=0.20548377073216675,del=3.39191135479329,dot=0.3440650446490972,x=39.79226323927548
+	log prob= -6.636129540107347e+00
+	burn in time= 20.865325212478638
+	sample time= 431.9619483947754
+	contraction err= 1.0852186955545857e-08 2.8985086547108186e-05
+
+Mean energy: -3.04247051e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04247051e+01       5.105567e-03
+     2           25000       -3.04247051e+01       5.113104e-03
+     5           10000       -3.04247051e+01       5.104704e-03
+    10           5000       -3.04247051e+01       5.086562e-03
+    20           2500       -3.04247051e+01       5.128175e-03
+    50           1000       -3.04247051e+01       4.913440e-03
+    70            714       -3.04247092e+01       4.968295e-03
+   100            500       -3.04247051e+01       5.201971e-03
+   200            250       -3.04247051e+01       5.658252e-03
+   500            100       -3.04247051e+01       6.570847e-03
+0 0.005113103763308595 0.006570847235909032
+Stocahstic error estimate: 5.113104e-03
+
+step=81,E=-0.47538601651836665,dE=0.00016308683301191618,err=7.98922463016968e-05,gmax=0.06811027563675506
+	collect g,Hv time= 0.4376795291900635
+niter= 48
+	solver time=37.65271067619324,exit status=0
+	g=0.2832922785071058,del=3.492092334879159,dot=0.4496258490726462,x=39.792263239275485
+	log prob= -6.581156827933874e+00
+	burn in time= 20.659607410430908
+	sample time= 434.9699065685272
+	contraction err= 1.1059406858057942e-08 1.948143550324804e-05
+
+Mean energy: -3.04323647e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04323647e+01       5.165372e-03
+     2           25000       -3.04323647e+01       5.189037e-03
+     5           10000       -3.04323647e+01       5.162827e-03
+    10           5000       -3.04323647e+01       5.232418e-03
+    20           2500       -3.04323647e+01       5.298946e-03
+    50           1000       -3.04323647e+01       5.268499e-03
+    70            714       -3.04323398e+01       5.449401e-03
+   100            500       -3.04323647e+01       5.547211e-03
+   200            250       -3.04323647e+01       6.117924e-03
+   500            100       -3.04323647e+01       7.593092e-03
+0 0.005189036524404259 0.007593091910344751
+Stocahstic error estimate: 5.189037e-03
+
+step=82,E=-0.4755056985431684,dE=-0.00011968202480172607,err=8.107869569381655e-05,gmax=0.047314661228407884
+	collect g,Hv time= 0.43468666076660156
+niter= 47
+	solver time=36.80850911140442,exit status=0
+	g=0.22461210754357291,del=3.4869582492567694,dot=0.42428180039856545,x=39.79226323927547
+	log prob= -6.898961368636807e+00
+	burn in time= 20.632561922073364
+	sample time= 428.8523416519165
+	contraction err= 1.0779525667530149e-08 2.8494400579979037e-05
+
+Mean energy: -3.04399008e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04399008e+01       5.122346e-03
+     2           25000       -3.04399008e+01       5.111828e-03
+     5           10000       -3.04399008e+01       5.115869e-03
+    10           5000       -3.04399008e+01       5.126246e-03
+    20           2500       -3.04399008e+01       5.051111e-03
+    50           1000       -3.04399008e+01       5.055516e-03
+    70            714       -3.04399571e+01       5.013368e-03
+   100            500       -3.04399008e+01       5.126691e-03
+   200            250       -3.04399008e+01       5.747798e-03
+   500            100       -3.04399008e+01       6.963581e-03
+0 0.005122345867513129 0.006963580924267538
+Stocahstic error estimate: 5.122346e-03
+
+step=83,E=-0.4756234492934261,dE=-0.00011775075025771686,err=8.003665417989265e-05,gmax=0.033641915996450056
+	collect g,Hv time= 0.4270775318145752
+niter= 47
+	solver time=36.895488262176514,exit status=0
+	g=0.2079783120415876,del=3.3786805064557655,dot=0.34445167434351387,x=39.79226323927548
+	log prob= -6.299178782403282e+00
+	burn in time= 20.039729595184326
+	sample time= 432.6949474811554
+	contraction err= 1.1560111705614238e-08 3.890986499362984e-05
+
+Mean energy: -3.04196461e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04196461e+01       5.347433e-03
+     2           25000       -3.04196461e+01       5.368164e-03
+     5           10000       -3.04196461e+01       5.424520e-03
+    10           5000       -3.04196461e+01       5.413247e-03
+    20           2500       -3.04196461e+01       5.323695e-03
+    50           1000       -3.04196461e+01       5.349359e-03
+    70            714       -3.04195668e+01       5.390570e-03
+   100            500       -3.04196461e+01       5.475143e-03
+   200            250       -3.04196461e+01       6.295882e-03
+   500            100       -3.04196461e+01       7.954855e-03
+0 0.005368164289214011 0.007954855462881858
+Stocahstic error estimate: 5.368164e-03
+
+step=84,E=-0.47530696996487887,dE=0.0003164793285472256,err=8.387756701896892e-05,gmax=0.09198277878023209
+	collect g,Hv time= 0.4247910976409912
+niter= 47
+	solver time=37.84458136558533,exit status=0
+	g=0.28580451256258654,del=3.621586522761406,dot=0.4546138441681205,x=39.79226323927548
+	log prob= -6.842999526969263e+00
+	burn in time= 20.736878871917725
+	sample time= 438.8077163696289
+	contraction err= 1.1091141248390577e-08 2.783081630785554e-05
+
+Mean energy: -3.04483471e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04483471e+01       5.218834e-03
+     2           25000       -3.04483471e+01       5.226657e-03
+     5           10000       -3.04483471e+01       5.215702e-03
+    10           5000       -3.04483471e+01       5.269831e-03
+    20           2500       -3.04483471e+01       5.251191e-03
+    50           1000       -3.04483471e+01       5.261168e-03
+    70            714       -3.04483829e+01       5.260990e-03
+   100            500       -3.04483471e+01       5.325055e-03
+   200            250       -3.04483471e+01       5.469806e-03
+   500            100       -3.04483471e+01       6.578549e-03
+0 0.005226656855771687 0.0065785494803592024
+Stocahstic error estimate: 5.226657e-03
+
+step=85,E=-0.4757554228149446,dE=-0.0004484528500657281,err=8.16665133714326e-05,gmax=0.10149380249635784
+	collect g,Hv time= 3.018012762069702
+niter= 47
+	solver time=36.848575592041016,exit status=0
+	g=0.31646884867495334,del=3.45949817997581,dot=0.4901266806798085,x=39.79226323927548
+	log prob= -6.689665728087963e+00
+	burn in time= 20.495317935943604
+	sample time= 434.429141998291
+	contraction err= 7.904468434098183e-09 9.622818643460528e-06
+
+Mean energy: -3.04404576e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04404576e+01       4.847919e-03
+     2           25000       -3.04404576e+01       4.832114e-03
+     5           10000       -3.04404576e+01       4.802975e-03
+    10           5000       -3.04404576e+01       4.769036e-03
+    20           2500       -3.04404576e+01       4.771914e-03
+    50           1000       -3.04404576e+01       4.869391e-03
+    70            714       -3.04404145e+01       4.823246e-03
+   100            500       -3.04404576e+01       5.018632e-03
+   200            250       -3.04404576e+01       5.162045e-03
+   500            100       -3.04404576e+01       5.563820e-03
+0 0.004847919344497879 0.0055638195718970395
+Stocahstic error estimate: 4.847919e-03
+
+step=86,E=-0.47563214961386363,dE=0.0001232732010809645,err=7.574873975777936e-05,gmax=0.02367661516320685
+	collect g,Hv time= 0.4364449977874756
+niter= 46
+	solver time=36.10196280479431,exit status=0
+	g=0.18581271715631995,del=3.366223883603526,dot=0.29385231315126964,x=39.79226323927548
+	log prob= -6.1722090040226965e+00
+	burn in time= 19.504632472991943
+	sample time= 423.28604340553284
+	contraction err= 1.043834651369508e-08 6.402247850834442e-05
+
+Mean energy: -3.04315939e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04315939e+01       5.020815e-03
+     2           25000       -3.04315939e+01       5.032544e-03
+     5           10000       -3.04315939e+01       5.027446e-03
+    10           5000       -3.04315939e+01       5.019630e-03
+    20           2500       -3.04315939e+01       5.093013e-03
+    50           1000       -3.04315939e+01       5.199310e-03
+    70            714       -3.04316504e+01       5.072871e-03
+   100            500       -3.04315939e+01       5.391925e-03
+   200            250       -3.04315939e+01       6.066578e-03
+   500            100       -3.04315939e+01       7.039403e-03
+0 0.0050325440313532645 0.007039403274105656
+Stocahstic error estimate: 5.032544e-03
+
+step=87,E=-0.4754936551517971,dE=0.0001384944620665407,err=7.863350048989476e-05,gmax=0.04081298339694417
+	collect g,Hv time= 0.424349308013916
+niter= 47
+	solver time=36.786625385284424,exit status=0
+	g=0.1983717790480764,del=3.3792455299339097,dot=0.3797765933872053,x=39.79226323927548
+	log prob= -6.286173170524161e+00
+	burn in time= 20.54753804206848
+	sample time= 431.12420678138733
+	contraction err= 9.895664010528352e-09 2.4530511766040353e-05
+
+Mean energy: -3.04474469e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04474469e+01       4.709075e-03
+     2           25000       -3.04474469e+01       4.700784e-03
+     5           10000       -3.04474469e+01       4.693322e-03
+    10           5000       -3.04474469e+01       4.676410e-03
+    20           2500       -3.04474469e+01       4.621880e-03
+    50           1000       -3.04474469e+01       4.519044e-03
+    70            714       -3.04473651e+01       4.676783e-03
+   100            500       -3.04474469e+01       4.642582e-03
+   200            250       -3.04474469e+01       5.077067e-03
+   500            100       -3.04474469e+01       5.813586e-03
+0 0.004709075026250988 0.005813586247311769
+Stocahstic error estimate: 4.709075e-03
+
+step=88,E=-0.4757413573147518,dE=-0.0002477021629547216,err=7.35792972851717e-05,gmax=0.020068344746536404
+	collect g,Hv time= 0.4221034049987793
+niter= 46
+	solver time=36.117568254470825,exit status=0
+	g=0.1478465447090893,del=3.1682672887797634,dot=0.25063973022576497,x=39.79226323927548
+	log prob= -6.664043995268737e+00
+	burn in time= 20.888655424118042
+	sample time= 432.6200714111328
+	contraction err= 9.91794524663705e-09 2.0025276040746785e-05
+
+Mean energy: -3.04410148e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04410148e+01       4.859402e-03
+     2           25000       -3.04410148e+01       4.817543e-03
+     5           10000       -3.04410148e+01       4.807236e-03
+    10           5000       -3.04410148e+01       4.811022e-03
+    20           2500       -3.04410148e+01       4.924703e-03
+    50           1000       -3.04410148e+01       4.818792e-03
+    70            714       -3.04409778e+01       4.762685e-03
+   100            500       -3.04410148e+01       4.851829e-03
+   200            250       -3.04410148e+01       5.104567e-03
+   500            100       -3.04410148e+01       6.043010e-03
+0 0.00485940241531675 0.006043010068623552
+Stocahstic error estimate: 4.859402e-03
+
+step=89,E=-0.47564085572268455,dE=0.00010050159206725917,err=7.592816273932422e-05,gmax=0.044344501547122106
+	collect g,Hv time= 0.41794919967651367
+niter= 47
+	solver time=38.809205532073975,exit status=0
+	g=0.1881936551621252,del=3.379649355625091,dot=0.28622282023833057,x=39.79226323927548
+	log prob= -5.999945563018118e+00
+	burn in time= 20.61459445953369
+	sample time= 426.52021837234497
+	contraction err= 1.1933423366377136e-08 1.675179490827446e-05
+
+Mean energy: -3.04362834e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04362834e+01       5.082387e-03
+     2           25000       -3.04362834e+01       5.084348e-03
+     5           10000       -3.04362834e+01       5.062792e-03
+    10           5000       -3.04362834e+01       5.074582e-03
+    20           2500       -3.04362834e+01       5.032581e-03
+    50           1000       -3.04362834e+01       5.068006e-03
+    70            714       -3.04363187e+01       5.035196e-03
+   100            500       -3.04362834e+01       5.114693e-03
+   200            250       -3.04362834e+01       5.717698e-03
+   500            100       -3.04362834e+01       6.172083e-03
+0 0.005084347675126571 0.006172082564779147
+Stocahstic error estimate: 5.084348e-03
+
+step=90,E=-0.47556692812463675,dE=7.392759804780713e-05,err=7.944293242385268e-05,gmax=0.5817029418515317
+	collect g,Hv time= 0.42200660705566406
+niter= 47
+	solver time=36.85329842567444,exit status=0
+	g=1.4867267309935988,del=3.0412232780846162,dot=0.3804896019105143,x=39.79226323927548
+	log prob= -6.548660241870107e+00
+	burn in time= 19.817981958389282
+	sample time= 429.61807584762573
+	contraction err= 1.3623863816319825e-08 8.985019465506326e-05
+
+Mean energy: -3.04328698e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04328698e+01       4.972166e-03
+     2           25000       -3.04328698e+01       4.967474e-03
+     5           10000       -3.04328698e+01       4.995903e-03
+    10           5000       -3.04328698e+01       4.867176e-03
+    20           2500       -3.04328698e+01       4.904277e-03
+    50           1000       -3.04328698e+01       4.809242e-03
+    70            714       -3.04330036e+01       4.876664e-03
+   100            500       -3.04328698e+01       5.014924e-03
+   200            250       -3.04328698e+01       5.418988e-03
+   500            100       -3.04328698e+01       6.245745e-03
+0 0.0049721655725785486 0.00624574505938973
+Stocahstic error estimate: 4.972166e-03
+
+step=91,E=-0.4755135903697078,dE=5.333775492893933e-05,err=7.769008707153982e-05,gmax=0.06688103348345319
+	collect g,Hv time= 0.5047461986541748
+niter= 48
+	solver time=37.656036615371704,exit status=0
+	g=0.22423242485753983,del=3.3014272335387473,dot=0.29288857370703403,x=39.79226323927547
+	log prob= -7.189421637665834e+00
+	burn in time= 20.794328927993774
+	sample time= 431.9959223270416
+	contraction err= 1.413214477262133e-08 3.753821470736979e-05
+
+Mean energy: -3.04414285e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04414285e+01       5.355030e-03
+     2           25000       -3.04414285e+01       5.361136e-03
+     5           10000       -3.04414285e+01       5.364044e-03
+    10           5000       -3.04414285e+01       5.336319e-03
+    20           2500       -3.04414285e+01       5.280399e-03
+    50           1000       -3.04414285e+01       5.419410e-03
+    70            714       -3.04413120e+01       5.483801e-03
+   100            500       -3.04414285e+01       5.517980e-03
+   200            250       -3.04414285e+01       5.668675e-03
+   500            100       -3.04414285e+01       6.451779e-03
+0 0.005361135672629475 0.006451778719051266
+Stocahstic error estimate: 5.361136e-03
+
+step=92,E=-0.4756473196184205,dE=-0.00013372924871268843,err=8.376774488483555e-05,gmax=0.06035241502857136
+	collect g,Hv time= 0.4167358875274658
+niter= 48
+	solver time=37.70705556869507,exit status=0
+	g=0.3369982325770887,del=3.6052890840117264,dot=0.5170657814580543,x=39.79226323927548
+	log prob= -6.083250223206862e+00
+	burn in time= 20.854524612426758
+	sample time= 432.7641932964325
+	contraction err= 1.2291951439733844e-08 4.160198258240227e-05
+
+Mean energy: -3.04341624e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04341624e+01       4.979829e-03
+     2           25000       -3.04341624e+01       4.959015e-03
+     5           10000       -3.04341624e+01       4.956731e-03
+    10           5000       -3.04341624e+01       4.957352e-03
+    20           2500       -3.04341624e+01       4.945666e-03
+    50           1000       -3.04341624e+01       4.880841e-03
+    70            714       -3.04340807e+01       4.923542e-03
+   100            500       -3.04341624e+01       4.934063e-03
+   200            250       -3.04341624e+01       5.297383e-03
+   500            100       -3.04341624e+01       6.548731e-03
+0 0.004979829322373805 0.00654873111292778
+Stocahstic error estimate: 4.979829e-03
+
+step=93,E=-0.475533787459271,dE=0.00011353215914949866,err=7.78098331620907e-05,gmax=0.06005401786150877
+	collect g,Hv time= 0.4548509120941162
+niter= 48
+	solver time=37.686750650405884,exit status=0
+	g=0.2085268276357433,del=3.362581311937036,dot=0.3269455196191662,x=39.792263239275485
+	log prob= -6.500649741591663e+00
+	burn in time= 20.59769868850708
+	sample time= 429.94556045532227
+	contraction err= 1.0634423026072636e-08 9.007320771984208e-06
+
+Mean energy: -3.04524692e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04524692e+01       4.701969e-03
+     2           25000       -3.04524692e+01       4.717670e-03
+     5           10000       -3.04524692e+01       4.723803e-03
+    10           5000       -3.04524692e+01       4.770995e-03
+    20           2500       -3.04524692e+01       4.756841e-03
+    50           1000       -3.04524692e+01       4.960108e-03
+    70            714       -3.04523972e+01       4.949967e-03
+   100            500       -3.04524692e+01       4.897319e-03
+   200            250       -3.04524692e+01       5.232432e-03
+   500            100       -3.04524692e+01       5.843820e-03
+0 0.004717669531934198 0.005843820242478028
+Stocahstic error estimate: 4.717670e-03
+
+step=94,E=-0.4758198314857788,dE=-0.00028604402650778127,err=7.371358643647184e-05,gmax=0.05920965843810322
+	collect g,Hv time= 0.4200165271759033
+niter= 48
+	solver time=37.71417188644409,exit status=0
+	g=0.2193204810493533,del=2.957721219605701,dot=0.2906749369993965,x=39.79226323927548
+	log prob= -6.761722166243188e+00
+	burn in time= 20.238147497177124
+	sample time= 434.973548412323
+	contraction err= 1.2422848481975813e-08 1.6689981799614338e-05
+
+Mean energy: -3.04448882e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04448882e+01       4.910395e-03
+     2           25000       -3.04448882e+01       4.903155e-03
+     5           10000       -3.04448882e+01       4.874661e-03
+    10           5000       -3.04448882e+01       4.865508e-03
+    20           2500       -3.04448882e+01       4.873728e-03
+    50           1000       -3.04448882e+01       4.857429e-03
+    70            714       -3.04449377e+01       4.801963e-03
+   100            500       -3.04448882e+01       4.847644e-03
+   200            250       -3.04448882e+01       5.099466e-03
+   500            100       -3.04448882e+01       5.688890e-03
+0 0.004910395227895062 0.005688890498773751
+Stocahstic error estimate: 4.910395e-03
+
+step=95,E=-0.47570137862199313,dE=0.00011845286378564523,err=7.672492543586034e-05,gmax=0.033115774347762916
+	collect g,Hv time= 0.41941022872924805
+niter= 46
+	solver time=36.093838930130005,exit status=0
+	g=0.18829082707877773,del=3.4216255662775406,dot=0.35825095214756947,x=39.792263239275485
+	log prob= -7.102038178615024e+00
+	burn in time= 20.452957153320312
+	sample time= 433.65863132476807
+	contraction err= 1.3151107222590082e-08 4.039378016678475e-05
+
+Mean energy: -3.04509188e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04509188e+01       4.850000e-03
+     2           25000       -3.04509188e+01       4.870075e-03
+     5           10000       -3.04509188e+01       4.870776e-03
+    10           5000       -3.04509188e+01       4.901308e-03
+    20           2500       -3.04509188e+01       4.888387e-03
+    50           1000       -3.04509188e+01       5.002952e-03
+    70            714       -3.04508059e+01       4.983243e-03
+   100            500       -3.04509188e+01       5.245808e-03
+   200            250       -3.04509188e+01       5.657789e-03
+   500            100       -3.04509188e+01       6.553756e-03
+0 0.004870074626028852 0.006553755762670243
+Stocahstic error estimate: 4.870075e-03
+
+step=96,E=-0.47579560582483377,dE=-9.422720284063546e-05,err=7.609491603170082e-05,gmax=0.041913074602601075
+	collect g,Hv time= 0.5259959697723389
+niter= 47
+	solver time=36.7964813709259,exit status=0
+	g=0.20717282046320495,del=3.23844034307998,dot=0.3655675402433413,x=39.79226323927548
+	log prob= -7.47890449258285e+00
+	burn in time= 21.072527170181274
+	sample time= 434.0666346549988
+	contraction err= 1.3160344579915114e-08 3.206668836912284e-05
+
+Mean energy: -3.04625990e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04625990e+01       4.899448e-03
+     2           25000       -3.04625990e+01       4.915456e-03
+     5           10000       -3.04625990e+01       4.919393e-03
+    10           5000       -3.04625990e+01       4.889425e-03
+    20           2500       -3.04625990e+01       4.862036e-03
+    50           1000       -3.04625990e+01       4.964752e-03
+    70            714       -3.04626047e+01       4.953651e-03
+   100            500       -3.04625990e+01       5.005174e-03
+   200            250       -3.04625990e+01       5.041927e-03
+   500            100       -3.04625990e+01       5.829854e-03
+0 0.00491545582666336 0.005829854351515886
+Stocahstic error estimate: 4.915456e-03
+
+step=97,E=-0.4759781091701008,dE=-0.0001825033452670377,err=7.6803997291615e-05,gmax=0.030553588408449905
+	collect g,Hv time= 0.42141151428222656
+niter= 47
+	solver time=36.78060221672058,exit status=0
+	g=0.2043514885538279,del=3.441070077971004,dot=0.29894940821848365,x=39.79226323927548
+	log prob= -6.628395733800491e+00
+	burn in time= 19.17815065383911
+	sample time= 431.4517676830292
+	contraction err= 1.383131974218623e-08 4.838995122031936e-05
+
+Mean energy: -3.04239050e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04239050e+01       5.535943e-03
+     2           25000       -3.04239050e+01       5.516951e-03
+     5           10000       -3.04239050e+01       5.490127e-03
+    10           5000       -3.04239050e+01       5.529813e-03
+    20           2500       -3.04239050e+01       5.514297e-03
+    50           1000       -3.04239050e+01       5.516861e-03
+    70            714       -3.04237462e+01       5.545448e-03
+   100            500       -3.04239050e+01       5.656782e-03
+   200            250       -3.04239050e+01       6.041216e-03
+   500            100       -3.04239050e+01       7.579590e-03
+0 0.005535943445180528 0.007579589597441577
+Stocahstic error estimate: 5.535943e-03
+
+step=98,E=-0.47537351595038907,dE=0.0006045932197117354,err=8.649911633094574e-05,gmax=0.11572208330448058
+	collect g,Hv time= 0.4938790798187256
+niter= 46
+	solver time=36.04628252983093,exit status=0
+	g=0.3579471241533955,del=3.7586615612394283,dot=0.6091526157835666,x=39.792263239275485
+	log prob= -6.882411523835233e+00
+	burn in time= 20.54921245574951
+	sample time= 434.3013985157013
+	contraction err= 1.4137752718499065e-08 8.471788698298174e-05
+
+Mean energy: -3.04464576e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04464576e+01       4.865860e-03
+     2           25000       -3.04464576e+01       4.863342e-03
+     5           10000       -3.04464576e+01       4.852774e-03
+    10           5000       -3.04464576e+01       4.843787e-03
+    20           2500       -3.04464576e+01       4.829765e-03
+    50           1000       -3.04464576e+01       4.752926e-03
+    70            714       -3.04464391e+01       4.777608e-03
+   100            500       -3.04464576e+01       4.940830e-03
+   200            250       -3.04464576e+01       5.189805e-03
+   500            100       -3.04464576e+01       6.072218e-03
+0 0.004865860048968369 0.006072217910920543
+Stocahstic error estimate: 4.865860e-03
+
+step=99,E=-0.47572590011822746,dE=-0.0003523841678383932,err=7.602906326513076e-05,gmax=0.023227740565550492
+	collect g,Hv time= 0.42562341690063477
+	solver time=36.82989764213562,exit status=0
+niter= 47
+	g=0.17199524678471384,del=3.224011092330778,dot=0.2545776014854403,x=39.79226323927548
+	log prob= -6.050440256287733e+00
+	burn in time= 20.48961067199707
+	sample time= 434.6671760082245
+	contraction err= 1.4017224689673988e-08 5.0358153898373674e-05
+
+Mean energy: -3.04535769e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04535769e+01       4.772731e-03
+     2           25000       -3.04535769e+01       4.765101e-03
+     5           10000       -3.04535769e+01       4.788238e-03
+    10           5000       -3.04535769e+01       4.861166e-03
+    20           2500       -3.04535769e+01       4.938921e-03
+    50           1000       -3.04535769e+01       5.057880e-03
+    70            714       -3.04535973e+01       4.974180e-03
+   100            500       -3.04535769e+01       5.079909e-03
+   200            250       -3.04535769e+01       5.575989e-03
+   500            100       -3.04535769e+01       6.408857e-03
+0 0.004772731075844702 0.006408857278818884
+Stocahstic error estimate: 4.772731e-03
+
+step=100,E=-0.47583713882748796,dE=-0.00011123870926049717,err=7.457392306007346e-05,gmax=0.020700124660801844
+	collect g,Hv time= 0.4564394950866699
+niter= 48
+	solver time=37.702874422073364,exit status=0
+	g=0.16492161852501974,del=3.1873181350079847,dot=0.23569934591364572,x=39.792263239275485
+	log prob= -6.776532418617777e+00
+	burn in time= 20.30059576034546
+	sample time= 428.76656675338745
+	contraction err= 1.2176969012298666e-08 1.3515282321204887e-05
+
+Mean energy: -3.04472027e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04472027e+01       4.723237e-03
+     2           25000       -3.04472027e+01       4.730946e-03
+     5           10000       -3.04472027e+01       4.731421e-03
+    10           5000       -3.04472027e+01       4.768341e-03
+    20           2500       -3.04472027e+01       4.743848e-03
+    50           1000       -3.04472027e+01       4.796969e-03
+    70            714       -3.04470922e+01       4.751897e-03
+   100            500       -3.04472027e+01       4.812293e-03
+   200            250       -3.04472027e+01       5.109801e-03
+   500            100       -3.04472027e+01       6.028385e-03
+0 0.004730945983147181 0.006028385055142265
+Stocahstic error estimate: 4.730946e-03
+
+step=101,E=-0.47573754174862015,dE=9.9597078867808e-05,err=7.39210309866747e-05,gmax=0.05048107752989173
+	collect g,Hv time= 0.4488048553466797
+niter= 47
+	solver time=36.86064291000366,exit status=0
+	g=0.1892613011416417,del=3.122172983970632,dot=0.2711943050565957,x=39.792263239275485
+	log prob= -5.8795205271465525e+00
+	burn in time= 19.71705937385559
+	sample time= 439.09663009643555
+	contraction err= 1.477264237925056e-08 4.531158342620755e-05
+
+Mean energy: -3.04330041e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04330041e+01       4.977994e-03
+     2           25000       -3.04330041e+01       4.967096e-03
+     5           10000       -3.04330041e+01       4.968059e-03
+    10           5000       -3.04330041e+01       4.908103e-03
+    20           2500       -3.04330041e+01       4.887388e-03
+    50           1000       -3.04330041e+01       4.885878e-03
+    70            714       -3.04330901e+01       4.820897e-03
+   100            500       -3.04330041e+01       4.706853e-03
+   200            250       -3.04330041e+01       4.883267e-03
+   500            100       -3.04330041e+01       5.773860e-03
+0 0.004977993748958198 0.005773859578301508
+Stocahstic error estimate: 4.977994e-03
+
+step=102,E=-0.475515689406939,dE=0.0002218523416811502,err=7.778115232747185e-05,gmax=0.08309728941383715
+	collect g,Hv time= 0.4420018196105957
+niter= 48
+	solver time=37.840689182281494,exit status=0
+	g=0.23105204556265863,del=3.162468026744967,dot=0.33627253480478514,x=39.79226323927548
+	log prob= -6.200995555411503e+00
+	burn in time= 20.680647134780884
+	sample time= 438.2461214065552
+	contraction err= 1.540147555376486e-08 2.555233759281774e-05
+
+Mean energy: -3.04392299e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04392299e+01       5.034039e-03
+     2           25000       -3.04392299e+01       5.051253e-03
+     5           10000       -3.04392299e+01       4.998981e-03
+    10           5000       -3.04392299e+01       5.040947e-03
+    20           2500       -3.04392299e+01       5.070317e-03
+    50           1000       -3.04392299e+01       5.107276e-03
+    70            714       -3.04390736e+01       5.172710e-03
+   100            500       -3.04392299e+01       5.285556e-03
+   200            250       -3.04392299e+01       5.999402e-03
+   500            100       -3.04392299e+01       6.783534e-03
+0 0.005051252957034577 0.006783534144327274
+Stocahstic error estimate: 5.051253e-03
+
+step=103,E=-0.4756129675877982,dE=-9.727818085919493e-05,err=7.892582745366526e-05,gmax=0.06662585411881494
+	collect g,Hv time= 0.42920422554016113
+niter= 48
+	solver time=37.64782404899597,exit status=0
+	g=0.22970604327388297,del=3.446681788610503,dot=0.31197053945978864,x=39.792263239275485
+	log prob= -7.037650783613031e+00
+	burn in time= 20.949073553085327
+	sample time= 435.18037605285645
+	contraction err= 1.5164376796410225e-08 3.6077373023793285e-05
+
+Mean energy: -3.04462002e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04462002e+01       4.945129e-03
+     2           25000       -3.04462002e+01       4.943657e-03
+     5           10000       -3.04462002e+01       4.979051e-03
+    10           5000       -3.04462002e+01       4.949919e-03
+    20           2500       -3.04462002e+01       4.954874e-03
+    50           1000       -3.04462002e+01       4.904536e-03
+    70            714       -3.04462958e+01       4.973752e-03
+   100            500       -3.04462002e+01       4.730493e-03
+   200            250       -3.04462002e+01       4.907186e-03
+   500            100       -3.04462002e+01       5.157572e-03
+0 0.004945129420143656 0.0051575721115325966
+Stocahstic error estimate: 4.945129e-03
+
+step=104,E=-0.47572187873935085,dE=-0.00010891115155264863,err=7.726764718974463e-05,gmax=0.036341259130769465
+	collect g,Hv time= 0.4683058261871338
+niter= 47
+	solver time=36.918734312057495,exit status=0
+	g=0.24261388702227177,del=3.4828459714146223,dot=0.22995780329850604,x=39.792263239275485
+	log prob= -5.481843104327743e+00
+	burn in time= 20.64892888069153
+	sample time= 430.75975918769836
+	contraction err= 1.4919574323273113e-08 4.765596328716482e-05
+
+Mean energy: -3.04387639e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -3.04387639e+01       4.856045e-03
+     2           25000       -3.04387639e+01       4.842269e-03
+     5           10000       -3.04387639e+01       4.850526e-03
+    10           5000       -3.04387639e+01       4.900834e-03
+    20           2500       -3.04387639e+01       4.973354e-03
+    50           1000       -3.04387639e+01       4.882460e-03
+    70            714       -3.04386547e+01       5.022812e-03
+   100            500       -3.04387639e+01       5.161858e-03
+   200            250       -3.04387639e+01       5.730546e-03
+   500            100       -3.04387639e+01       6.930333e-03
+0 0.004856044723524136 0.006930333063950343
+Stocahstic error estimate: 4.856045e-03
+
+step=105,E=-0.4756056862513344,dE=0.00011619248801642001,err=7.587569880506462e-05,gmax=0.12047866765055237
+	collect g,Hv time= 0.42376232147216797
+niter= 48
+	solver time=37.63913655281067,exit status=0
+	g=0.3967356974126899,del=3.16174121899371,dot=0.10950903047092395,x=39.79226323927547
+	log prob= -7.19395830366576e+00
+	burn in time= 19.854419231414795
