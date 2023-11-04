@@ -1,0 +1,2420 @@
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-22
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-22
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-22
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-22
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-22
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-22
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-22
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-22
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-22
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-22
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-37
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-37
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-37
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-37
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-37
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-37
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-37
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-37
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-37
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-37
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-83-11
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-83-11
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-83-11
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-83-11
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-83-11
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-83-11
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-83-11
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-83-11
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-83-11
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-83-11
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-27
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-27
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-27
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-27
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-27
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-27
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-27
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-27
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-27
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-27
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-83-18
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-83-18
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-83-18
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-83-18
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-83-18
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-83-18
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-83-18
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-83-18
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-83-18
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-83-18
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-31
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-31
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-31
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-34
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-31
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-31
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-31
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-34
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-31
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-34
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-20
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-31
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-34
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-20
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-31
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-34
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-20
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-19-31
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-34
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-20
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-34
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-34
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-34
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-20
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-21-34
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-20
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-20
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-20
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-20
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-20
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-26
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-26
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-26
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-26
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-26
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-26
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-26
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-26
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-26
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-82-26
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-80-05
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-80-05
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-80-05
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-80-05
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-80-05
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-80-05
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-80-05
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-80-05
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-80-05
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+WARNING: No preset parameters were found for the device that Open MPI
+detected:
+
+  Local host:            hpc-80-05
+  Device name:           mlx5_0
+  Device vendor ID:      0x02c9
+  Device vendor part ID: 4123
+
+Default device parameters will be used, which may result in lower
+performance.  You can edit any of the files specified by the
+btl_openib_device_param_files MCA parameter to set values for your
+device.
+
+NOTE: You can turn off this warning by setting the MCA parameter
+      btl_openib_warn_no_device_params_found to 0.
+--------------------------------------------------------------------------
+nbatch= 1
+block_dict= [(0, 41472)]
+sizes= [41472]
+SIZE= 100
+Lx,Ly= 4 4
+nelec= (7, 7)
+nparam= [41472  6632]
+	log prob= -1.9772516096261114e+01
+	burn in time= 403.97894263267517
+	sample time= 6437.696444749832
+	contraction err= 4.796025259229765e-05 0.00867509538231382
+
+Mean energy: -1.00329655e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00329655e+01       3.604967e-03
+     2           25000       -1.00329655e+01       3.593439e-03
+     5           10000       -1.00329655e+01       3.601919e-03
+    10           5000       -1.00329655e+01       3.606975e-03
+    20           2500       -1.00329655e+01       3.589187e-03
+    50           1000       -1.00329655e+01       3.648260e-03
+    70            714       -1.00328625e+01       3.648328e-03
+   100            500       -1.00329655e+01       3.770922e-03
+   200            250       -1.00329655e+01       4.063694e-03
+   500            100       -1.00329655e+01       4.637744e-03
+0 0.0036049669333369024 0.004637744338780833
+Stocahstic error estimate: 3.604967e-03
+
+step=0,E=-0.627060344368525,dE=-0.627060344368525,err=0.0002253104333335564,gmax=0.037824978989829755
+	collect g,Hv time= 0.4300065040588379
+	solver time=56.03208947181702,exit status=0
+niter= 47
+	g=0.31777737153463553,del=4.639138914896999,dot=0.46702076928628955,x=8.790193426561558
+saving to  ./psi1_0
+	log prob= -1.978302452317083e+01
+	burn in time= 445.10079526901245
+	sample time= 6403.561010122299
+	contraction err= 4.5269014500656335e-05 0.010686546738453493
+
+Mean energy: -1.00482013e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00482013e+01       3.235957e-03
+     2           25000       -1.00482013e+01       3.238569e-03
+     5           10000       -1.00482013e+01       3.231323e-03
+    10           5000       -1.00482013e+01       3.212113e-03
+    20           2500       -1.00482013e+01       3.153970e-03
+    50           1000       -1.00482013e+01       3.127780e-03
+    70            714       -1.00482371e+01       3.155499e-03
+   100            500       -1.00482013e+01       3.107725e-03
+   200            250       -1.00482013e+01       2.993603e-03
+   500            100       -1.00482013e+01       3.216846e-03
+0 0.003238569302591313 0.0032168463831683627
+Stocahstic error estimate: 3.238569e-03
+
+step=1,E=-0.6280125839719147,dE=-0.0009522396033897484,err=0.00020241058141195705,gmax=0.07131144290464397
+	collect g,Hv time= 0.45835256576538086
+	solver time=61.16444516181946,exit status=0
+niter= 51
+	g=0.2805348999594544,del=4.975653959572675,dot=0.3773330568701166,x=8.790193426561558
+saving to  ./psi2_0
+	log prob= -1.974263606120312e+01
+	burn in time= 451.8360950946808
+	sample time= 6437.8197066783905
+	contraction err= 4.5290397761503505e-05 0.0051490065106351325
+
+Mean energy: -1.00450414e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00450414e+01       3.644132e-03
+     2           25000       -1.00450414e+01       3.628889e-03
+     5           10000       -1.00450414e+01       3.616905e-03
+    10           5000       -1.00450414e+01       3.662629e-03
+    20           2500       -1.00450414e+01       3.692706e-03
+    50           1000       -1.00450414e+01       3.755581e-03
+    70            714       -1.00450142e+01       3.761710e-03
+   100            500       -1.00450414e+01       3.874361e-03
+   200            250       -1.00450414e+01       4.020603e-03
+   500            100       -1.00450414e+01       3.690945e-03
+0 0.0036441318936812884 0.0036909445571002937
+Stocahstic error estimate: 3.644132e-03
+
+step=2,E=-0.6278150873866134,dE=0.00019749658530132663,err=0.00022775824335508052,gmax=0.05883327726789726
+	collect g,Hv time= 0.43202757835388184
+	solver time=58.708462953567505,exit status=0
+niter= 49
+	g=0.2843062887150321,del=4.793109264092969,dot=0.48769442347341047,x=8.790193426561556
+saving to  ./psi3_0
+	log prob= -1.9827374381835813e+01
+	burn in time= 451.4584069252014
+	sample time= 6416.478278875351
+	contraction err= 4.418867188077714e-05 0.006635463846877279
+
+Mean energy: -1.00454798e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00454798e+01       3.315144e-03
+     2           25000       -1.00454798e+01       3.314942e-03
+     5           10000       -1.00454798e+01       3.322413e-03
+    10           5000       -1.00454798e+01       3.284289e-03
+    20           2500       -1.00454798e+01       3.251213e-03
+    50           1000       -1.00454798e+01       3.356319e-03
+    70            714       -1.00454761e+01       3.254566e-03
+   100            500       -1.00454798e+01       3.237426e-03
+   200            250       -1.00454798e+01       3.129193e-03
+   500            100       -1.00454798e+01       3.120666e-03
+0 0.003315143564368673 0.003120666065161643
+Stocahstic error estimate: 3.315144e-03
+
+step=3,E=-0.6278424879483244,dE=-2.7400561711021787e-05,err=0.00020719647277304206,gmax=0.10769062068216345
+	collect g,Hv time= 0.42740345001220703
+	solver time=56.09706783294678,exit status=0
+niter= 48
+	g=0.5459517452673984,del=4.589942810372042,dot=0.38839299317988724,x=8.790193426561558
+saving to  ./psi4_0
+	log prob= -1.987720906405464e+01
+	burn in time= 460.20940232276917
+	sample time= 6405.384796380997
+	contraction err= 4.309944877177608e-05 0.0036840513597362454
+
+Mean energy: -1.00421035e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00421035e+01       3.209266e-03
+     2           25000       -1.00421035e+01       3.227377e-03
+     5           10000       -1.00421035e+01       3.239436e-03
+    10           5000       -1.00421035e+01       3.235042e-03
+    20           2500       -1.00421035e+01       3.218007e-03
+    50           1000       -1.00421035e+01       3.285506e-03
+    70            714       -1.00421240e+01       3.206787e-03
+   100            500       -1.00421035e+01       3.152416e-03
+   200            250       -1.00421035e+01       3.119799e-03
+   500            100       -1.00421035e+01       2.788371e-03
+0 0.003227376723839068 0.0027883714549564735
+Stocahstic error estimate: 3.227377e-03
+
+step=4,E=-0.6276314709685743,dE=0.00021101697975012268,err=0.00020171104523994174,gmax=0.06733046898232778
+	collect g,Hv time= 0.4264335632324219
+	solver time=57.30407190322876,exit status=0
+niter= 48
+	g=0.42034432886875595,del=4.472432320912849,dot=0.35446771648803443,x=8.790193426561556
+saving to  ./psi5_0
+	log prob= -1.990350491397245e+01
+	burn in time= 436.20880007743835
+	sample time= 6392.223821878433
+	contraction err= 4.289748292160759e-05 0.005724017002926636
+
+Mean energy: -1.00444077e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00444077e+01       3.391921e-03
+     2           25000       -1.00444077e+01       3.392798e-03
+     5           10000       -1.00444077e+01       3.383180e-03
+    10           5000       -1.00444077e+01       3.396646e-03
+    20           2500       -1.00444077e+01       3.390754e-03
+    50           1000       -1.00444077e+01       3.319290e-03
+    70            714       -1.00444061e+01       3.422157e-03
+   100            500       -1.00444077e+01       3.320536e-03
+   200            250       -1.00444077e+01       3.331422e-03
+   500            100       -1.00444077e+01       3.310874e-03
+0 0.0033927979102186326 0.0033108739406859677
+Stocahstic error estimate: 3.392798e-03
+
+step=5,E=-0.6277754805521998,dE=-0.00014400958362548177,err=0.00021204986938866454,gmax=0.0382100116808269
+	collect g,Hv time= 0.4316370487213135
+	solver time=57.85289907455444,exit status=0
+niter= 50
+	g=0.26828886510265865,del=4.9866409164868335,dot=0.4319474671015812,x=8.790193426561558
+saving to  ./psi6_0
+	log prob= -1.9882112560293663e+01
+	burn in time= 452.4643347263336
+	sample time= 6381.722263813019
+	contraction err= 4.317597653637985e-05 0.02087613428725758
+
+Mean energy: -1.00391536e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00391536e+01       3.337412e-03
+     2           25000       -1.00391536e+01       3.346602e-03
+     5           10000       -1.00391536e+01       3.347332e-03
+    10           5000       -1.00391536e+01       3.352329e-03
+    20           2500       -1.00391536e+01       3.361194e-03
+    50           1000       -1.00391536e+01       3.404697e-03
+    70            714       -1.00391277e+01       3.408639e-03
+   100            500       -1.00391536e+01       3.439156e-03
+   200            250       -1.00391536e+01       3.288102e-03
+   500            100       -1.00391536e+01       3.457782e-03
+0 0.003346601608413296 0.0034577823368738742
+Stocahstic error estimate: 3.346602e-03
+
+step=6,E=-0.627447100847491,dE=0.0003283797047087811,err=0.000209162600525831,gmax=0.019785100702967018
+	collect g,Hv time= 0.5040287971496582
+	solver time=58.568694829940796,exit status=0
+niter= 50
+	g=0.1912898188429856,del=4.963421806603141,dot=0.40170772115487813,x=8.790193426561558
+saving to  ./psi7_0
+	log prob= -1.9971399564520745e+01
+	burn in time= 420.74388694763184
+	sample time= 6409.1389100551605
+	contraction err= 4.275209514826034e-05 0.004037952081666553
+
+Mean energy: -1.00459229e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00459229e+01       3.334517e-03
+     2           25000       -1.00459229e+01       3.331752e-03
+     5           10000       -1.00459229e+01       3.321964e-03
+    10           5000       -1.00459229e+01       3.318666e-03
+    20           2500       -1.00459229e+01       3.361606e-03
+    50           1000       -1.00459229e+01       3.339838e-03
+    70            714       -1.00459194e+01       3.363432e-03
+   100            500       -1.00459229e+01       3.393057e-03
+   200            250       -1.00459229e+01       3.567634e-03
+   500            100       -1.00459229e+01       3.651367e-03
+0 0.003334517254224914 0.0036513673911754284
+Stocahstic error estimate: 3.334517e-03
+
+step=7,E=-0.6278701784515573,dE=-0.0004230776040663464,err=0.00020840732838905713,gmax=0.023524128139909894
+	collect g,Hv time= 0.4240000247955322
+	solver time=57.82719945907593,exit status=0
+niter= 50
+	g=0.2149513735372388,del=4.876768769465313,dot=0.40715657396324634,x=8.790193426561558
+saving to  ./psi8_0
+	log prob= -1.9958420826678104e+01
+	burn in time= 421.15734577178955
+	sample time= 6386.381674051285
+	contraction err= 4.348160669374169e-05 0.015610347988481887
+
+Mean energy: -1.00541725e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00541725e+01       3.218643e-03
+     2           25000       -1.00541725e+01       3.228308e-03
+     5           10000       -1.00541725e+01       3.222449e-03
+    10           5000       -1.00541725e+01       3.261428e-03
+    20           2500       -1.00541725e+01       3.209791e-03
+    50           1000       -1.00541725e+01       3.205404e-03
+    70            714       -1.00540918e+01       3.168668e-03
+   100            500       -1.00541725e+01       3.189451e-03
+   200            250       -1.00541725e+01       3.042168e-03
+   500            100       -1.00541725e+01       2.976129e-03
+0 0.003228308000655798 0.0029761285369351467
+Stocahstic error estimate: 3.228308e-03
+
+step=8,E=-0.62838578202095,dE=-0.0005156035693926198,err=0.00020176925004098737,gmax=0.02540337571089002
+	collect g,Hv time= 0.42736029624938965
+	solver time=60.66337585449219,exit status=0
+niter= 50
+	g=0.20318812935802716,del=4.768337952668611,dot=0.3815855128102745,x=8.790193426561556
+saving to  ./psi9_0
+	log prob= -2.0013231028033722e+01
+	burn in time= 412.20994758605957
+	sample time= 6419.97100520134
+	contraction err= 4.397736095759654e-05 0.008944966679600635
+
+Mean energy: -1.00456188e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00456188e+01       3.293144e-03
+     2           25000       -1.00456188e+01       3.293427e-03
+     5           10000       -1.00456188e+01       3.269579e-03
+    10           5000       -1.00456188e+01       3.259972e-03
+    20           2500       -1.00456188e+01       3.257366e-03
+    50           1000       -1.00456188e+01       3.283391e-03
+    70            714       -1.00455869e+01       3.256836e-03
+   100            500       -1.00456188e+01       3.319258e-03
+   200            250       -1.00456188e+01       3.263241e-03
+   500            100       -1.00456188e+01       3.620023e-03
+0 0.0032934270368503416 0.003620022595818221
+Stocahstic error estimate: 3.293427e-03
+
+step=9,E=-0.6278511727202575,dE=0.0005346093006924901,err=0.00020583918980314635,gmax=0.05383864320343437
+	collect g,Hv time= 0.4247243404388428
+	solver time=60.05136752128601,exit status=0
+niter= 51
+	g=0.3990728220713821,del=4.64070820667037,dot=0.4016490618030506,x=8.790193426561556
+saving to  ./psi10_0
+	log prob= -2.010015453318194e+01
+	burn in time= 449.38446950912476
+	sample time= 6406.813341140747
+	contraction err= 4.438083692609541e-05 0.011863604861395694
+
+Mean energy: -1.00493110e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00493110e+01       3.396711e-03
+     2           25000       -1.00493110e+01       3.395038e-03
+     5           10000       -1.00493110e+01       3.402506e-03
+    10           5000       -1.00493110e+01       3.459630e-03
+    20           2500       -1.00493110e+01       3.401014e-03
+    50           1000       -1.00493110e+01       3.308676e-03
+    70            714       -1.00492918e+01       3.372935e-03
+   100            500       -1.00493110e+01       3.380774e-03
+   200            250       -1.00493110e+01       3.267186e-03
+   500            100       -1.00493110e+01       3.268329e-03
+0 0.0033967114788923617 0.0032683288448458014
+Stocahstic error estimate: 3.396711e-03
+
+step=10,E=-0.6280819352251054,dE=-0.0002307625048478812,err=0.0002122944674307726,gmax=0.0675559073553677
+	collect g,Hv time= 0.6183266639709473
+	solver time=60.70736122131348,exit status=0
+niter= 51
+	g=0.36335378262648815,del=4.785793518076121,dot=0.43320529615506603,x=8.790193426561562
+saving to  ./psi11_0
+	log prob= -2.014934468197638e+01
+	burn in time= 440.38522267341614
+	sample time= 6452.673359155655
+	contraction err= 4.3988180156197665e-05 0.003071650688947514
+
+Mean energy: -1.00493061e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00493061e+01       3.181096e-03
+     2           25000       -1.00493061e+01       3.179085e-03
+     5           10000       -1.00493061e+01       3.194124e-03
+    10           5000       -1.00493061e+01       3.244175e-03
+    20           2500       -1.00493061e+01       3.304563e-03
+    50           1000       -1.00493061e+01       3.216729e-03
+    70            714       -1.00492978e+01       3.163707e-03
+   100            500       -1.00493061e+01       3.302782e-03
+   200            250       -1.00493061e+01       3.305200e-03
+   500            100       -1.00493061e+01       3.613946e-03
+0 0.003181096175386936 0.003613945758524852
+Stocahstic error estimate: 3.181096e-03
+
+step=11,E=-0.628081632922156,dE=3.02302949339861e-07,err=0.0001988185109616835,gmax=0.024102275607727194
+	collect g,Hv time= 0.4257082939147949
+	solver time=58.41103386878967,exit status=0
+niter= 50
+	g=0.21602218284471225,del=4.658852763489674,dot=0.3672532736904808,x=8.790193426561556
+saving to  ./psi12_0
+	log prob= -2.0171418101073048e+01
+	burn in time= 457.9929533004761
+	sample time= 6433.238750219345
+	contraction err= 4.509419879112087e-05 0.00712399955695396
+
+Mean energy: -1.00509380e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00509380e+01       3.027301e-03
+     2           25000       -1.00509380e+01       3.026603e-03
+     5           10000       -1.00509380e+01       3.025640e-03
+    10           5000       -1.00509380e+01       3.029222e-03
+    20           2500       -1.00509380e+01       3.031063e-03
+    50           1000       -1.00509380e+01       2.979329e-03
+    70            714       -1.00508308e+01       3.073000e-03
+   100            500       -1.00509380e+01       3.051292e-03
+   200            250       -1.00509380e+01       2.966194e-03
+   500            100       -1.00509380e+01       3.201147e-03
+0 0.003027301451174571 0.0032011474693375737
+Stocahstic error estimate: 3.027301e-03
+
+step=12,E=-0.6281836249395707,dE=-0.000101992017414676,err=0.00018920634069841068,gmax=0.025993752982829042
+	collect g,Hv time= 0.49058008193969727
+	solver time=58.458662271499634,exit status=0
+niter= 50
+	g=0.2058409108683514,del=4.54176514252031,dot=0.32226065032576934,x=8.79019342656156
+saving to  ./psi13_0
+	log prob= -2.016513728400146e+01
+	burn in time= 420.1870138645172
+nbatch= 1
+block_dict= [(0, 41472)]
+sizes= [41472]
+SIZE= 100
+Lx,Ly= 4 4
+nelec= (7, 7)
+nparam= [41472  6632]
+	log prob= -2.548311035562764e+01
+	burn in time= 417.7137062549591
+	sample time= 5786.819610118866
+	contraction err= 4.4067258805525225e-05 0.004598554522804672
+
+Mean energy: -1.00495132e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00495132e+01       3.412800e-03
+     2           25000       -1.00495132e+01       3.467543e-03
+     5           10000       -1.00495132e+01       3.446424e-03
+    10           5000       -1.00495132e+01       3.468327e-03
+    20           2500       -1.00495132e+01       3.446634e-03
+    50           1000       -1.00495132e+01       3.498359e-03
+    70            714       -1.00495095e+01       3.361208e-03
+   100            500       -1.00495132e+01       3.331297e-03
+   200            250       -1.00495132e+01       3.368101e-03
+   500            100       -1.00495132e+01       3.519753e-03
+0 0.003467543419679286 0.0035197534632108074
+Stocahstic error estimate: 3.467543e-03
+
+step=13,E=-0.628094577683263,dE=-0.628094577683263,err=0.00021672146372995538,gmax=0.037118342204316424
+	collect g,Hv time= 0.6095154285430908
+	solver time=51.2070996761322,exit status=0
+niter= 50
+	g=0.3485177175629995,del=4.522335813600877,dot=0.4480320254018118,x=8.79019342656156
+saving to  ./psi14_0
+	log prob= -2.5540685261535383e+01
+	burn in time= 437.0187222957611
+	sample time= 5804.441087722778
+	contraction err= 4.36435713744934e-05 0.003848450738252381
+
+Mean energy: -1.00516503e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00516503e+01       3.071095e-03
+     2           25000       -1.00516503e+01       3.081909e-03
+     5           10000       -1.00516503e+01       3.091739e-03
+    10           5000       -1.00516503e+01       3.039819e-03
+    20           2500       -1.00516503e+01       3.040231e-03
+    50           1000       -1.00516503e+01       3.094255e-03
+    70            714       -1.00516088e+01       3.153499e-03
+   100            500       -1.00516503e+01       3.096437e-03
+   200            250       -1.00516503e+01       3.228358e-03
+   500            100       -1.00516503e+01       3.487705e-03
+0 0.003081908505181463 0.0034877047210281273
+Stocahstic error estimate: 3.081909e-03
+
+step=14,E=-0.6282281435752765,dE=-0.00013356589201340974,err=0.00019261928157384144,gmax=0.06030671118959857
+	collect g,Hv time= 0.46124935150146484
+	solver time=51.523449659347534,exit status=0
+niter= 50
+	g=0.37125412776222994,del=4.351295885603948,dot=0.3404386189046251,x=8.790193426561558
+saving to  ./psi15_0
+	log prob= -2.5615604588123794e+01
+	burn in time= 417.9722385406494
+	sample time= 5833.380029439926
+	contraction err= 4.494034103195948e-05 0.007955713540689902
+
+Mean energy: -1.00557908e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00557908e+01       3.077975e-03
+     2           25000       -1.00557908e+01       3.094402e-03
+     5           10000       -1.00557908e+01       3.099944e-03
+    10           5000       -1.00557908e+01       3.101608e-03
+    20           2500       -1.00557908e+01       3.054547e-03
+    50           1000       -1.00557908e+01       3.117578e-03
+    70            714       -1.00557676e+01       3.159908e-03
+   100            500       -1.00557908e+01       3.214695e-03
+   200            250       -1.00557908e+01       3.136602e-03
+   500            100       -1.00557908e+01       3.186596e-03
+0 0.0030944020684933898 0.003186595575297326
+Stocahstic error estimate: 3.094402e-03
+
+step=15,E=-0.6284869257949968,dE=-0.00025878221972031046,err=0.00019340012928083686,gmax=0.06218495071939133
+	collect g,Hv time= 0.4328935146331787
+	solver time=51.10767221450806,exit status=0
+niter= 50
+	g=0.351441434378698,del=4.492597499470301,dot=0.34382402160987263,x=8.790193426561558
+saving to  ./psi16_0
+	log prob= -2.563418699610734e+01
+	burn in time= 409.2947061061859
+	sample time= 5836.344820737839
+	contraction err= 4.49802060978007e-05 0.004496550129531414
+
+Mean energy: -1.00611383e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00611383e+01       2.846892e-03
+     2           25000       -1.00611383e+01       2.843610e-03
+     5           10000       -1.00611383e+01       2.819657e-03
+    10           5000       -1.00611383e+01       2.812588e-03
+    20           2500       -1.00611383e+01       2.829066e-03
+    50           1000       -1.00611383e+01       2.777448e-03
+    70            714       -1.00611818e+01       2.824002e-03
+   100            500       -1.00611383e+01       2.876120e-03
+   200            250       -1.00611383e+01       2.879721e-03
+   500            100       -1.00611383e+01       3.254712e-03
+0 0.0028468918832398756 0.003254712243343626
+Stocahstic error estimate: 2.846892e-03
+
+step=16,E=-0.6288211455801984,dE=-0.0003342197852016504,err=0.00017793074270249223,gmax=0.016083758697188782
+	collect g,Hv time= 0.4682128429412842
+	solver time=50.606181383132935,exit status=0
+niter= 49
+	g=0.1482686472591325,del=4.459228705199146,dot=0.2812193741676077,x=8.790193426561562
+saving to  ./psi17_0
+	log prob= -2.561948368231462e+01
+	burn in time= 443.88209986686707
+	sample time= 5835.890320301056
+	contraction err= 4.556921774149263e-05 0.006834784936134531
+
+Mean energy: -1.00551537e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00551537e+01       3.243398e-03
+     2           25000       -1.00551537e+01       3.225151e-03
+     5           10000       -1.00551537e+01       3.256580e-03
+    10           5000       -1.00551537e+01       3.268307e-03
+    20           2500       -1.00551537e+01       3.271417e-03
+    50           1000       -1.00551537e+01       3.197449e-03
+    70            714       -1.00552162e+01       3.097968e-03
+   100            500       -1.00551537e+01       3.096683e-03
+   200            250       -1.00551537e+01       3.361624e-03
+   500            100       -1.00551537e+01       2.966947e-03
+0 0.003243398014776891 0.0029669465556326673
+Stocahstic error estimate: 3.243398e-03
+
+step=17,E=-0.6284471037316853,dE=0.00037404184851308475,err=0.00020271237592355568,gmax=0.03619163637175027
+	collect g,Hv time= 0.4262564182281494
+	solver time=51.37589478492737,exit status=0
+niter= 50
+	g=0.2728120932108272,del=4.447496105278584,dot=0.3917431977677672,x=8.79019342656156
+saving to  ./psi18_0
+	log prob= -2.5718676570459035e+01
+	burn in time= 439.7422032356262
+	sample time= 5864.779217481613
+	contraction err= 4.614951613652506e-05 0.01307492818443525
+
+Mean energy: -1.00523251e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00523251e+01       2.996055e-03
+     2           25000       -1.00523251e+01       3.005503e-03
+     5           10000       -1.00523251e+01       3.022747e-03
+    10           5000       -1.00523251e+01       3.039575e-03
+    20           2500       -1.00523251e+01       3.063392e-03
+    50           1000       -1.00523251e+01       3.165419e-03
+    70            714       -1.00523117e+01       3.023877e-03
+   100            500       -1.00523251e+01       3.094085e-03
+   200            250       -1.00523251e+01       3.132709e-03
+   500            100       -1.00523251e+01       3.389612e-03
+0 0.0030055031550773837 0.0033896121387859226
+Stocahstic error estimate: 3.005503e-03
+
+step=18,E=-0.6282703193992105,dE=0.00017678433247481085,err=0.00018784394719233648,gmax=0.11982921155289927
+	collect g,Hv time= 0.4279448986053467
+	solver time=51.360129594802856,exit status=0
+niter= 50
+	g=0.27771303251205304,del=4.419199529840199,dot=0.3277965422990876,x=8.790193426561558
+saving to  ./psi19_0
+	log prob= -2.577596748755092e+01
+	burn in time= 440.4042880535126
+	sample time= 5875.2909462451935
+	contraction err= 4.605581052947269e-05 0.007378283234595364
+
+Mean energy: -1.00552367e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00552367e+01       2.892661e-03
+     2           25000       -1.00552367e+01       2.891098e-03
+     5           10000       -1.00552367e+01       2.864430e-03
+    10           5000       -1.00552367e+01       2.861906e-03
+    20           2500       -1.00552367e+01       2.835580e-03
+    50           1000       -1.00552367e+01       2.764490e-03
+    70            714       -1.00552213e+01       2.859027e-03
+   100            500       -1.00552367e+01       2.815794e-03
+   200            250       -1.00552367e+01       2.790053e-03
+   500            100       -1.00552367e+01       2.799052e-03
+0 0.002892660771494924 0.0027990518280258964
+Stocahstic error estimate: 2.892661e-03
+
+step=19,E=-0.6284522960634051,dE=-0.00018197666419461633,err=0.00018079129821843275,gmax=0.015071493862408691
+	collect g,Hv time= 0.46794939041137695
+	solver time=51.34617757797241,exit status=0
+niter= 50
+	g=0.15835459172154628,del=4.3473481532275535,dot=0.2902066024610162,x=8.79019342656156
+saving to  ./psi20_0
+	log prob= -2.5771843053235145e+01
+	burn in time= 432.563259601593
+	sample time= 5865.78746509552
+	contraction err= 4.5979606545416454e-05 0.003962193724431601
+
+Mean energy: -1.00587057e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00587057e+01       2.783912e-03
+     2           25000       -1.00587057e+01       2.773760e-03
+     5           10000       -1.00587057e+01       2.778947e-03
+    10           5000       -1.00587057e+01       2.777064e-03
+    20           2500       -1.00587057e+01       2.781197e-03
+    50           1000       -1.00587057e+01       2.725921e-03
+    70            714       -1.00587146e+01       2.729553e-03
+   100            500       -1.00587057e+01       2.703197e-03
+   200            250       -1.00587057e+01       2.840739e-03
+   500            100       -1.00587057e+01       2.973811e-03
+0 0.002783911875265524 0.002973811204003419
+Stocahstic error estimate: 2.783912e-03
+
+step=20,E=-0.6286691078237728,dE=-0.00021681176036769667,err=0.00017399449220409526,gmax=0.015424834052879137
+	collect g,Hv time= 0.4758322238922119
+	solver time=51.37187385559082,exit status=0
+niter= 50
+	g=0.15271107906342232,del=4.397520449186178,dot=0.2642609685165112,x=8.790193426561558
+saving to  ./psi21_0
+	log prob= -2.5817814467588512e+01
+	burn in time= 394.6435763835907
+	sample time= 5878.083846330643
+	contraction err= 4.76917678761752e-05 0.010404008164295514
+
+Mean energy: -1.00523987e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00523987e+01       3.008238e-03
+     2           25000       -1.00523987e+01       3.006424e-03
+     5           10000       -1.00523987e+01       3.049913e-03
+    10           5000       -1.00523987e+01       3.025636e-03
+    20           2500       -1.00523987e+01       3.077446e-03
+    50           1000       -1.00523987e+01       2.986694e-03
+    70            714       -1.00524217e+01       3.014599e-03
+   100            500       -1.00523987e+01       3.049654e-03
+   200            250       -1.00523987e+01       3.144318e-03
+   500            100       -1.00523987e+01       2.725477e-03
+0 0.003008238476865616 0.002725476566143931
+Stocahstic error estimate: 3.008238e-03
+
+step=21,E=-0.6282749182068401,dE=0.00039418961693271637,err=0.000188014904804101,gmax=0.016486522491375902
+	collect g,Hv time= 0.45436835289001465
+	solver time=51.10217618942261,exit status=0
+niter= 50
+	g=0.1670511808326788,del=4.567493975988469,dot=0.31968770555740306,x=8.790193426561558
+saving to  ./psi22_0
+	log prob= -2.5865566847667935e+01
+	burn in time= 398.47735810279846
+	sample time= 5846.44569849968
+	contraction err= 4.717131587213248e-05 0.023958687153087778
+
+Mean energy: -1.00556404e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00556404e+01       3.049879e-03
+     2           25000       -1.00556404e+01       3.039209e-03
+     5           10000       -1.00556404e+01       3.049065e-03
+    10           5000       -1.00556404e+01       3.050062e-03
+    20           2500       -1.00556404e+01       3.068244e-03
+    50           1000       -1.00556404e+01       3.082056e-03
+    70            714       -1.00556454e+01       3.113500e-03
+   100            500       -1.00556404e+01       3.074267e-03
+   200            250       -1.00556404e+01       3.263417e-03
+   500            100       -1.00556404e+01       2.933715e-03
+0 0.003049878766351257 0.002933714892140762
+Stocahstic error estimate: 3.049879e-03
+
+step=22,E=-0.6284775279547797,dE=-0.0002026097479396194,err=0.00019061742289695356,gmax=0.046689495824120575
+	collect g,Hv time= 0.47333288192749023
+niter= 50
+	solver time=51.586551904678345,exit status=0
+	g=0.20438366854521614,del=4.369934455174529,dot=0.34547864961824737,x=8.79019342656156
+saving to  ./psi23_0
+	log prob= -2.585959307432578e+01
+	burn in time= 418.84056544303894
+	sample time= 5864.354706525803
+	contraction err= 4.6999572873744294e-05 0.00975957360815184
+
+Mean energy: -1.00603536e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00603536e+01       3.124488e-03
+     2           25000       -1.00603536e+01       3.120852e-03
+     5           10000       -1.00603536e+01       3.086280e-03
+    10           5000       -1.00603536e+01       3.092151e-03
+    20           2500       -1.00603536e+01       3.077005e-03
+    50           1000       -1.00603536e+01       3.098339e-03
+    70            714       -1.00603838e+01       3.151598e-03
+   100            500       -1.00603536e+01       3.089206e-03
+   200            250       -1.00603536e+01       3.076101e-03
+   500            100       -1.00603536e+01       3.217199e-03
+0 0.0031244876910669606 0.003217199013222131
+Stocahstic error estimate: 3.124488e-03
+
+step=23,E=-0.6287720992045337,dE=-0.000294571249753961,err=0.00019528048069168504,gmax=0.04155399775065938
+	collect g,Hv time= 0.46379709243774414
+	solver time=52.78173637390137,exit status=0
+niter= 51
+	g=0.373049901564418,del=4.372448369707836,dot=0.3620480587563448,x=8.790193426561558
+saving to  ./psi24_0
+	log prob= -2.5883523732328882e+01
+	burn in time= 391.21140933036804
+	sample time= 5850.153120994568
+	contraction err= 4.7524996898724555e-05 0.0042474412923335
+
+Mean energy: -1.00588104e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00588104e+01       3.109116e-03
+     2           25000       -1.00588104e+01       3.109944e-03
+     5           10000       -1.00588104e+01       3.107904e-03
+    10           5000       -1.00588104e+01       3.070287e-03
+    20           2500       -1.00588104e+01       3.088902e-03
+    50           1000       -1.00588104e+01       3.035455e-03
+    70            714       -1.00588516e+01       3.135007e-03
+   100            500       -1.00588104e+01       3.046600e-03
+   200            250       -1.00588104e+01       3.152651e-03
+   500            100       -1.00588104e+01       3.054430e-03
+0 0.003109944326821977 0.0030544302788875987
+Stocahstic error estimate: 3.109944e-03
+
+step=24,E=-0.6286756473678173,dE=9.645183671636026e-05,err=0.00019437152042637356,gmax=0.037261580728344214
+	collect g,Hv time= 0.4497249126434326
+	solver time=52.336986780166626,exit status=0
+niter= 51
+	g=0.20604759246839244,del=4.643516613269202,dot=0.36920858164578646,x=8.79019342656156
+saving to  ./psi25_0
+	log prob= -2.5953402674909825e+01
+	burn in time= 441.16171288490295
+	sample time= 5866.627647161484
+	contraction err= 4.874189678036278e-05 0.005313456257636473
+
+Mean energy: -1.00539848e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00539848e+01       2.970934e-03
+     2           25000       -1.00539848e+01       2.971113e-03
+     5           10000       -1.00539848e+01       2.957673e-03
+    10           5000       -1.00539848e+01       2.960136e-03
+    20           2500       -1.00539848e+01       2.934186e-03
+    50           1000       -1.00539848e+01       2.981434e-03
+    70            714       -1.00538783e+01       2.979564e-03
+   100            500       -1.00539848e+01       2.963715e-03
+   200            250       -1.00539848e+01       3.063271e-03
+   500            100       -1.00539848e+01       3.085319e-03
+0 0.0029711132508096053 0.003085318929215976
+Stocahstic error estimate: 2.971113e-03
+
+step=25,E=-0.6283740509787593,dE=0.0003015963890580231,err=0.00018569457817560033,gmax=0.056667743974330796
+	collect g,Hv time= 0.4559762477874756
+niter= 50
+	solver time=51.174911975860596,exit status=0
+	g=0.23572731848900372,del=4.482000567763863,dot=0.3037563026443393,x=8.790193426561558
+saving to  ./psi26_0
+	log prob= -2.5872760363254933e+01
+	burn in time= 446.4949893951416
+	sample time= 5858.453234434128
+	contraction err= 4.82652729671451e-05 0.005191872556379035
+
+Mean energy: -1.00571360e+01
+Block size    # of blocks        Mean                Error
+     1           50000       -1.00571360e+01       3.006202e-03
+     2           25000       -1.00571360e+01       3.010710e-03
+     5           10000       -1.00571360e+01       2.985877e-03
+    10           5000       -1.00571360e+01       2.963774e-03
+    20           2500       -1.00571360e+01       2.991783e-03
+    50           1000       -1.00571360e+01       3.052664e-03
+    70            714       -1.00571550e+01       3.034125e-03
+   100            500       -1.00571360e+01       3.044820e-03
+   200            250       -1.00571360e+01       3.151189e-03
+   500            100       -1.00571360e+01       3.374691e-03
+0 0.003010709505811226 0.003374690916945434
+Stocahstic error estimate: 3.010710e-03
+
+step=26,E=-0.628571003121001,dE=-0.00019695214224169089,err=0.00018816934411320163,gmax=0.029878772598692538
+	collect g,Hv time= 0.45256471633911133
+	solver time=51.22563815116882,exit status=0
+niter= 50
+	g=0.23538662556048942,del=4.2678404490770045,dot=0.33195899293356373,x=8.79019342656156
+saving to  ./psi27_0
+	log prob= -2.5855157791612964e+01
+	burn in time= 404.2419774532318
