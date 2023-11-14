@@ -1,3 +1,273 @@
+FPEPS([
+    FermionTensor(shape=(4, 4, 2), inds=('_636a6dAAAAA', '_636a6dAAAAB', 'k0,0'), tags=oset(['I0,0', 'ROW0', 'COL0'])),
+    FermionTensor(shape=(4, 4, 4, 2), inds=('_636a6dAAAAC', '_636a6dAAAAD', '_636a6dAAAAB', 'k0,1'), tags=oset(['I0,1', 'ROW0', 'COL1'])),
+    FermionTensor(shape=(4, 4, 4, 2), inds=('_636a6dAAAAE', '_636a6dAAAAF', '_636a6dAAAAD', 'k0,2'), tags=oset(['I0,2', 'ROW0', 'COL2'])),
+    FermionTensor(shape=(4, 4, 4, 2), inds=('_636a6dAAAAG', '_636a6dAAAAH', '_636a6dAAAAF', 'k0,3'), tags=oset(['I0,3', 'ROW0', 'COL3'])),
+    FermionTensor(shape=(4, 4, 4, 2), inds=('_636a6dAAAAI', '_636a6dAAAAJ', '_636a6dAAAAH', 'k0,4'), tags=oset(['I0,4', 'ROW0', 'COL4'])),
+    FermionTensor(shape=(4, 4, 2), inds=('_636a6dAAAAK', '_636a6dAAAAJ', 'k0,5'), tags=oset(['I0,5', 'ROW0', 'COL5'])),
+    FermionTensor(shape=(4, 4, 4, 2), inds=('_636a6dAAAAL', '_636a6dAAAAM', '_636a6dAAAAA', 'k1,0'), tags=oset(['I1,0', 'ROW1', 'COL0'])),
+    FermionTensor(shape=(4, 4, 4, 4, 2), inds=('_636a6dAAAAN', '_636a6dAAAAO', '_636a6dAAAAC', '_636a6dAAAAM', 'k1,1'), tags=oset(['I1,1', 'ROW1', 'COL1'])),
+    FermionTensor(shape=(4, 4, 4, 4, 2), inds=('_636a6dAAAAP', '_636a6dAAAAQ', '_636a6dAAAAE', '_636a6dAAAAO', 'k1,2'), tags=oset(['I1,2', 'ROW1', 'COL2'])),
+    FermionTensor(shape=(4, 4, 4, 4, 2), inds=('_636a6dAAAAR', '_636a6dAAAAS', '_636a6dAAAAG', '_636a6dAAAAQ', 'k1,3'), tags=oset(['I1,3', 'ROW1', 'COL3'])),
+    FermionTensor(shape=(4, 4, 4, 4, 2), inds=('_636a6dAAAAT', '_636a6dAAAAU', '_636a6dAAAAI', '_636a6dAAAAS', 'k1,4'), tags=oset(['I1,4', 'ROW1', 'COL4'])),
+    FermionTensor(shape=(4, 4, 4, 2), inds=('_636a6dAAAAV', '_636a6dAAAAK', '_636a6dAAAAU', 'k1,5'), tags=oset(['I1,5', 'ROW1', 'COL5'])),
+    FermionTensor(shape=(4, 4, 4, 2), inds=('_636a6dAAAAW', '_636a6dAAAAX', '_636a6dAAAAL', 'k2,0'), tags=oset(['I2,0', 'ROW2', 'COL0'])),
+    FermionTensor(shape=(4, 4, 4, 4, 2), inds=('_636a6dAAAAY', '_636a6dAAAAZ', '_636a6dAAAAN', '_636a6dAAAAX', 'k2,1'), tags=oset(['I2,1', 'ROW2', 'COL1'])),
+    FermionTensor(shape=(4, 4, 4, 4, 2), inds=('_636a6dAAAAa', '_636a6dAAAAb', '_636a6dAAAAP', '_636a6dAAAAZ', 'k2,2'), tags=oset(['I2,2', 'ROW2', 'COL2'])),
+    FermionTensor(shape=(4, 4, 4, 4, 2), inds=('_636a6dAAAAc', '_636a6dAAAAd', '_636a6dAAAAR', '_636a6dAAAAb', 'k2,3'), tags=oset(['I2,3', 'ROW2', 'COL3'])),
+    FermionTensor(shape=(4, 4, 4, 4, 2), inds=('_636a6dAAAAe', '_636a6dAAAAf', '_636a6dAAAAT', '_636a6dAAAAd', 'k2,4'), tags=oset(['I2,4', 'ROW2', 'COL4'])),
+    FermionTensor(shape=(4, 4, 4, 2), inds=('_636a6dAAAAg', '_636a6dAAAAV', '_636a6dAAAAf', 'k2,5'), tags=oset(['I2,5', 'ROW2', 'COL5'])),
+    FermionTensor(shape=(4, 4, 4, 2), inds=('_636a6dAAAAh', '_636a6dAAAAi', '_636a6dAAAAW', 'k3,0'), tags=oset(['I3,0', 'ROW3', 'COL0'])),
+    FermionTensor(shape=(4, 4, 4, 4, 2), inds=('_636a6dAAAAj', '_636a6dAAAAk', '_636a6dAAAAY', '_636a6dAAAAi', 'k3,1'), tags=oset(['I3,1', 'ROW3', 'COL1'])),
+    FermionTensor(shape=(4, 4, 4, 4, 2), inds=('_636a6dAAAAl', '_636a6dAAAAm', '_636a6dAAAAa', '_636a6dAAAAk', 'k3,2'), tags=oset(['I3,2', 'ROW3', 'COL2'])),
+    FermionTensor(shape=(4, 4, 4, 4, 2), inds=('_636a6dAAAAn', '_636a6dAAAAo', '_636a6dAAAAc', '_636a6dAAAAm', 'k3,3'), tags=oset(['I3,3', 'ROW3', 'COL3'])),
+    FermionTensor(shape=(4, 4, 4, 4, 2), inds=('_636a6dAAAAp', '_636a6dAAAAq', '_636a6dAAAAe', '_636a6dAAAAo', 'k3,4'), tags=oset(['I3,4', 'ROW3', 'COL4'])),
+    FermionTensor(shape=(4, 4, 4, 2), inds=('_636a6dAAAAr', '_636a6dAAAAg', '_636a6dAAAAq', 'k3,5'), tags=oset(['I3,5', 'ROW3', 'COL5'])),
+    FermionTensor(shape=(4, 4, 4, 2), inds=('_636a6dAAAAs', '_636a6dAAAAt', '_636a6dAAAAh', 'k4,0'), tags=oset(['I4,0', 'ROW4', 'COL0'])),
+    FermionTensor(shape=(4, 4, 4, 4, 2), inds=('_636a6dAAAAu', '_636a6dAAAAv', '_636a6dAAAAj', '_636a6dAAAAt', 'k4,1'), tags=oset(['I4,1', 'ROW4', 'COL1'])),
+    FermionTensor(shape=(4, 4, 4, 4, 2), inds=('_636a6dAAAAw', '_636a6dAAAAx', '_636a6dAAAAl', '_636a6dAAAAv', 'k4,2'), tags=oset(['I4,2', 'ROW4', 'COL2'])),
+    FermionTensor(shape=(4, 4, 4, 4, 2), inds=('_636a6dAAAAy', '_636a6dAAAAz', '_636a6dAAAAn', '_636a6dAAAAx', 'k4,3'), tags=oset(['I4,3', 'ROW4', 'COL3'])),
+    FermionTensor(shape=(4, 4, 4, 4, 2), inds=('_636a6dAAABA', '_636a6dAAABB', '_636a6dAAAAp', '_636a6dAAAAz', 'k4,4'), tags=oset(['I4,4', 'ROW4', 'COL4'])),
+    FermionTensor(shape=(4, 4, 4, 2), inds=('_636a6dAAABC', '_636a6dAAAAr', '_636a6dAAABB', 'k4,5'), tags=oset(['I4,5', 'ROW4', 'COL5'])),
+    FermionTensor(shape=(4, 4, 2), inds=('_636a6dAAABD', '_636a6dAAAAs', 'k5,0'), tags=oset(['I5,0', 'ROW5', 'COL0'])),
+    FermionTensor(shape=(4, 4, 4, 2), inds=('_636a6dAAABE', '_636a6dAAAAu', '_636a6dAAABD', 'k5,1'), tags=oset(['I5,1', 'ROW5', 'COL1'])),
+    FermionTensor(shape=(4, 4, 4, 2), inds=('_636a6dAAABF', '_636a6dAAAAw', '_636a6dAAABE', 'k5,2'), tags=oset(['I5,2', 'ROW5', 'COL2'])),
+    FermionTensor(shape=(4, 4, 4, 2), inds=('_636a6dAAABG', '_636a6dAAAAy', '_636a6dAAABF', 'k5,3'), tags=oset(['I5,3', 'ROW5', 'COL3'])),
+    FermionTensor(shape=(4, 4, 4, 2), inds=('_636a6dAAABH', '_636a6dAAABA', '_636a6dAAABG', 'k5,4'), tags=oset(['I5,4', 'ROW5', 'COL4'])),
+    FermionTensor(shape=(4, 4, 2), inds=('_636a6dAAABC', '_636a6dAAABH', 'k5,5'), tags=oset(['I5,5', 'ROW5', 'COL5'])),
+], Lx=6, Ly=6, max_bond=4)
+block_dict= [(0, 2616)]
+sizes= [2616]
+SIZE= 30
+Lx,Ly= 6 6
+nelec= 15
+nparam= 2616
+        log prob= -15.545720892339547
+        burn in time= 47.77192234992981
+        sample time= 463.2658896446228
+        contraction err= 1.8671113027127567e-11 7.440720263762151e-10
+
+Mean energy: -2.52912876e+01
+Block size    # of blocks        Mean                Error
+     1           5000       -2.52912876e+01       1.620831e-02
+     2           2500       -2.52912876e+01       1.633567e-02
+     5           1000       -2.52912876e+01       1.603913e-02
+    10            500       -2.52912876e+01       1.608378e-02
+    20            250       -2.52912876e+01       1.708330e-02
+    50            100       -2.52912876e+01       1.734959e-02
+    70             71       -2.52907539e+01       1.758931e-02
+   100             50       -2.52912876e+01       1.688567e-02
+   200             25       -2.52912876e+01       1.511036e-02
+   500             10       -2.52912876e+01       1.001252e-02
+0 0.016335674484211686 0.010012523901906767
+Stocahstic error estimate: 1.633567e-02
+
+gnorms 0.0 2.077879895815572
+gnorms 0.43612312872743464 0.24135204638998348
+step=0,E=-0.7025357655065354,dE=-0.7025357655065354,err=0.0004537687356725468,gmax=0.09195991550426541
+        collect g,Hv time= 0.0511937141418457
+        solver time=0.06148505210876465,exit status=0
+niter= 48
+        g=0.49845179677441154,del=6.334045837813963,dot=0.836242617544364,x=11.886886415162342
+saving to  ./psi1
+        log prob= -15.384208630387672
+        burn in time= 46.32601189613342
+        sample time= 465.0461530685425
+        contraction err= 1.0286527756830843e-11 3.2106354369244386e-10
+
+Mean energy: -2.53426449e+01
+Block size    # of blocks        Mean                Error
+     1           5000       -2.53426449e+01       1.449783e-02
+     2           2500       -2.53426449e+01       1.438233e-02
+     5           1000       -2.53426449e+01       1.438580e-02
+    10            500       -2.53426449e+01       1.456354e-02
+    20            250       -2.53426449e+01       1.458716e-02
+    50            100       -2.53426449e+01       1.461243e-02
+    70             71       -2.53428336e+01       1.338177e-02
+   100             50       -2.53426449e+01       1.388220e-02
+   200             25       -2.53426449e+01       1.315490e-02
+   500             10       -2.53426449e+01       1.816628e-02
+0 0.014497831505502913 0.018166279877591705
+Stocahstic error estimate: 1.449783e-02
+
+gnorms 0.0 2.0776246676765497
+gnorms 0.4257880642903005 0.15990946989440108
+step=1,E=-0.7039623573342053,dE=-0.0014265918276699097,err=0.00040271754181952536,gmax=0.08820210816373919
+        collect g,Hv time= 0.0503997802734375
+        solver time=0.05865359306335449,exit status=0
+niter= 46
+        g=0.45482580649517845,del=5.722634724149173,dot=0.6339440193175363,x=11.886886415162342
+saving to  ./psi2
+        log prob= -15.365194840790146
+        burn in time= 48.83110547065735
+        sample time= 464.22252321243286
+        contraction err= 9.062753894205566e-12 2.849918387811722e-10
+
+Mean energy: -2.53975279e+01
+Block size    # of blocks        Mean                Error
+     1           5000       -2.53975279e+01       1.309749e-02
+     2           2500       -2.53975279e+01       1.303125e-02
+     5           1000       -2.53975279e+01       1.320352e-02
+    10            500       -2.53975279e+01       1.313034e-02
+    20            250       -2.53975279e+01       1.239725e-02
+    50            100       -2.53975279e+01       1.263405e-02
+    70             71       -2.53955750e+01       1.204745e-02
+   100             50       -2.53975279e+01       1.197717e-02
+   200             25       -2.53975279e+01       1.292525e-02
+   500             10       -2.53975279e+01       8.669406e-03
+0 0.01309749423311381 0.008669405927097818
+Stocahstic error estimate: 1.309749e-02
+
+gnorms 0.0 2.0587672109597777
+gnorms 0.8491609142248119 0.5527286419432605
+step=2,E=-0.7054868854144549,dE=-0.0015245280802496097,err=0.0003638192842531614,gmax=0.25869317141303266
+        collect g,Hv time= 0.05041956901550293
+        solver time=0.026688814163208008,exit status=0
+niter= 21
+        g=1.0132044264962325,del=2.3471495586399658,dot=0.39449261924676193,x=11.88688641516234
+saving to  ./psi3
+        log prob= -15.183092875658831
+        burn in time= 47.78579354286194
+        sample time= 462.7218644618988
+        contraction err= 9.176378179447711e-12 2.4514387808379063e-10
+
+Mean energy: -2.54622487e+01
+Block size    # of blocks        Mean                Error
+     1           5000       -2.54622487e+01       1.277724e-02
+     2           2500       -2.54622487e+01       1.243824e-02
+     5           1000       -2.54622487e+01       1.275350e-02
+    10            500       -2.54622487e+01       1.276793e-02
+    20            250       -2.54622487e+01       1.247211e-02
+    50            100       -2.54622487e+01       1.226687e-02
+    70             71       -2.54624762e+01       1.217456e-02
+   100             50       -2.54622487e+01       1.311238e-02
+   200             25       -2.54622487e+01       1.145703e-02
+   500             10       -2.54622487e+01       1.250152e-02
+0 0.012777243602309363 0.012501523346125129
+Stocahstic error estimate: 1.277724e-02
+
+gnorms 0.0 2.058400646669987
+gnorms 0.49379388059272 0.24550218848395963
+step=3,E=-0.7072846858365208,dE=-0.0017978004220658367,err=0.0003549234333974823,gmax=0.12905802859719628
+        collect g,Hv time= 0.05071878433227539
+        solver time=0.05792951583862305,exit status=0
+niter= 44
+        g=0.5514560010202365,del=5.2576000502691755,dot=0.48583190404602566,x=11.886886415162344
+saving to  ./psi4
+        log prob= -15.234076946163034
+        burn in time= 47.825071573257446
+        sample time= 461.1254918575287
+        contraction err= 7.481813859770717e-12 2.397941703545885e-10
+
+Mean energy: -2.54903254e+01
+Block size    # of blocks        Mean                Error
+     1           5000       -2.54903254e+01       1.186863e-02
+     2           2500       -2.54903254e+01       1.188984e-02
+     5           1000       -2.54903254e+01       1.192888e-02
+    10            500       -2.54903254e+01       1.204507e-02
+    20            250       -2.54903254e+01       1.163812e-02
+    50            100       -2.54903254e+01       1.144540e-02
+    70             71       -2.54899693e+01       1.234795e-02
+   100             50       -2.54903254e+01       1.008700e-02
+   200             25       -2.54903254e+01       1.028369e-02
+   500             10       -2.54903254e+01       1.186878e-02
+0 0.011889839668195483 0.011868779237801658
+Stocahstic error estimate: 1.188984e-02
+
+gnorms 0.0 2.0555823568295546
+gnorms 0.4302613739947435 0.11594334734077981
+step=4,E=-0.7080645941211618,dE=-0.0007799082846411151,err=0.0003302733241165412,gmax=0.09518260847499471
+        collect g,Hv time= 0.05073118209838867
+        solver time=0.06046485900878906,exit status=0
+niter= 46
+        g=0.4456093690043212,del=5.142907342411796,dot=0.4474812212600936,x=11.886886415162342
+saving to  ./psi5
+        log prob= -15.419547542243016
+        burn in time= 47.34211611747742
+        sample time= 459.9698898792267
+        contraction err= 6.884068820074213e-12 8.868880732242778e-10
+
+Mean energy: -2.55258182e+01
+Block size    # of blocks        Mean                Error
+     1           5000       -2.55258182e+01       1.052656e-02
+     2           2500       -2.55258182e+01       1.039907e-02
+     5           1000       -2.55258182e+01       1.044574e-02
+    10            500       -2.55258182e+01       1.023914e-02
+    20            250       -2.55258182e+01       9.752848e-03
+    50            100       -2.55258182e+01       1.025627e-02
+    70             71       -2.55253326e+01       9.308787e-03
+   100             50       -2.55258182e+01       9.320895e-03
+   200             25       -2.55258182e+01       9.712424e-03
+   500             10       -2.55258182e+01       7.292474e-03
+0 0.010526555130873024 0.007292473984417866
+Stocahstic error estimate: 1.052656e-02
+
+gnorms 0.0 2.0532339135507667
+gnorms 0.3552959822804883 0.12803089396798034
+step=5,E=-0.7090505059811631,dE=-0.000985911860001249,err=0.00029240430919091735,gmax=0.08183367295215582
+        collect g,Hv time= 0.050467729568481445
+        solver time=0.059949398040771484,exit status=0
+niter= 46
+        g=0.377660091662989,del=4.701310013433387,dot=0.3305170385679429,x=11.886886415162342
+saving to  ./psi6
+        log prob= -15.668671301878776
+        burn in time= 46.60780143737793
+        sample time= 459.78027272224426
+        contraction err= 6.403942602010588e-12 5.289222639130383e-10
+
+Mean energy: -2.55661544e+01
+Block size    # of blocks        Mean                Error
+     1           5000       -2.55661544e+01       1.095158e-02
+     2           2500       -2.55661544e+01       1.117455e-02
+     5           1000       -2.55661544e+01       1.141736e-02
+    10            500       -2.55661544e+01       1.210762e-02
+    20            250       -2.55661544e+01       1.178299e-02
+    50            100       -2.55661544e+01       1.282108e-02
+    70             71       -2.55653258e+01       1.253118e-02
+   100             50       -2.55661544e+01       1.185904e-02
+   200             25       -2.55661544e+01       1.216571e-02
+   500             10       -2.55661544e+01       1.117933e-02
+0 0.011174547982452262 0.011179328349779881
+Stocahstic error estimate: 1.117455e-02
+
+gnorms 0.0 2.061201955897209
+gnorms 0.4194460834760079 0.17614438034029045
+step=6,E=-0.7101709558117402,dE=-0.0011204498305770689,err=0.0003104041106236739,gmax=0.1078546303200949
+        collect g,Hv time= 0.05029416084289551
+        solver time=0.06042146682739258,exit status=0
+niter= 46
+        g=0.45493060972946975,del=4.763825674227905,dot=0.38319222945145764,x=11.886886415162342
+saving to  ./psi7
+        log prob= -15.901231986870092
+        burn in time= 46.88173842430115
+        sample time= 458.3429753780365
+        contraction err= 6.0633271877223256e-12 7.094845034363037e-10
+
+Mean energy: -2.55915910e+01
+Block size    # of blocks        Mean                Error
+     1           5000       -2.55915910e+01       1.037106e-02
+     2           2500       -2.55915910e+01       1.029967e-02
+     5           1000       -2.55915910e+01       9.970446e-03
+    10            500       -2.55915910e+01       9.933135e-03
+    20            250       -2.55915910e+01       1.004234e-02
+    50            100       -2.55915910e+01       1.012669e-02
+    70             71       -2.55916830e+01       1.087263e-02
+   100             50       -2.55915910e+01       1.104248e-02
+   200             25       -2.55915910e+01       1.185629e-02
+   500             10       -2.55915910e+01       1.410249e-02
+0 0.010371056875482159 0.014102488285073607
+Stocahstic error estimate: 1.037106e-02
+
+gnorms 0.0 2.0547218831500222
+gnorms 0.5274613773212761 0.1685058062161995
+step=7,E=-0.7108775272232635,dE=-0.0007065714115232306,err=0.0002880849132078378,gmax=0.10253409177609152
+        collect g,Hv time= 0.05048561096191406
+        solver time=0.060514211654663086,exit status=0
+niter= 46
+        g=0.5537234971483773,del=3.9990136211878364,dot=0.3697331796171154,x=11.886886415162342
+saving to  ./psi8
+        log prob= -16.10751329368651
+        burn in time= 48.68402886390686
 block_dict= [(0, 2616)]
 sizes= [2616]
 SIZE= 640
@@ -1322,3 +1592,5 @@ niter= 49
 saving to  ./psi55
 	log prob= -34.85492874365858
 	burn in time= 36.6115140914917
+
+
