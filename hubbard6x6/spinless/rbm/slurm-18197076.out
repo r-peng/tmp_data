@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "/pscratch/sd/r/rppeng/hubbard6x6/spinless/rbm/run.py", line 93, in <module>
+    tnvmc.run(start,stop,save_wfn=save_wfn)
+  File "/global/cfs/projectdirs/m4289/code/quimb/quimb/tensor/tensor_vmc.py", line 216, in run
+    self.sample()
+  File "/global/cfs/projectdirs/m4289/code/quimb/quimb/tensor/tensor_vmc.py", line 252, in sample
+    self._sample_stochastic(compute_v,compute_Hv,save_config,save_local)
+  File "/global/cfs/projectdirs/m4289/code/quimb/quimb/tensor/tensor_vmc.py", line 313, in _sample_stochastic
+    self.evsum += vx * ex.conj()
+AttributeError: 'float' object has no attribute 'conj'
+slurmstepd: error: *** STEP 18197076.0 ON nid004185 CANCELLED AT 2023-11-15T01:39:23 ***
+slurmstepd: error: *** JOB 18197076 ON nid004185 CANCELLED AT 2023-11-15T01:39:23 ***
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
