@@ -1,8 +1,8 @@
 import numpy as np
 from quimb.tensor.product_2d_vmc import (
-    FNN2D,
+    SumFNN2D,
+    SumAmplitudeFactory,
 )
-from quimb.tensor.sum_vmc import SumAmplitudeFactory 
 from quimb.tensor.fermion.fermion_2d_vmc import (
     Hubbard2D,
     FermionExchangeSampler2D,
@@ -20,6 +20,7 @@ from quimb.tensor.tensor_vmc import (
 
 import itertools,h5py
 from mpi4py import MPI
+np.set_printoptions(precision=6,suppress=False)
 COMM = MPI.COMM_WORLD
 SIZE = COMM.Get_size()
 RANK = COMM.Get_rank()
@@ -34,37 +35,46 @@ model = Hubbard2D(t,u,Lx,Ly,sep=True,deterministic=deterministic,spinless=spinle
 
 if step==0:
     fpeps = load_ftn_from_disc(f'../D4full/psi39')
+    #fpeps = load_ftn_from_disc(f'../su')
+    config = 0,2,1,2,0,2,1,0,1
+    config = np.array([config])
 else:
     fpeps = load_ftn_from_disc(f'psi{step}_0')
 for tid,tsr in fpeps.tensor_map.items():
     #print(tid,tsr.phase)
     tsr.phase = {}
-af0 = FermionAmplitudeFactory2D(fpeps,deterministic=deterministic,spinless=spinless)
-af0.model = model 
-af0.spin = None 
+fpeps = scale_wfn(fpeps,2.)
+af0 = FermionAmplitudeFactory2D(fpeps,model,from_plq=False,deterministic=deterministic,spinless=spinless)
 
 nv = af0.nsite * 2
-nn = nv,nv 
-#wshift = 1./abs(sum(nelec) - (nv-sum(nelec)))
-#shift = 1,1,wshift
-af1 = FNN2D(Lx,Ly,nv,log=False,fermion=True)
+nh = (af0.nsite,) * 3
+bias = False
+af1 = SumFNN2D(Lx,Ly,nv,nh,bias=bias,log=False,fermion=True)
+af1.scale = 2,3,4
 if step==0:
-    eps = 1e-5
-    w,b = af1.init(nn,eps,fname=f'psi{step}_1')
+    eps = 1e-2
+    for i,ni in enumerate(nh):
+        af1.init((i,'w'),eps)
+        if bias:
+            af1.init((i,'b'),eps)
+    af1.init((len(nh),'w'),eps)
+    af1.save_to_disc(f'psi{step}_1')
 else:
-    w,b = af1.load_from_disc(f'psi{step}_1.hdf5')
-af1.get_block_dict(w,b)
+    af1.load_from_disc(f'psi{step}_1.hdf5')
+af1.get_block_dict()
 af1.model = model
 
-#af = SumAmplitudeFactory((af0,af1),fermion=True)
-af = af0
+af = SumAmplitudeFactory((af0,af1),fermion=True)
+af.check(config)
+#exit()
+#af = af0
 sampler = FermionDenseSampler(Lx*Ly,nelec,exact=True) 
 #sampler = FermionExchangeSampler2D(Lx,Ly,burn_in=40)
 sampler.af = af
-sampler.config = 0,2,1,2,0,2,1,0,1 
+sampler.config = tuple(config[RANK%config.shape[0],:]) 
 
 start = step 
-stop = step + 1 
+stop = step + 100 
 
 tnvmc = SR(sampler,normalize=True,solve_full=True,solve_dense=False,maxiter=200)
 if RANK==0:
