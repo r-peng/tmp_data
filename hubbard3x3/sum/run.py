@@ -1,8 +1,5 @@
 import numpy as np
-from quimb.tensor.product_2d_vmc import (
-    SumFNN2D,
-    SumAmplitudeFactory,
-)
+from quimb.tensor.product_2d_vmc import SumFNN2D,SumAmplitudeFactory2D
 from quimb.tensor.fermion.fermion_2d_vmc import (
     Hubbard2D,
     FermionExchangeSampler2D,
@@ -34,7 +31,7 @@ spinless = False
 model = Hubbard2D(t,u,Lx,Ly,sep=True,deterministic=deterministic,spinless=spinless)
 
 if step==0:
-    fpeps = load_ftn_from_disc(f'../D4full/psi39')
+    fpeps = load_ftn_from_disc(f'../D4full/psi10')
     #fpeps = load_ftn_from_disc(f'../su')
     config = 0,2,1,2,0,2,1,0,1
     config = np.array([config])
@@ -47,10 +44,11 @@ fpeps = scale_wfn(fpeps,2.)
 af0 = FermionAmplitudeFactory2D(fpeps,model,from_plq=False,deterministic=deterministic,spinless=spinless)
 
 nv = af0.nsite * 2
-nh = (af0.nsite,) * 3
-bias = False
-af1 = SumFNN2D(Lx,Ly,nv,nh,bias=bias,log=False,fermion=True)
-af1.scale = 2,3,4
+nh = (20,) * 3
+afn = ('sin',) * 3
+scale = np.pi,np.pi,4
+bias = True 
+af1 = SumFNN2D(Lx,Ly,nv,nh,afn,scale,bias=bias,log=False,fermion=True)
 if step==0:
     eps = 1e-2
     for i,ni in enumerate(nh):
@@ -64,12 +62,12 @@ else:
 af1.get_block_dict()
 af1.model = model
 
-af = SumAmplitudeFactory((af0,af1),fermion=True)
-af.check(config)
+af = SumAmplitudeFactory2D((af0,af1),fermion=True)
+#af.check(config)
 #exit()
 #af = af0
-sampler = FermionDenseSampler(Lx*Ly,nelec,exact=True) 
-#sampler = FermionExchangeSampler2D(Lx,Ly,burn_in=40)
+#sampler = FermionDenseSampler(Lx*Ly,nelec,exact=True) 
+sampler = FermionExchangeSampler2D(Lx,Ly,burn_in=40)
 sampler.af = af
 sampler.config = tuple(config[RANK%config.shape[0],:]) 
 
