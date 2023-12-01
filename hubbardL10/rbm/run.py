@@ -23,8 +23,8 @@ from mpi4py import MPI
 COMM = MPI.COMM_WORLD
 SIZE = COMM.Get_size()
 RANK = COMM.Get_rank()
-Lx,Ly = 1,16
-nelec = 7,7
+Lx,Ly = 1,10
+nelec = 4,4 
 t = 1.
 u = 8.
 spinless = False 
@@ -33,8 +33,8 @@ step = 0
 model = Hubbard1D(t,u,Ly,sep=True,spinless=spinless,symmetry=symmetry)
 
 if step==0:
-    fpeps = load_ftn_from_disc(f'../fpeps/psi50')
-    config = np.load(f'../fpeps/config49.npy')
+    fpeps = load_ftn_from_disc(f'../fpeps/psi30')
+    config = np.load(f'../fpeps/config29.npy')
 else:
     fpeps = load_ftn_from_disc(f'psi{step}_0')
     config = np.load(f'config{step-1}.npy')
@@ -46,7 +46,7 @@ af0.model = model
 af0.spin = None 
 
 nv = af0.nsite * 2 
-nh = 200
+nh = 100
 af1 = RBM1D(Ly,nv,nh,fermion=True)
 if step==0:
     eps = 1e-2

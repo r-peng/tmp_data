@@ -23,8 +23,8 @@ from mpi4py import MPI
 COMM = MPI.COMM_WORLD
 SIZE = COMM.Get_size()
 RANK = COMM.Get_rank()
-Lx,Ly = 1,16
-nelec = 7,7
+Lx,Ly = 1,12
+nelec = 5,5
 t = 1.
 u = 8.
 spinless = False 
@@ -33,8 +33,8 @@ step = 0
 model = Hubbard1D(t,u,Ly,sep=True,spinless=spinless,symmetry=symmetry)
 
 if step==0:
-    fpeps = load_ftn_from_disc(f'../fpeps/psi50')
-    config = np.load(f'../fpeps/config49.npy')
+    fpeps = load_ftn_from_disc(f'../fpeps/psi40')
+    config = np.load(f'../fpeps/config39.npy')
 else:
     fpeps = load_ftn_from_disc(f'psi{step}_0')
     config = np.load(f'config{step-1}.npy')
@@ -83,6 +83,6 @@ if RANK==0:
 tnvmc.tmpdir = './' 
 tnvmc.rate1 = .1
 tnvmc.cond1 = 1e-3
-tnvmc.batchsize = 50000
+tnvmc.batchsize = 20000
 save_wfn = True 
 tnvmc.run(start,stop,save_wfn=save_wfn)
