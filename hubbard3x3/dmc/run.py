@@ -6,7 +6,7 @@ from quimb.tensor.fermion.fermion_2d_vmc import (
 from quimb.tensor.fermion.fermion_vmc import (
     write_ftn_to_disc,load_ftn_from_disc,
 )
-from quimb.tensor.tensor_dmc import Sampler, scale_wfn
+from quimb.tensor.tensor_dmc import Walker,Sampler,scale_wfn
 np.set_printoptions(suppress=True,precision=6,threshold=int(1e5+.1))
 
 import itertools,h5py
@@ -18,24 +18,33 @@ Lx,Ly = 3,3
 nelec = 3,3
 t = 1.
 u = 8.
-step = 0 
 deterministic = False 
 model = Hubbard2D(t,u,Lx,Ly)
 
-fpeps = load_ftn_from_disc(f'../fpeps/psi39')
-af = FermionAmplitudeFactory2D(fpeps,model,deterministic=deterministic,dmc=True)
-shift = -0.7392952143033105 * af.nsite
-#shift = 0
+tau = 0.6
 
-configs = np.load(f'init_RANK{RANK}_configs.npy')
-weights = np.ones(configs.shape[0])
-sampler = Sampler(af,configs,weights) 
-sampler.tau = 0.001
-sampler.accum = 10
-sampler.shift = shift
+fpeps = load_ftn_from_disc(f'../../psi39')
+af = FermionAmplitudeFactory2D(fpeps,model,deterministic=deterministic,dmc=True)
+wk = Walker(af,tau)
+wk.gamma = 0
+wk.shift =  -0.739 * Lx * Ly
+if RANK==0:
+    print('shift',wk.shift)
+
+configs = []
+for _ in range(5):
+    for rank in range(30): 
+        configs.append(np.load(f'../configs/init_RANK{rank}_configs.npy'))
+
+nmin = 500
+nmax = 10000
+#sampler = SamplerBranch(wk,nmin,nmax) 
+sampler = Sampler(wk) 
+sampler.init(np.concatenate(configs))
+
+start = 0 
+stop = 200 
 sampler.progbar = True
 
-start = 0
-stop = 10
-for i in range(start,stop):
-    sampler.sample(fname=f'step{step}')
+tmpdir = f'./'
+sampler.run(start,stop,tmpdir=tmpdir)
