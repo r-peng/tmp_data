@@ -1,0 +1,10 @@
+#!/bin/bash
+#SBATCH --partition=parallel
+#SBATCH --job-name=fpeps
+#SBATCH --time=5:00:00
+#SBATCH --cpus-per-task=1
+#SBATCH --mem=0
+#SBATCH --ntasks=301
+#SBATCH --exclude=pauling036
+
+mpirun -n 301 python -u run.py > out.out
