@@ -36,7 +36,7 @@ scale = 1.1
 af0 = AmplitudeFactory2D(psi,model,max_bond=chi)
 
 nv = af0.nsite  
-nh = nv * 1 
+nh = nv * 2 
 af1 = RBM2D(Lx,Ly,nv,nh)
 if step==0:
     eps = 1e-2
