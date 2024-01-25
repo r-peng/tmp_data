@@ -1,0 +1,10 @@
+#!/bin/bash
+#SBATCH --partition=expansion
+#SBATCH --job-name=6x4a1
+#SBATCH --time=3:00:00
+#SBATCH --cpus-per-task=1
+#SBATCH --nodes=4
+#SBATCH --mem=0
+#SBATCH --ntasks-per-node=50
+
+srun -n 200 python -u run.py > out.out
