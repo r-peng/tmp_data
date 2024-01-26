@@ -20,7 +20,7 @@ D = 2
 J1 = 1.
 J2 = 0.5
 chi = 8
-step = 0 
+step = 100 
 if step==0:
     psi = load_tn_from_disc(f'../psi50')
     config = [(i+j)%2 for i,j in itertools.product(range(Lx),range(Ly))]
@@ -44,12 +44,12 @@ sampler.config = tuple(config[RANK%config.shape[0],:])
 tnvmc = SR(sampler,normalize=True,solve_full=True,solve_dense=False)
 tnvmc.tmpdir = './' 
 start = step 
-stop = step + 100
+stop = step + 200
 tnvmc.rate1 = .1
 tnvmc.cond1 = 1e-3
 tnvmc.check = 'energy'
 
-tnvmc.batchsize = int(5e4 + .1)
+tnvmc.batchsize = int(5e3 + .1)
 if RANK==0:
     print('SIZE=',SIZE)
     print('Lx,Ly=',Lx,Ly)
