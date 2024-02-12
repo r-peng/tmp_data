@@ -13,7 +13,7 @@ b = f['b'][:]
 f.close()
 exact = -51.874153859907 
 
-sigma = 0.01
+sigma = 0.02
 print('sigma=',sigma)
 batchsize = 100 // SIZE
 for run in range(batchsize):
