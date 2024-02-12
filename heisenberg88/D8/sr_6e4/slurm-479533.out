@@ -1,8 +1,0 @@
-/home/rppeng/code/quimb-refactor/quimb/tensor/decomp.py:214: UserWarning: TN SVD failed, trying again with alternate driver.
-  warnings.warn("TN SVD failed, trying again with alternate driver.")
-/home/rppeng/code/quimb-refactor/quimb/tensor/decomp.py:214: UserWarning: TN SVD failed, trying again with alternate driver.
-  warnings.warn("TN SVD failed, trying again with alternate driver.")
-/home/rppeng/code/quimb-refactor/quimb/tensor/decomp.py:214: UserWarning: TN SVD failed, trying again with alternate driver.
-  warnings.warn("TN SVD failed, trying again with alternate driver.")
-/home/rppeng/code/quimb-refactor/quimb/tensor/decomp.py:214: UserWarning: TN SVD failed, trying again with alternate driver.
-  warnings.warn("TN SVD failed, trying again with alternate driver.")

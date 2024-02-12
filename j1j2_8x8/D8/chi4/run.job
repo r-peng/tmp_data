@@ -1,9 +1,0 @@
-#!/bin/bash
-#SBATCH --job-name=D8chi4
-#SBATCH --nodes=10
-#SBATCH -C cpu
-#SBATCH --qos regular
-#SBATCH --time=12:00:00
-#SBATCH --ntasks-per-node=64
-
-srun -n 640 -c 4 python -u run.py > out.out
