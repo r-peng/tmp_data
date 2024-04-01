@@ -1,9 +1,0 @@
-#!/bin/bash
-#SBATCH --partition=parallel
-#SBATCH --job-name=200_2e3
-#SBATCH --time=1:00:00
-#SBATCH --ntasks=100
-#SBATCH --cpus-per-task=1
-#SBATCH --mem=0
-
-mpirun -n 100 python -u run.py > out.out
