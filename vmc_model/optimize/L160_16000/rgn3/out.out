@@ -1,0 +1,2043 @@
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+The library attempted to open the following supporting CUDA libraries, 
+but each of them failed.  CUDA-aware support is disabled.
+libcuda.so.1: cannot open shared object file: No such file or directory
+libcuda.dylib: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.so.1: cannot open shared object file: No such file or directory
+/usr/lib64/libcuda.dylib: cannot open shared object file: No such file or directory
+If you are not interested in CUDA-aware support, then run with 
+--mca mpi_cuda_support 0 to suppress this message.  If you are interested
+in CUDA-aware support, then try setting LD_LIBRARY_PATH to the location
+of libcuda.so.1 to get passed this issue.
+--------------------------------------------------------------------------
+[[ 0.13293  -0.991125]
+ [ 0.756408 -0.6541  ]
+ [ 0.561189 -0.827688]
+ [ 0.352382 -0.935856]
+ [ 0.705194 -0.709015]
+ [ 0.758899 -0.651209]
+ [ 0.991208 -0.132311]
+ [ 0.586377 -0.810038]
+ [ 0.680185 -0.733041]
+ [ 0.286832 -0.957981]
+ [ 0.87339  -0.487022]
+ [ 0.956711 -0.29104 ]
+ [ 0.625064 -0.780573]
+ [ 0.907451 -0.420157]
+ [ 0.373361 -0.927686]
+ [ 0.917544 -0.397633]
+ [ 0.566047 -0.824373]
+ [ 0.834136 -0.551558]
+ [ 0.54586  -0.837876]
+ [ 0.841885 -0.539657]
+ [ 0.974559 -0.22413 ]
+ [ 0.866735 -0.49877 ]
+ [ 0.373079 -0.9278  ]
+ [ 0.859334 -0.511416]
+ [ 0.530093 -0.847939]
+ [ 0.227258 -0.973835]
+ [ 0.665188 -0.746676]
+ [ 0.856703 -0.515809]
+ [ 0.504446 -0.863443]
+ [ 0.87735  -0.479851]
+ [ 0.949474 -0.313847]
+ [ 0.827621 -0.561287]
+ [ 0.619601 -0.784917]
+ [ 0.490669 -0.871346]
+ [ 0.844458 -0.535621]
+ [ 0.953317  0.30197 ]
+ [ 0.803925 -0.594731]
+ [ 0.510845 -0.859673]
+ [ 0.821351 -0.570423]
+ [ 0.678912 -0.73422 ]
+ [ 0.631718 -0.775198]
+ [ 0.893084 -0.44989 ]
+ [ 0.969098 -0.246674]
+ [ 0.915505 -0.402306]
+ [ 0.938868 -0.344277]
+ [ 0.731939 -0.68137 ]
+ [ 0.373217 -0.927744]
+ [ 0.339784  0.940504]
+ [ 0.956138 -0.292918]
+ [ 0.501839 -0.864961]
+ [ 0.997674 -0.068171]
+ [ 0.670855 -0.741589]
+ [ 0.802792 -0.596259]
+ [ 0.929945  0.367698]
+ [ 0.681924 -0.731423]
+ [ 0.605023 -0.796208]
+ [ 0.378102 -0.925764]
+ [ 0.269085 -0.963116]
+ [ 0.603678 -0.797228]
+ [ 0.90797  -0.419035]
+ [ 0.309214 -0.950992]
+ [ 0.693146 -0.720797]
+ [ 0.824588 -0.565734]
+ [ 0.502444 -0.86461 ]
+ [ 0.845266 -0.534345]
+ [ 0.656738 -0.754119]
+ [ 0.56311  -0.826382]
+ [ 0.494551 -0.869149]
+ [ 0.66264  -0.748938]
+ [ 0.945786 -0.32479 ]
+ [ 0.892555 -0.450938]
+ [ 0.68371  -0.729754]
+ [ 0.538223 -0.842802]
+ [ 0.880872 -0.473354]
+ [ 0.726957 -0.686683]
+ [ 0.625931 -0.779879]
+ [ 0.513617 -0.85802 ]
+ [ 0.744273 -0.667876]
+ [ 0.501507 -0.865153]
+ [ 0.676271 -0.736653]
+ [ 0.687598 -0.726091]
+ [ 0.851826 -0.523825]
+ [ 0.820653 -0.571427]
+ [ 0.053093 -0.99859 ]
+ [ 0.698137 -0.715964]
+ [ 0.544381 -0.838838]
+ [ 0.489711 -0.871885]
+ [ 0.772114 -0.635484]
+ [ 0.385982 -0.922506]
+ [ 0.787049 -0.616891]
+ [ 0.838909 -0.544272]
+ [ 0.833262 -0.552879]
+ [ 0.986558 -0.16341 ]
+ [ 0.319772 -0.947494]
+ [ 0.595597 -0.803283]
+ [ 0.881994  0.471261]
+ [ 0.899387 -0.437154]
+ [ 0.372542 -0.928015]
+ [ 0.622131 -0.782913]
+ [ 0.597593 -0.8018  ]
+ [ 0.988075 -0.153974]
+ [ 0.879684 -0.475559]
+ [ 0.678442 -0.734654]
+ [ 0.334751 -0.942307]
+ [ 0.748444 -0.663198]
+ [ 0.144782 -0.989464]
+ [ 0.894487 -0.447094]
+ [ 0.86566  -0.500633]
+ [ 0.495235 -0.868759]
+ [ 0.665616 -0.746295]
+ [ 0.552676 -0.833396]
+ [ 0.630271 -0.776375]
+ [ 0.951485 -0.307695]
+ [ 0.905459 -0.424434]
+ [ 0.464272 -0.885693]
+ [ 0.898038 -0.439917]
+ [ 0.729189 -0.684312]
+ [ 0.933632 -0.358233]
+ [ 0.743509 -0.668726]
+ [ 0.325106 -0.945678]
+ [ 0.304444 -0.95253 ]
+ [ 0.688628 -0.725115]
+ [ 0.837884 -0.545849]
+ [ 0.358844 -0.933398]
+ [ 0.768085 -0.640347]
+ [ 0.702374 -0.711808]
+ [ 0.2431   -0.970001]
+ [ 0.863698 -0.504009]
+ [ 0.755163 -0.655537]
+ [ 0.536716 -0.843763]
+ [ 0.547617 -0.836729]
+ [ 0.986955 -0.160997]
+ [ 0.818837 -0.574026]
+ [ 0.834493 -0.551018]
+ [ 0.946687 -0.322153]
+ [ 0.678834 -0.734292]
+ [ 0.533506 -0.845797]
+ [ 0.652436 -0.757844]
+ [ 0.592993 -0.805208]
+ [ 0.640171 -0.768233]
+ [ 0.69078  -0.723065]
+ [ 0.571991 -0.82026 ]
+ [ 0.923733 -0.383037]
+ [ 0.350088 -0.936717]
+ [ 0.903     0.429642]
+ [ 0.636692 -0.771119]
+ [ 0.436622 -0.899645]
+ [ 0.998918  0.046507]
+ [ 0.48728  -0.873246]
+ [ 0.605483 -0.795858]
+ [ 0.920899 -0.389802]
+ [ 0.78843  -0.615124]
+ [ 0.119121 -0.99288 ]
+ [ 0.6011   -0.799174]
+ [ 0.892089 -0.451859]
+ [ 0.772588 -0.634908]
+ [ 0.946742 -0.321994]
+ [ 0.443961 -0.896046]
+ [ 0.60904  -0.79314 ]
+ [ 0.366069 -0.930588]]
+rgn= True
+L= 160
+sample size= 16000
+
+nparam= 320
+	log prob= -149.88707367402262
+	burn in time= 0.5551939010620117
+	sample time= 21.726717948913574
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.22491952e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.22491952e+02       5.483641e-02
+     2           8024       -1.22491952e+02       5.425995e-02
+     5           3209       -1.22491002e+02       5.395419e-02
+    10           1604       -1.22491678e+02       5.258256e-02
+    20            802       -1.22491678e+02       5.328752e-02
+    50            320       -1.22490250e+02       5.355812e-02
+    70            229       -1.22490494e+02       5.381862e-02
+   100            160       -1.22490250e+02       4.866417e-02
+   200             80       -1.22490250e+02       4.868766e-02
+   500             32       -1.22490250e+02       4.760693e-02
+Stocahstic error estimate: 5.483641e-02
+
+step=0,E=-0.7655746978068848,dE=0.0,err=0.00034272757634882405,gmax=1.1374274261912731
+	collect g,h time= 0.1343097686767578
+	solver time=1.5943942070007324,exit status=0
+niter= 5
+	collect S matrix time= 0.6258482933044434
+	collect H matrix time= 0.6427409648895264
+	RGN solver time=3.723773956298828,least eigenvalue=-1.619405694845855,eps=0.5
+pure_newton= False
+niter= 22
+	solver time=19.076517343521118,exit status=0
+hessian inversion error= 0.00031875964209829766
+rgn delta error= 0.00019185532644495256
+	log prob= -127.02360888978397
+	burn in time= 0.5797252655029297
+	sample time= 5.133978605270386
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.41132857e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.41132857e+02       4.254195e-02
+     2           8024       -1.41132857e+02       4.360415e-02
+     5           3209       -1.41133023e+02       4.522989e-02
+    10           1604       -1.41132527e+02       4.507896e-02
+    20            802       -1.41132527e+02       4.696375e-02
+    50            320       -1.41135142e+02       4.824218e-02
+    70            229       -1.41133106e+02       4.802797e-02
+   100            160       -1.41135142e+02       5.079558e-02
+   200             80       -1.41135142e+02       5.261999e-02
+   500             32       -1.41135142e+02       5.361993e-02
+Stocahstic error estimate: 4.360415e-02
+
+	predict=-13.386869452328229,actual=(array([-18.640906]), array([0.043604]))
+	g=7.01303778823828,del=6.639057393272847,dot=26.773738334175132,x=14.285555049549249
+
+nparam= 320
+	log prob= -127.02360888978397
+	burn in time= 0.5793261528015137
+	sample time= 5.397220611572266
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.41071588e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.41071588e+02       4.158690e-02
+     2           8024       -1.41071588e+02       4.254429e-02
+     5           3209       -1.41072424e+02       4.421877e-02
+    10           1604       -1.41073741e+02       4.538504e-02
+    20            802       -1.41073741e+02       4.687145e-02
+    50            320       -1.41076917e+02       4.743960e-02
+    70            229       -1.41075414e+02       4.724395e-02
+   100            160       -1.41076917e+02       4.840726e-02
+   200             80       -1.41076917e+02       5.285255e-02
+   500             32       -1.41076917e+02       5.067675e-02
+Stocahstic error estimate: 4.254429e-02
+
+step=1,E=-0.8816974238279277,dE=-0.11612272602104294,err=0.00026590184066868785,gmax=0.8655567586457238
+	collect g,h time= 0.13376832008361816
+	solver time=2.193450450897217,exit status=0
+niter= 6
+	collect S matrix time= 0.444016695022583
+	collect H matrix time= 0.7251341342926025
+	RGN solver time=3.6621861457824707,least eigenvalue=0.001999999950769446,eps=0.5
+pure_newton= False
+niter= 13
+	solver time=10.189350605010986,exit status=0
+hessian inversion error= 0.00012924346032517142
+rgn delta error= 3.8068484955740945e-05
+	log prob= -119.16947075960205
+	burn in time= 0.5804610252380371
+	sample time= 5.074280500411987
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.48630221e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.48630221e+02       3.458815e-02
+     2           8024       -1.48630221e+02       3.677957e-02
+     5           3209       -1.48630744e+02       3.951626e-02
+    10           1604       -1.48632763e+02       4.172107e-02
+    20            802       -1.48632763e+02       4.305361e-02
+    50            320       -1.48633515e+02       4.679371e-02
+    70            229       -1.48632213e+02       4.501848e-02
+   100            160       -1.48633515e+02       4.425338e-02
+   200             80       -1.48633515e+02       4.564157e-02
+   500             32       -1.48633515e+02       4.630389e-02
+Stocahstic error estimate: 4.305361e-02
+
+	predict=-5.232283687184086,actual=(array([-7.558633]), array([0.043054]))
+	g=5.246006987819775,del=5.119812647926003,dot=10.464567712598155,x=13.645969424965644
+
+nparam= 320
+	log prob= -119.16947075960205
+	burn in time= 0.5806431770324707
+	sample time= 5.4300196170806885
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.48627053e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.48627053e+02       3.491541e-02
+     2           8024       -1.48627053e+02       3.673979e-02
+     5           3209       -1.48628053e+02       3.966814e-02
+    10           1604       -1.48627268e+02       4.225676e-02
+    20            802       -1.48627268e+02       4.519397e-02
+    50            320       -1.48628039e+02       4.634407e-02
+    70            229       -1.48627346e+02       4.846660e-02
+   100            160       -1.48628039e+02       4.833360e-02
+   200             80       -1.48628039e+02       4.560099e-02
+   500             32       -1.48628039e+02       4.747883e-02
+Stocahstic error estimate: 4.634407e-02
+
+step=2,E=-0.9289190835598615,dE=-0.04722165973193384,err=0.0002896504295902191,gmax=1.1739160515394431
+	collect g,h time= 0.13362383842468262
+	solver time=2.1924731731414795,exit status=0
+niter= 6
+	collect S matrix time= 0.45008230209350586
+	collect H matrix time= 0.5546822547912598
+	RGN solver time=3.6984570026397705,least eigenvalue=0.001999999960197738,eps=0.5
+pure_newton= False
+niter= 9
+	solver time=6.812683343887329,exit status=0
+hessian inversion error= 0.0002801326667945606
+rgn delta error= 7.980187737975144e-05
+	log prob= -120.76489008806693
+	burn in time= 0.5759320259094238
+	sample time= 5.038093328475952
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.53513984e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.53513984e+02       2.747997e-02
+     2           8024       -1.53513984e+02       2.862617e-02
+     5           3209       -1.53513461e+02       3.082494e-02
+    10           1604       -1.53512420e+02       3.240043e-02
+    20            802       -1.53512420e+02       3.532742e-02
+    50            320       -1.53511152e+02       3.665658e-02
+    70            229       -1.53512659e+02       3.778215e-02
+   100            160       -1.53511152e+02       3.708546e-02
+   200             80       -1.53511152e+02       3.424901e-02
+   500             32       -1.53511152e+02       3.271475e-02
+Stocahstic error estimate: 2.862617e-02
+
+	predict=-2.881500657088366,actual=(array([-4.886931]), array([0.028626]))
+	g=4.487013386885258,del=1.3382354811839334,dot=5.7629999797113385,x=12.719704171215547
+
+nparam= 320
+	log prob= -120.76489008806693
+	burn in time= 0.5740869045257568
+	sample time= 5.413216590881348
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.53560242e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.53560242e+02       2.668406e-02
+     2           8024       -1.53560242e+02       2.772597e-02
+     5           3209       -1.53559528e+02       2.955394e-02
+    10           1604       -1.53559666e+02       3.037292e-02
+    20            802       -1.53559666e+02       3.123099e-02
+    50            320       -1.53560632e+02       3.263518e-02
+    70            229       -1.53559645e+02       3.142967e-02
+   100            160       -1.53560632e+02       3.347794e-02
+   200             80       -1.53560632e+02       3.387014e-02
+   500             32       -1.53560632e+02       3.002328e-02
+Stocahstic error estimate: 2.772597e-02
+
+step=3,E=-0.9597515111760366,dE=-0.030832427616175016,err=0.000173287289970767,gmax=0.7523928549697416
+	collect g,h time= 0.1337904930114746
+niter= 5
+	solver time=1.721691608428955,exit status=0
+	collect S matrix time= 0.7477798461914062
+	collect H matrix time= 0.649634838104248
+	RGN solver time=4.046518564224243,least eigenvalue=0.0019999999619142693,eps=0.5
+pure_newton= False
+	solver time=6.020163297653198,exit status=0
+niter= 8
+hessian inversion error= 0.00018483728592342082
+rgn delta error= 5.126541789334109e-05
+	log prob= -130.40097244935708
+	burn in time= 0.570335865020752
+	sample time= 5.005239248275757
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.56295610e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.56295610e+02       2.086792e-02
+     2           8024       -1.56295610e+02       2.150664e-02
+     5           3209       -1.56295421e+02       2.283075e-02
+    10           1604       -1.56295803e+02       2.340323e-02
+    20            802       -1.56295803e+02       2.429411e-02
+    50            320       -1.56295295e+02       2.351596e-02
+    70            229       -1.56295685e+02       2.159472e-02
+   100            160       -1.56295295e+02       2.297634e-02
+   200             80       -1.56295295e+02       2.184748e-02
+   500             32       -1.56295295e+02       2.463662e-02
+Stocahstic error estimate: 2.150664e-02
+
+	predict=-1.5161941126855223,actual=(array([-2.735368]), array([0.021507]))
+	g=3.3451728435949657,del=0.9198445383545493,dot=3.032389357373961,x=12.682512131862028
+
+nparam= 320
+	log prob= -130.40097244935708
+	burn in time= 0.5736033916473389
+	sample time= 5.355432510375977
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.56345770e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.56345770e+02       2.096360e-02
+     2           8024       -1.56345770e+02       2.151678e-02
+     5           3209       -1.56345912e+02       2.245709e-02
+    10           1604       -1.56345973e+02       2.297216e-02
+    20            802       -1.56345973e+02       2.317790e-02
+    50            320       -1.56343916e+02       2.425943e-02
+    70            229       -1.56345135e+02       2.563686e-02
+   100            160       -1.56343916e+02       2.524921e-02
+   200             80       -1.56343916e+02       2.676861e-02
+   500             32       -1.56343916e+02       2.656616e-02
+Stocahstic error estimate: 2.151678e-02
+
+step=4,E=-0.9771610650471529,dE=-0.017409553871116402,err=0.00013447989421414035,gmax=0.6272331794734569
+	collect g,h time= 0.13307905197143555
+	solver time=1.6984384059906006,exit status=0
+niter= 5
+	collect S matrix time= 0.744143009185791
+	collect H matrix time= 0.6116695404052734
+	RGN solver time=3.7914299964904785,least eigenvalue=0.001999999951444167,eps=0.5
+pure_newton= False
+niter= 8
+	solver time=5.937705993652344,exit status=0
+hessian inversion error= 0.00017923603402632385
+rgn delta error= 5.49576217297905e-05
+	log prob= -148.85138052095655
+	burn in time= 0.5666859149932861
+	sample time= 4.940625190734863
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.57993837e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.57993837e+02       1.531103e-02
+     2           8024       -1.57993837e+02       1.532686e-02
+     5           3209       -1.57993669e+02       1.527703e-02
+    10           1604       -1.57993709e+02       1.546644e-02
+    20            802       -1.57993709e+02       1.581246e-02
+    50            320       -1.57993655e+02       1.646318e-02
+    70            229       -1.57993635e+02       1.609357e-02
+   100            160       -1.57993655e+02       1.596038e-02
+   200             80       -1.57993655e+02       1.601100e-02
+   500             32       -1.57993655e+02       1.724691e-02
+Stocahstic error estimate: 1.532686e-02
+
+	predict=-0.9770854030059,actual=(array([-1.648067]), array([0.015327]))
+	g=2.6742395784934385,del=0.7415198344622923,dot=1.9541705738530533,x=12.670826794846274
+
+nparam= 320
+	log prob= -148.85138052095655
+	burn in time= 0.560736894607544
+	sample time= 5.303069591522217
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.57980913e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.57980913e+02       1.596592e-02
+     2           8024       -1.57980913e+02       1.625859e-02
+     5           3209       -1.57981093e+02       1.638066e-02
+    10           1604       -1.57981304e+02       1.689196e-02
+    20            802       -1.57981304e+02       1.679151e-02
+    50            320       -1.57980483e+02       1.608066e-02
+    70            229       -1.57981006e+02       1.706937e-02
+   100            160       -1.57980483e+02       1.694120e-02
+   200             80       -1.57980483e+02       1.917571e-02
+   500             32       -1.57980483e+02       1.948413e-02
+Stocahstic error estimate: 1.625859e-02
+
+step=5,E=-0.9873807067398743,dE=-0.010219641692721382,err=0.00010161619674100822,gmax=0.7375748069981274
+	collect g,h time= 0.13385891914367676
+	solver time=2.195540428161621,exit status=0
+niter= 6
+	collect S matrix time= 0.41947484016418457
+	collect H matrix time= 0.4089772701263428
+	RGN solver time=3.632782459259033,least eigenvalue=0.00199999995383785,eps=0.5
+pure_newton= False
+niter= 10
+	solver time=7.643245220184326,exit status=0
+hessian inversion error= 7.598280311699662e-05
+rgn delta error= 3.505147892355109e-05
+	log prob= -146.99591923850744
+	burn in time= 0.5657830238342285
+	sample time= 4.904101610183716
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.58913888e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.58913888e+02       1.178353e-02
+     2           8024       -1.58913888e+02       1.185329e-02
+     5           3209       -1.58913908e+02       1.222792e-02
+    10           1604       -1.58913802e+02       1.222687e-02
+    20            802       -1.58913802e+02       1.228888e-02
+    50            320       -1.58912580e+02       1.227636e-02
+    70            229       -1.58913768e+02       1.150417e-02
+   100            160       -1.58912580e+02       1.247122e-02
+   200             80       -1.58912580e+02       1.319606e-02
+   500             32       -1.58912580e+02       1.370147e-02
+Stocahstic error estimate: 1.185329e-02
+
+	predict=-0.5303040304050679,actual=(array([-0.932975]), array([0.011853]))
+	g=2.1188430031641587,del=0.5250554551422079,dot=1.060608459219202,x=12.660003287162036
+
+nparam= 320
+	log prob= -146.99591923850744
+	burn in time= 0.5607483386993408
+	sample time= 5.265773296356201
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.58887847e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.58887847e+02       1.190461e-02
+     2           8024       -1.58887847e+02       1.210124e-02
+     5           3209       -1.58887816e+02       1.236915e-02
+    10           1604       -1.58887838e+02       1.264723e-02
+    20            802       -1.58887838e+02       1.228639e-02
+    50            320       -1.58887469e+02       1.321139e-02
+    70            229       -1.58887707e+02       1.287339e-02
+   100            160       -1.58887469e+02       1.269587e-02
+   200             80       -1.58887469e+02       1.291915e-02
+   500             32       -1.58887469e+02       1.415948e-02
+Stocahstic error estimate: 1.210124e-02
+
+step=6,E=-0.9930490441743594,dE=-0.005668337434484983,err=7.563272006865962e-05,gmax=0.4825775990304422
+	collect g,h time= 0.13370442390441895
+niter= 6
+	solver time=2.2284023761749268,exit status=0
+	collect S matrix time= 0.4203188419342041
+	collect H matrix time= 0.3626232147216797
+	RGN solver time=3.660076379776001,least eigenvalue=0.001999999938284363,eps=0.5
+pure_newton= False
+niter= 9
+	solver time=7.305038213729858,exit status=0
+hessian inversion error= 5.0031213123377625e-05
+rgn delta error= 1.5018554338064844e-05
+	log prob= -143.29207541974387
+	burn in time= 0.560554027557373
+	sample time= 4.952319622039795
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59428259e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59428259e+02       8.426296e-03
+     2           8024       -1.59428259e+02       8.423374e-03
+     5           3209       -1.59428021e+02       8.445020e-03
+    10           1604       -1.59428182e+02       8.559519e-03
+    20            802       -1.59428182e+02       8.548389e-03
+    50            320       -1.59428126e+02       8.420039e-03
+    70            229       -1.59428131e+02       8.702967e-03
+   100            160       -1.59428126e+02       8.359808e-03
+   200             80       -1.59428126e+02       8.477854e-03
+   500             32       -1.59428126e+02       7.090024e-03
+Stocahstic error estimate: 8.426296e-03
+
+	predict=-0.3326798676033342,actual=(array([-0.540412]), array([0.008426]))
+	g=1.5551828979019366,del=0.4367745871442405,dot=0.6653598646543245,x=12.656649321204133
+
+nparam= 320
+	log prob= -143.29207541974387
+	burn in time= 0.5562987327575684
+	sample time= 5.241989850997925
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59422464e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59422464e+02       8.408621e-03
+     2           8024       -1.59422464e+02       8.520877e-03
+     5           3209       -1.59422473e+02       8.489390e-03
+    10           1604       -1.59422552e+02       8.566713e-03
+    20            802       -1.59422552e+02       8.472462e-03
+    50            320       -1.59422098e+02       8.908515e-03
+    70            229       -1.59422517e+02       8.927510e-03
+   100            160       -1.59422098e+02       8.328962e-03
+   200             80       -1.59422098e+02       9.064686e-03
+   500             32       -1.59422098e+02       9.361926e-03
+Stocahstic error estimate: 8.520877e-03
+
+step=7,E=-0.996390399960793,dE=-0.0033413557864337305,err=5.3255481620406565e-05,gmax=0.3133198773871868
+	collect g,h time= 0.1333911418914795
+niter= 5
+	solver time=1.7215075492858887,exit status=0
+	collect S matrix time= 0.7452242374420166
+	collect H matrix time= 0.6401493549346924
+	RGN solver time=3.626605272293091,least eigenvalue=0.0019999999526904614,eps=0.5
+pure_newton= False
+niter= 9
+	solver time=6.879540681838989,exit status=0
+hessian inversion error= 2.3328981333762953e-05
+rgn delta error= 6.927038670076796e-06
+	log prob= -145.17853754376
+	burn in time= 0.5571715831756592
+	sample time= 4.8562963008880615
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59711160e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59711160e+02       6.013318e-03
+     2           8024       -1.59711160e+02       6.064514e-03
+     5           3209       -1.59711157e+02       6.069244e-03
+    10           1604       -1.59711306e+02       5.986772e-03
+    20            802       -1.59711306e+02       5.886810e-03
+    50            320       -1.59711400e+02       5.840152e-03
+    70            229       -1.59711405e+02       6.057519e-03
+   100            160       -1.59711400e+02       6.089282e-03
+   200             80       -1.59711400e+02       6.630492e-03
+   500             32       -1.59711400e+02       6.688169e-03
+Stocahstic error estimate: 6.064514e-03
+
+	predict=-0.16213983653614622,actual=(array([-0.288696]), array([0.006065]))
+	g=1.0710212387547053,del=0.30889072060248723,dot=0.324279697318845,x=12.652881627410453
+
+nparam= 320
+	log prob= -145.17853754376
+	burn in time= 0.5577225685119629
+	sample time= 5.222853899002075
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59714962e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59714962e+02       6.086151e-03
+     2           8024       -1.59714962e+02       6.141152e-03
+     5           3209       -1.59714938e+02       6.160945e-03
+    10           1604       -1.59714830e+02       6.311369e-03
+    20            802       -1.59714830e+02       6.387939e-03
+    50            320       -1.59714997e+02       6.978603e-03
+    70            229       -1.59714854e+02       6.403035e-03
+   100            160       -1.59714997e+02       6.586002e-03
+   200             80       -1.59714997e+02       6.648852e-03
+   500             32       -1.59714997e+02       6.734783e-03
+Stocahstic error estimate: 6.141152e-03
+
+step=8,E=-0.9982185113261023,dE=-0.0018281113653092263,err=3.83821994184693e-05,gmax=0.23848991628044303
+	collect g,h time= 0.133958101272583
+niter= 5
+	solver time=1.697622537612915,exit status=0
+	collect S matrix time= 0.7480809688568115
+	collect H matrix time= 0.6059932708740234
+	RGN solver time=3.6769165992736816,least eigenvalue=0.001999999949006921,eps=0.5
+pure_newton= False
+niter= 9
+	solver time=6.786194801330566,exit status=0
+hessian inversion error= 2.247294121973596e-05
+rgn delta error= 7.024968392088952e-06
+	log prob= -147.82324124273924
+	burn in time= 0.5609161853790283
+	sample time= 4.846170902252197
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59850155e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59850155e+02       4.313555e-03
+     2           8024       -1.59850155e+02       4.379812e-03
+     5           3209       -1.59850187e+02       4.414533e-03
+    10           1604       -1.59850157e+02       4.425472e-03
+    20            802       -1.59850157e+02       4.380601e-03
+    50            320       -1.59849815e+02       4.479547e-03
+    70            229       -1.59850189e+02       4.721549e-03
+   100            160       -1.59849815e+02       4.596545e-03
+   200             80       -1.59849815e+02       4.794563e-03
+   500             32       -1.59849815e+02       4.987955e-03
+Stocahstic error estimate: 4.379812e-03
+
+	predict=-0.08562578954644934,actual=(array([-0.135193]), array([0.00438]))
+	g=0.7814199756435285,del=0.2235417502397382,dot=0.17125156458634105,x=12.65108576028696
+
+nparam= 320
+	log prob= -147.82324124273924
+	burn in time= 0.5547959804534912
+	sample time= 5.224464178085327
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59843097e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59843097e+02       4.318853e-03
+     2           8024       -1.59843097e+02       4.365506e-03
+     5           3209       -1.59843019e+02       4.396375e-03
+    10           1604       -1.59842918e+02       4.440651e-03
+    20            802       -1.59842918e+02       4.540241e-03
+    50            320       -1.59842868e+02       4.785524e-03
+    70            229       -1.59842975e+02       4.893772e-03
+   100            160       -1.59842868e+02       4.756860e-03
+   200             80       -1.59842868e+02       4.848249e-03
+   500             32       -1.59842868e+02       4.918832e-03
+Stocahstic error estimate: 4.365506e-03
+
+step=9,E=-0.999019358270108,dE=-0.0008008469440056842,err=2.728441148531315e-05,gmax=0.17454961297668348
+	collect g,h time= 0.13398194313049316
+niter= 5
+	solver time=1.7221496105194092,exit status=0
+	collect S matrix time= 0.7453620433807373
+	collect H matrix time= 0.6119227409362793
+	RGN solver time=3.6036672592163086,least eigenvalue=0.0019999999454414726,eps=0.5
+pure_newton= False
+niter= 8
+	solver time=6.065882205963135,exit status=0
+hessian inversion error= 9.448718471795605e-05
+rgn delta error= 3.3909014046460416e-05
+	log prob= -150.83599504347123
+	burn in time= 0.5563986301422119
+	sample time= 4.832695245742798
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59921401e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59921401e+02       3.087907e-03
+     2           8024       -1.59921401e+02       3.127319e-03
+     5           3209       -1.59921415e+02       3.161741e-03
+    10           1604       -1.59921501e+02       3.212167e-03
+    20            802       -1.59921501e+02       3.117368e-03
+    50            320       -1.59921633e+02       3.254166e-03
+    70            229       -1.59921367e+02       3.148270e-03
+   100            160       -1.59921633e+02       3.242655e-03
+   200             80       -1.59921633e+02       3.198937e-03
+   500             32       -1.59921633e+02       3.764651e-03
+Stocahstic error estimate: 3.127319e-03
+
+	predict=-0.043028945915496906,actual=(array([-0.078304]), array([0.003127]))
+	g=0.5500441740370732,del=0.15932824235560425,dot=0.08605783111110898,x=12.650114050427314
+
+nparam= 320
+	log prob= -150.83599504347123
+	burn in time= 0.5504553318023682
+	sample time= 5.197244167327881
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59922138e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59922138e+02       3.058371e-03
+     2           8024       -1.59922138e+02       3.087076e-03
+     5           3209       -1.59922116e+02       3.102480e-03
+    10           1604       -1.59921992e+02       3.141624e-03
+    20            802       -1.59921992e+02       3.234233e-03
+    50            320       -1.59922161e+02       3.078699e-03
+    70            229       -1.59921989e+02       3.248195e-03
+   100            160       -1.59922161e+02       3.265742e-03
+   200             80       -1.59922161e+02       3.383557e-03
+   500             32       -1.59922161e+02       3.646494e-03
+Stocahstic error estimate: 3.087076e-03
+
+step=10,E=-0.9995133641689256,dE=-0.0004940058988175622,err=1.9294225603852482e-05,gmax=0.12593747723006743
+	collect g,h time= 0.13410687446594238
+niter= 6
+	solver time=2.1943166255950928,exit status=0
+	collect S matrix time= 0.3998229503631592
+	collect H matrix time= 0.39429616928100586
+	RGN solver time=3.6872096061706543,least eigenvalue=0.0019999999324754204,eps=0.5
+pure_newton= False
+niter= 8
+	solver time=6.145111083984375,exit status=0
+hessian inversion error= 6.006289013356625e-05
+rgn delta error= 2.1812875162105763e-05
+	log prob= -154.22646546750377
+	burn in time= 0.5519392490386963
+	sample time= 4.8239641189575195
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59955955e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59955955e+02       2.231243e-03
+     2           8024       -1.59955955e+02       2.247696e-03
+     5           3209       -1.59955926e+02       2.248080e-03
+    10           1604       -1.59955850e+02       2.304855e-03
+    20            802       -1.59955850e+02       2.305332e-03
+    50            320       -1.59955863e+02       2.288209e-03
+    70            229       -1.59955847e+02       2.331525e-03
+   100            160       -1.59955863e+02       2.358662e-03
+   200             80       -1.59955863e+02       2.415339e-03
+   500             32       -1.59955863e+02       2.731000e-03
+Stocahstic error estimate: 2.247696e-03
+
+	predict=-0.021282262422307248,actual=(array([-0.033816]), array([0.002248]))
+	g=0.3861815510573909,del=0.11199233854716821,dot=0.042564482805312484,x=12.649606408259094
+
+nparam= 320
+	log prob= -154.22646546750377
+	burn in time= 0.5502774715423584
+	sample time= 5.189744234085083
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59961950e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59961950e+02       2.183096e-03
+     2           8024       -1.59961950e+02       2.206465e-03
+     5           3209       -1.59961912e+02       2.221761e-03
+    10           1604       -1.59961869e+02       2.243687e-03
+    20            802       -1.59961869e+02       2.236174e-03
+    50            320       -1.59961994e+02       2.179506e-03
+    70            229       -1.59961943e+02       2.102556e-03
+   100            160       -1.59961994e+02       2.108407e-03
+   200             80       -1.59961994e+02       2.082236e-03
+   500             32       -1.59961994e+02       1.949768e-03
+Stocahstic error estimate: 2.206465e-03
+
+step=11,E=-0.9997621847677847,dE=-0.0002488205988591119,err=1.3790403903687973e-05,gmax=0.09647599501354165
+	collect g,h time= 0.13335919380187988
+niter= 6
+	solver time=2.227936029434204,exit status=0
+	collect S matrix time= 0.4198110103607178
+	collect H matrix time= 0.4226856231689453
+	RGN solver time=3.594571590423584,least eigenvalue=0.00199999992988636,eps=0.5
+pure_newton= False
+niter= 9
+	solver time=6.881718397140503,exit status=0
+hessian inversion error= 2.307734399224985e-05
+rgn delta error= 8.049921749683848e-06
+	log prob= -160.67752321476593
+	burn in time= 0.5554320812225342
+	sample time= 4.81969428062439
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59981671e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59981671e+02       1.554015e-03
+     2           8024       -1.59981671e+02       1.551298e-03
+     5           3209       -1.59981687e+02       1.575059e-03
+    10           1604       -1.59981701e+02       1.582630e-03
+    20            802       -1.59981701e+02       1.594198e-03
+    50            320       -1.59981823e+02       1.589334e-03
+    70            229       -1.59981707e+02       1.623127e-03
+   100            160       -1.59981823e+02       1.673229e-03
+   200             80       -1.59981823e+02       1.712220e-03
+   500             32       -1.59981823e+02       1.854450e-03
+Stocahstic error estimate: 1.554015e-03
+
+	predict=-0.010743157711832638,actual=(array([-0.019721]), array([0.001554]))
+	g=0.2754465442231236,del=0.07945517214327719,dot=0.021486309926042703,x=12.649360186362788
+
+nparam= 320
+	log prob= -160.67752321476593
+	burn in time= 0.5524022579193115
+	sample time= 5.187574863433838
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59978303e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59978303e+02       1.557547e-03
+     2           8024       -1.59978303e+02       1.573121e-03
+     5           3209       -1.59978302e+02       1.599308e-03
+    10           1604       -1.59978335e+02       1.649021e-03
+    20            802       -1.59978335e+02       1.629587e-03
+    50            320       -1.59978399e+02       1.725457e-03
+    70            229       -1.59978322e+02       1.769066e-03
+   100            160       -1.59978399e+02       1.824460e-03
+   200             80       -1.59978399e+02       2.014180e-03
+   500             32       -1.59978399e+02       2.166623e-03
+Stocahstic error estimate: 1.573121e-03
+
+step=12,E=-0.9998643907202979,dE=-0.0001022059525132235,err=9.832008509076939e-06,gmax=0.06685444042505395
+	collect g,h time= 0.13440966606140137
+niter= 5
+	solver time=1.69771409034729,exit status=0
+	collect S matrix time= 0.7432334423065186
+	collect H matrix time= 0.6437888145446777
+	RGN solver time=3.8626954555511475,least eigenvalue=0.0019999999405088476,eps=0.5
+pure_newton= False
+niter= 8
+	solver time=5.936931133270264,exit status=0
+hessian inversion error= 2.0457788875633435e-05
+rgn delta error= 7.5663341749017695e-06
+	log prob= -161.62742087627083
+	burn in time= 0.550126314163208
+	sample time= 4.909717321395874
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59985914e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59985914e+02       1.123309e-03
+     2           8024       -1.59985914e+02       1.118858e-03
+     5           3209       -1.59985908e+02       1.159325e-03
+    10           1604       -1.59985917e+02       1.168017e-03
+    20            802       -1.59985917e+02       1.158275e-03
+    50            320       -1.59985987e+02       1.113981e-03
+    70            229       -1.59985952e+02       1.156282e-03
+   100            160       -1.59985987e+02       1.045235e-03
+   200             80       -1.59985987e+02       1.058587e-03
+   500             32       -1.59985987e+02       1.012817e-03
+Stocahstic error estimate: 1.123309e-03
+
+	predict=-0.0053978988661784934,actual=(array([-0.007612]), array([0.001123]))
+	g=0.19901203116496435,del=0.0549164236275102,dot=0.010795795040580687,x=12.649229850610588
+
+nparam= 320
+	log prob= -161.62742087627083
+	burn in time= 0.554091215133667
+	sample time= 16.913468837738037
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59987783e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59987783e+02       1.118690e-03
+     2           8024       -1.59987783e+02       1.126234e-03
+     5           3209       -1.59987779e+02       1.132197e-03
+    10           1604       -1.59987780e+02       1.150857e-03
+    20            802       -1.59987780e+02       1.135699e-03
+    50            320       -1.59987777e+02       1.188822e-03
+    70            229       -1.59987788e+02       1.127433e-03
+   100            160       -1.59987777e+02       1.148994e-03
+   200             80       -1.59987777e+02       1.159915e-03
+   500             32       -1.59987777e+02       1.271364e-03
+Stocahstic error estimate: 1.126234e-03
+
+step=13,E=-0.9999236441329998,dE=-5.9253412701920635e-05,err=7.038959948524001e-06,gmax=0.04717439545368052
+	collect g,h time= 0.13299274444580078
+niter= 5
+	solver time=1.724877119064331,exit status=0
+	collect S matrix time= 0.7438709735870361
+	collect H matrix time= 0.6142523288726807
+	RGN solver time=3.7214696407318115,least eigenvalue=0.0019999999458598784,eps=0.5
+pure_newton= False
+	solver time=5.564403533935547,exit status=0
+niter= 7
+hessian inversion error= 7.795544693326323e-05
+rgn delta error= 2.644661400836426e-05
+	log prob= -162.35389112971097
+	burn in time= 0.5547738075256348
+	sample time= 4.8949244022369385
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59994319e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59994319e+02       8.048330e-04
+     2           8024       -1.59994319e+02       8.027139e-04
+     5           3209       -1.59994313e+02       8.229564e-04
+    10           1604       -1.59994330e+02       8.266934e-04
+    20            802       -1.59994330e+02       8.275068e-04
+    50            320       -1.59994383e+02       8.377585e-04
+    70            229       -1.59994294e+02       8.093974e-04
+   100            160       -1.59994383e+02       8.152142e-04
+   200             80       -1.59994383e+02       8.384024e-04
+   500             32       -1.59994383e+02       8.651318e-04
+Stocahstic error estimate: 8.048330e-04
+
+	predict=-0.0027792353895897894,actual=(array([-0.006536]), array([0.000805]))
+	g=0.14183530727997762,del=0.03956236209155937,dot=0.005558465242984242,x=12.649172509714749
+
+nparam= 320
+	log prob= -162.35389112971097
+	burn in time= 0.5499413013458252
+	sample time= 5.185601711273193
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59994417e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59994417e+02       8.157702e-04
+     2           8024       -1.59994417e+02       8.188897e-04
+     5           3209       -1.59994411e+02       8.226049e-04
+    10           1604       -1.59994427e+02       8.179292e-04
+    20            802       -1.59994427e+02       8.171227e-04
+    50            320       -1.59994413e+02       7.927091e-04
+    70            229       -1.59994425e+02       8.579803e-04
+   100            160       -1.59994413e+02       7.713852e-04
+   200             80       -1.59994413e+02       7.444613e-04
+   500             32       -1.59994413e+02       7.860773e-04
+Stocahstic error estimate: 8.188897e-04
+
+step=14,E=-0.9999651079664617,dE=-4.146383346181892e-05,err=5.118060443676048e-06,gmax=0.028758572240072056
+	collect g,h time= 0.13441014289855957
+	solver time=1.6970815658569336,exit status=0
+niter= 5
+	collect S matrix time= 0.7469162940979004
+	collect H matrix time= 0.60807204246521
+	RGN solver time=3.8197646141052246,least eigenvalue=0.00199999993278298,eps=0.5
+pure_newton= False
+niter= 7
+	solver time=5.0891172885894775,exit status=0
+hessian inversion error= 7.90207137392312e-05
+rgn delta error= 2.700177056012755e-05
+	log prob= -162.89571901478794
+	burn in time= 0.5533370971679688
+	sample time= 4.825606346130371
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59995888e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59995888e+02       5.968176e-04
+     2           8024       -1.59995888e+02       5.993644e-04
+     5           3209       -1.59995892e+02       6.040790e-04
+    10           1604       -1.59995898e+02       5.973611e-04
+    20            802       -1.59995898e+02       5.968380e-04
+    50            320       -1.59995930e+02       6.165401e-04
+    70            229       -1.59995890e+02       6.115120e-04
+   100            160       -1.59995930e+02       6.175510e-04
+   200             80       -1.59995930e+02       5.950972e-04
+   500             32       -1.59995930e+02       5.509646e-04
+Stocahstic error estimate: 5.993644e-04
+
+	predict=-0.001464732721219346,actual=(array([-0.001471]), array([0.000599]))
+	g=0.10417046400364076,del=0.028403789304917385,dot=0.0029294469151902834,x=12.649142531224362
+
+nparam= 320
+	log prob= -162.89571901478794
+	burn in time= 0.5502793788909912
+	sample time= 7.134165287017822
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59996180e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59996180e+02       5.937172e-04
+     2           8024       -1.59996180e+02       5.920109e-04
+     5           3209       -1.59996177e+02       5.901529e-04
+    10           1604       -1.59996175e+02       5.821794e-04
+    20            802       -1.59996175e+02       5.741277e-04
+    50            320       -1.59996212e+02       5.986524e-04
+    70            229       -1.59996177e+02       6.125531e-04
+   100            160       -1.59996212e+02       5.977123e-04
+   200             80       -1.59996212e+02       6.056006e-04
+   500             32       -1.59996212e+02       6.317611e-04
+Stocahstic error estimate: 5.937172e-04
+
+step=15,E=-0.9999761228610856,dE=-1.101489462396188e-05,err=3.7107325853193545e-06,gmax=0.027339606851548126
+	collect g,h time= 0.13348817825317383
+	solver time=2.2282907962799072,exit status=0
+niter= 6
+	collect S matrix time= 0.4206728935241699
+	collect H matrix time= 0.3730134963989258
+	RGN solver time=3.6548330783843994,least eigenvalue=0.0019999999436387398,eps=0.5
+pure_newton= False
+niter= 7
+	solver time=5.160301923751831,exit status=0
+hessian inversion error= 4.438540444467793e-05
+rgn delta error= 1.5993586267210964e-05
+	log prob= -163.2974978849619
+	burn in time= 0.5516476631164551
+	sample time= 4.807434797286987
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59997384e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59997384e+02       4.323334e-04
+     2           8024       -1.59997384e+02       4.310966e-04
+     5           3209       -1.59997383e+02       4.379882e-04
+    10           1604       -1.59997375e+02       4.399588e-04
+    20            802       -1.59997375e+02       4.414801e-04
+    50            320       -1.59997389e+02       4.664567e-04
+    70            229       -1.59997379e+02       4.550542e-04
+   100            160       -1.59997389e+02       4.732141e-04
+   200             80       -1.59997389e+02       4.574410e-04
+   500             32       -1.59997389e+02       4.247025e-04
+Stocahstic error estimate: 4.323334e-04
+
+	predict=-0.0007772475145706358,actual=(array([-0.001204]), array([0.000432]))
+	g=0.07629755470526946,del=0.020543652876754418,dot=0.0015545032376142038,x=12.649127323325073
+
+nparam= 320
+	log prob= -163.2974978849619
+	burn in time= 0.5509953498840332
+	sample time= 5.186925172805786
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59997346e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59997346e+02       4.289735e-04
+     2           8024       -1.59997346e+02       4.285733e-04
+     5           3209       -1.59997351e+02       4.365808e-04
+    10           1604       -1.59997369e+02       4.326486e-04
+    20            802       -1.59997369e+02       4.277609e-04
+    50            320       -1.59997413e+02       4.418509e-04
+    70            229       -1.59997386e+02       4.774909e-04
+   100            160       -1.59997413e+02       4.274248e-04
+   200             80       -1.59997413e+02       4.743456e-04
+   500             32       -1.59997413e+02       3.202624e-04
+Stocahstic error estimate: 4.289735e-04
+
+step=16,E=-0.9999834118417527,dE=-7.288980667041756e-06,err=2.681084251429048e-06,gmax=0.013641212344463582
+	collect g,h time= 0.13378524780273438
+niter= 5
+	solver time=1.7217118740081787,exit status=0
+	collect S matrix time= 0.7445728778839111
+	collect H matrix time= 0.6043961048126221
+	RGN solver time=3.6841042041778564,least eigenvalue=0.0019999999370523937,eps=0.5
+pure_newton= False
+niter= 7
+	solver time=5.164581298828125,exit status=0
+hessian inversion error= 2.8180878449313922e-05
+rgn delta error= 9.310323853269802e-06
+	log prob= -163.59145769226745
+	burn in time= 0.5520293712615967
+	sample time= 4.812702178955078
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59998566e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59998566e+02       3.121948e-04
+     2           8024       -1.59998566e+02       3.110758e-04
+     5           3209       -1.59998561e+02       3.147041e-04
+    10           1604       -1.59998552e+02       3.064960e-04
+    20            802       -1.59998552e+02       3.065224e-04
+    50            320       -1.59998558e+02       2.936085e-04
+    70            229       -1.59998555e+02       3.060534e-04
+   100            160       -1.59998558e+02       2.981693e-04
+   200             80       -1.59998558e+02       2.883812e-04
+   500             32       -1.59998558e+02       3.109277e-04
+Stocahstic error estimate: 3.121948e-04
+
+	predict=-0.00040225584370021886,actual=(array([-0.00122]), array([0.000312]))
+	g=0.054625888336437875,del=0.014855619544568275,dot=0.0008045100692699278,x=12.64911936418568
+
+nparam= 320
+	log prob= -163.59145769226745
+	burn in time= 0.5503866672515869
+	sample time= 5.173921585083008
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59998713e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59998713e+02       3.095650e-04
+     2           8024       -1.59998713e+02       3.132798e-04
+     5           3209       -1.59998722e+02       3.099222e-04
+    10           1604       -1.59998728e+02       3.087996e-04
+    20            802       -1.59998728e+02       3.103671e-04
+    50            320       -1.59998748e+02       3.174419e-04
+    70            229       -1.59998734e+02       3.247037e-04
+   100            160       -1.59998748e+02       2.959648e-04
+   200             80       -1.59998748e+02       2.809645e-04
+   500             32       -1.59998748e+02       2.745751e-04
+Stocahstic error estimate: 3.132798e-04
+
+step=17,E=-0.9999919549164679,dE=-8.54307471520599e-06,err=1.957998886786477e-06,gmax=0.009022564280739331
+	collect g,h time= 0.13327860832214355
+niter= 5
+	solver time=1.7214434146881104,exit status=0
+	collect S matrix time= 0.7470314502716064
+	collect H matrix time= 0.600071907043457
+	RGN solver time=3.6349637508392334,least eigenvalue=0.001999999937496751,eps=0.5
+pure_newton= False
+niter= 6
+	solver time=4.300078868865967,exit status=0
+hessian inversion error= 7.223580622402598e-05
+rgn delta error= 2.4801297097720373e-05
+	log prob= -163.80573681251116
+	burn in time= 0.5556931495666504
+	sample time= 4.8100972175598145
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59999055e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59999055e+02       2.284506e-04
+     2           8024       -1.59999055e+02       2.274947e-04
+     5           3209       -1.59999055e+02       2.296419e-04
+    10           1604       -1.59999059e+02       2.300205e-04
+    20            802       -1.59999059e+02       2.309549e-04
+    50            320       -1.59999057e+02       2.246954e-04
+    70            229       -1.59999066e+02       2.380256e-04
+   100            160       -1.59999057e+02       2.258537e-04
+   200             80       -1.59999057e+02       1.919214e-04
+   500             32       -1.59999057e+02       2.057920e-04
+Stocahstic error estimate: 2.284506e-04
+
+	predict=-0.00020861871352296384,actual=(array([-0.000342]), array([0.000228]))
+	g=0.03908043329336522,del=0.01076916115848186,dot=0.00041723912943843064,x=12.649115224980168
+
+nparam= 320
+	log prob= -163.80573681251116
+	burn in time= 0.5527012348175049
+	sample time= 5.177040338516235
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59998873e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59998873e+02       2.270190e-04
+     2           8024       -1.59998873e+02       2.272907e-04
+     5           3209       -1.59998869e+02       2.283287e-04
+    10           1604       -1.59998868e+02       2.311870e-04
+    20            802       -1.59998868e+02       2.429671e-04
+    50            320       -1.59998869e+02       2.440933e-04
+    70            229       -1.59998877e+02       2.478744e-04
+   100            160       -1.59998869e+02       2.489909e-04
+   200             80       -1.59998869e+02       2.124097e-04
+   500             32       -1.59998869e+02       2.241489e-04
+Stocahstic error estimate: 2.272907e-04
+
+step=18,E=-0.9999929589778294,dE=-1.0040613615203143e-06,err=1.4205670467673785e-06,gmax=0.005598278260510625
+	collect g,h time= 0.1332693099975586
+niter= 5
+	solver time=1.7232208251953125,exit status=0
+	collect S matrix time= 0.7453317642211914
+	collect H matrix time= 0.5949504375457764
+	RGN solver time=3.6474556922912598,least eigenvalue=0.001999999935196068,eps=0.5
+pure_newton= False
+	solver time=4.7148354053497314,exit status=0
+niter= 6
+hessian inversion error= 7.123150156888221e-05
+rgn delta error= 2.4513200239177003e-05
+	log prob= -163.96066155850932
+	burn in time= 0.5532701015472412
+	sample time= 4.894105911254883
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59998573e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59998573e+02       1.667851e-04
+     2           8024       -1.59998573e+02       1.691303e-04
+     5           3209       -1.59998573e+02       1.710167e-04
+    10           1604       -1.59998572e+02       1.731955e-04
+    20            802       -1.59998572e+02       1.760331e-04
+    50            320       -1.59998597e+02       1.892218e-04
+    70            229       -1.59998578e+02       1.781884e-04
+   100            160       -1.59998597e+02       1.963640e-04
+   200             80       -1.59998597e+02       1.733092e-04
+   500             32       -1.59998597e+02       1.490204e-04
+Stocahstic error estimate: 1.691303e-04
+
+	predict=-0.00011162674320086938,actual=(array([0.000301]), array([0.000169]))
+	g=0.02883771452094515,del=0.028817352285809054,dot=0.0008261977599125199,x=12.649110968933684
+
+nparam= 320
+	log prob= -163.86084956715703
+	burn in time= 0.5491127967834473
+	sample time= 5.175882339477539
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59998721e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59998721e+02       2.037871e-04
+     2           8024       -1.59998721e+02       2.074382e-04
+     5           3209       -1.59998721e+02       2.079878e-04
+    10           1604       -1.59998718e+02       2.080552e-04
+    20            802       -1.59998718e+02       2.079553e-04
+    50            320       -1.59998709e+02       2.090523e-04
+    70            229       -1.59998711e+02       2.092713e-04
+   100            160       -1.59998709e+02       2.183207e-04
+   200             80       -1.59998709e+02       2.118281e-04
+   500             32       -1.59998709e+02       2.357565e-04
+Stocahstic error estimate: 2.074382e-04
+
+step=19,E=-0.9999920086566488,dE=9.503211805039769e-07,err=1.2964887908156838e-06,gmax=0.004404140303732262
+	collect g,h time= 0.13307976722717285
+	solver time=2.192544460296631,exit status=0
+niter= 6
+	collect S matrix time= 0.4237861633300781
+	collect H matrix time= 0.4252960681915283
+	RGN solver time=3.7048802375793457,least eigenvalue=0.0019999999417682998,eps=0.5
+pure_newton= False
+	solver time=4.244638919830322,exit status=0
+niter= 6
+hessian inversion error= 8.302473459064788e-05
+rgn delta error= 2.713908004650488e-05
+	log prob= -164.00090230146503
+	burn in time= 0.5522692203521729
+	sample time= 4.809693336486816
+	contraction err= 0.0 0.0
+nsamples= 16048
+
+Mean energy: -1.59998640e+02
+Block size    # of blocks        Mean                Error
+     1           16048       -1.59998640e+02       1.503856e-04
+     2           8024       -1.59998640e+02       1.519616e-04
+     5           3209       -1.59998638e+02       1.510412e-04
+    10           1604       -1.59998633e+02       1.501720e-04
+    20            802       -1.59998633e+02       1.480702e-04
+    50            320       -1.59998638e+02       1.397233e-04
+    70            229       -1.59998629e+02       1.402763e-04
+   100            160       -1.59998638e+02       1.361686e-04
+   200             80       -1.59998638e+02       1.290740e-04
+   500             32       -1.59998638e+02       1.324198e-04
+Stocahstic error estimate: 1.519616e-04
+
+	predict=-8.988661347584623e-05,actual=(array([0.000081]), array([0.000152]))
+	g=0.025802475307280488,del=0.025936482109700808,dot=0.0006657035482766215,x=12.649110906582093
+[[ 0.99076  -0.13563 ]
+ [ 0.655235 -0.755425]
+ [ 0.827561 -0.561375]
+ [ 0.935342 -0.353746]
+ [ 0.709368 -0.704839]
+ [ 0.650766 -0.759278]
+ [ 0.133998 -0.990982]
+ [ 0.809998 -0.586433]
+ [ 0.73272  -0.68053 ]
+ [ 0.957087 -0.289801]
+ [ 0.488691 -0.872457]
+ [ 0.293065 -0.956092]
+ [ 0.780051 -0.625716]
+ [ 0.423818 -0.905748]
+ [ 0.926707 -0.375784]
+ [ 0.399439 -0.91676 ]
+ [ 0.82386  -0.566793]
+ [ 0.5517   -0.834043]
+ [ 0.836744 -0.547594]
+ [ 0.541824 -0.840492]
+ [ 0.2265   -0.974011]
+ [ 0.500376 -0.865808]
+ [ 0.926809 -0.375534]
+ [ 0.513114 -0.85832 ]
+ [ 0.84665  -0.532151]
+ [ 0.973558 -0.228442]
+ [ 0.746756 -0.665098]
+ [ 0.518446 -0.85511 ]
+ [ 0.862603 -0.505882]
+ [ 0.482299 -0.876006]
+ [ 0.315716 -0.948854]
+ [ 0.562003 -0.827136]
+ [ 0.783605 -0.621259]
+ [ 0.870001 -0.49305 ]
+ [ 0.536459 -0.843926]
+ [-0.301478 -0.953473]
+ [ 0.595493 -0.80336 ]
+ [ 0.859052 -0.511888]
+ [ 0.571546 -0.82057 ]
+ [ 0.734437 -0.678677]
+ [ 0.77484  -0.632158]
+ [ 0.451595 -0.892223]
+ [ 0.249405 -0.968399]
+ [ 0.404441 -0.914564]
+ [ 0.345774 -0.938318]
+ [ 0.682089 -0.731269]
+ [ 0.927014 -0.375026]
+ [-0.940647 -0.339387]
+ [ 0.295338 -0.955393]
+ [ 0.863522 -0.504312]
+ [ 0.069477 -0.997584]
+ [ 0.741895 -0.670516]
+ [ 0.59735  -0.801981]
+ [-0.367303 -0.930101]
+ [ 0.73115  -0.682217]
+ [ 0.795923 -0.605398]
+ [ 0.924423 -0.381368]
+ [ 0.962645 -0.270768]
+ [ 0.797035 -0.603933]
+ [ 0.420372 -0.907352]
+ [ 0.950484 -0.310775]
+ [ 0.720628 -0.693321]
+ [ 0.566008 -0.8244  ]
+ [ 0.864545 -0.502556]
+ [ 0.536278 -0.844042]
+ [ 0.753866 -0.657028]
+ [ 0.825286 -0.564715]
+ [ 0.868598 -0.495518]
+ [ 0.748586 -0.663037]
+ [ 0.328097 -0.944644]
+ [ 0.451751 -0.892144]
+ [ 0.729961 -0.683489]
+ [ 0.841676 -0.539982]
+ [ 0.47437  -0.880325]
+ [ 0.687609 -0.726081]
+ [ 0.778166 -0.628059]
+ [ 0.856981 -0.515348]
+ [ 0.668856 -0.743392]
+ [ 0.863685 -0.504032]
+ [ 0.735097 -0.677961]
+ [ 0.72582  -0.687884]
+ [ 0.525695 -0.850673]
+ [ 0.572363 -0.820001]
+ [ 0.998298 -0.058325]
+ [ 0.715628 -0.698482]
+ [ 0.837789 -0.545994]
+ [ 0.870849 -0.491551]
+ [ 0.63603  -0.771664]
+ [ 0.92165  -0.388023]
+ [ 0.617093 -0.78689 ]
+ [ 0.546368 -0.837545]
+ [ 0.554264 -0.832341]
+ [ 0.165571 -0.986198]
+ [ 0.946616 -0.322362]
+ [ 0.803433 -0.595395]
+ [-0.471063 -0.8821  ]
+ [ 0.438179 -0.898888]
+ [ 0.926612 -0.376019]
+ [ 0.782608 -0.622515]
+ [ 0.801205 -0.598389]
+ [ 0.156743 -0.987639]
+ [ 0.477066 -0.878867]
+ [ 0.733585 -0.679598]
+ [ 0.941388 -0.337325]
+ [ 0.663439 -0.74823 ]
+ [ 0.989133 -0.147027]
+ [ 0.45038  -0.892837]
+ [ 0.501014 -0.865439]
+ [ 0.867047 -0.498226]
+ [ 0.745873 -0.666088]
+ [ 0.831994 -0.554785]
+ [ 0.775461 -0.631395]
+ [ 0.310171 -0.950681]
+ [ 0.425872 -0.904783]
+ [ 0.884415 -0.466701]
+ [ 0.442107 -0.896962]
+ [ 0.685291 -0.72827 ]
+ [ 0.359846 -0.933012]
+ [ 0.669709 -0.742624]
+ [ 0.944944 -0.327231]
+ [ 0.952134 -0.30568 ]
+ [ 0.724367 -0.689414]
+ [ 0.547982 -0.83649 ]
+ [ 0.932514 -0.361133]
+ [ 0.640781 -0.767724]
+ [ 0.71185  -0.702331]
+ [ 0.969559 -0.24486 ]
+ [ 0.504087 -0.863653]
+ [ 0.656038 -0.754728]
+ [ 0.842891 -0.538085]
+ [ 0.835881 -0.548911]
+ [ 0.163461 -0.98655 ]
+ [ 0.574831 -0.818272]
+ [ 0.552168 -0.833733]
+ [ 0.324101 -0.946022]
+ [ 0.733913 -0.679243]
+ [ 0.844924 -0.534886]
+ [ 0.756979 -0.653439]
+ [ 0.80426  -0.594278]
+ [ 0.767816 -0.64067 ]
+ [ 0.723134 -0.690708]
+ [ 0.81932  -0.573336]
+ [ 0.385714 -0.922619]
+ [ 0.93631  -0.351175]
+ [-0.429315 -0.903155]
+ [ 0.77113  -0.636677]
+ [ 0.898266 -0.439453]
+ [-0.001345 -0.999999]
+ [ 0.873025 -0.487676]
+ [ 0.794792 -0.606882]
+ [ 0.391692 -0.920096]
+ [ 0.616044 -0.787712]
+ [ 0.992664 -0.120909]
+ [ 0.798121 -0.602497]
+ [ 0.453022 -0.891499]
+ [ 0.63583  -0.771829]
+ [ 0.324372 -0.945929]
+ [ 0.895254 -0.445557]
+ [ 0.792485 -0.609891]
+ [ 0.929922 -0.367757]]
