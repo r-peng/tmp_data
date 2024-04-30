@@ -1,0 +1,10 @@
+#!/bin/bash
+#SBATCH --job-name=6x6D4
+#SBATCH --nodes=5
+#SBATCH -C cpu
+#SBATCH --qos regular
+#SBATCH --time=2:00:00
+#SBATCH --ntasks-per-node=128
+#SBATCH --account=m4289
+
+srun -n 640 -c 2 python -u run.py > out.out
