@@ -8,10 +8,10 @@ plt.rcParams.update({'figure.figsize':(6.4,4.8)})
 #plt.rcParams.update({'text.usetex':True})
 
 exact = -0.47437906
+ref = -0.474200
 fig,ax = plt.subplots(nrows=1,ncols=1)
 
-#for tmpdir in ('brick','peps'):
-for tmpdir in ('peps',):
+for tmpdir in ('brick','peps'):
     out = open(tmpdir+'/summary.out', 'r').readlines()
     e = []
     for l in out:
@@ -21,6 +21,9 @@ for tmpdir in ('peps',):
     e = np.array(e)
     e = np.log10(np.fabs((e-exact)/exact)) 
     ax.plot(range(len(e)),e,linestyle='-',label=tmpdir)
+
+e = np.log10(np.fabs((ref - exact)/exact))
+ax.plot(range(600),np.ones(600)*e,linestyle='-',color='k')
     
 ax.set_xlabel('step')
 ax.set_ylabel('log10(rel err)')
