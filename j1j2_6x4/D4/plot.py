@@ -11,7 +11,7 @@ exact = -0.47437906
 ref = -0.474200
 fig,ax = plt.subplots(nrows=1,ncols=1)
 
-for tmpdir in ('brick','peps'):
+for tmpdir in ('peps','brick','brick_rgn'):
     out = open(tmpdir+'/summary.out', 'r').readlines()
     e = []
     for l in out:
